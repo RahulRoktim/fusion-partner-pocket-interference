@@ -1,0 +1,7 @@
+classification	fpocket_REMOVED_scores_top3	fpocket_best_REMOVED_score	fpocket_pockets_ORIGINAL	fpocket_pockets_REMOVED	implementation_problems	input_chain_breaks_gt_4.5A	input_max_dim	input_n_atoms	input_n_residues	input_nan_coords	input_radius_of_gyration	input_residues_without_CA	p2rank_completed_normally	p2rank_pockets_ORIGINAL	p2rank_pockets_REMOVED	p2rank_returncode	p2rank_runtime_s	partner	pdb_id	removed_target_residues	resolution	ss_coil	ss_helix	ss_n_target	ss_pct_helix	ss_pct_strand	ss_strand	topology
+GENUINE_DETECTOR_ABSTENTION	[0.47, 0.374, 0.16]	0.47	24	4	none	0	41.2	741	94	0	14.29	0	True	5	0	0	4.32	MBP	3N94	94	1.8	35	41	94	43.6	19.1	18	TERMINAL_N
+GENUINE_DETECTOR_ABSTENTION	[0.478, 0.251, 0.242]	0.478	22	3	none	0	47.8	981	121	0	14.64	0	True	8	0	0	4.09	MBP	3OAI	121	2.1	52	9	121	7.4	49.6	60	TERMINAL_N
+GENUINE_DETECTOR_ABSTENTION	[0.269]	0.269	35	1	none	0	34.8	679	86	0	12.42	0	True	11	0	0	4.32	MBP	5GPP	86	2.0	8	78	86	90.7	0.0	0	TERMINAL_N
+GENUINE_DETECTOR_ABSTENTION	[0.413, 0.17, 0.112]	0.413	32	5	none	0	42.5	766	94	0	13.45	0	True	8	0	0	4.27	MBP	5H7Q	94	1.451	4	90	94	95.7	0.0	0	TERMINAL_N
+GENUINE_DETECTOR_ABSTENTION	[0.33, 0.3, 0.202]	0.33	39	12	none	0	56.4	1510	182	0	17.43	0	True	3	0	0	4.31	MBP	5JQE	182	3.157	50	132	182	72.5	0.0	0	TERMINAL_N
+GENUINE_DETECTOR_ABSTENTION	[0.401, 0.373, 0.292]	0.401	14	6	none	0	37.7	908	108	0	13.34	0	True	1	0	0	4.22	T4L	5YQR	108	2.402	36	26	108	24.1	42.6	46	TERMINAL_N

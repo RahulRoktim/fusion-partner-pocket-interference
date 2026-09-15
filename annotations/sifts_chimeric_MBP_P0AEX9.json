@@ -1,0 +1,3410 @@
+[
+ {
+  "entity": "28XA_1",
+  "accs": [
+   "P0AEX9",
+   "Q96PV6"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Leukocyte receptor cluster member 8",
+  "len": 688
+ },
+ {
+  "entity": "3L2J_1",
+  "accs": [
+   "P0AEX9",
+   "Q03431"
+  ],
+  "desc": "Fusion protein of Maltose-binding periplasmic protein and Parathyroid hormone/parathyroid hormone-related peptide receptor",
+  "len": 535
+ },
+ {
+  "entity": "3OB4_1",
+  "accs": [
+   "A5Z1Q8",
+   "P0AEX9"
+  ],
+  "desc": "Maltose ABC transporter periplasmic protein,Arah 2",
+  "len": 500
+ },
+ {
+  "entity": "3WAI_1",
+  "accs": [
+   "O29867",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Transmembrane oligosaccharyl transferase",
+  "len": 739
+ },
+ {
+  "entity": "4JBZ_1",
+  "accs": [
+   "P0AEX9",
+   "Q5EAW4"
+  ],
+  "desc": "MALTOSE-BINDING PERIPLASMIC PROTEIN FUSED WITH XENOPUS LAEVIS MCM10 COILED-COIL REGION",
+  "len": 403
+ },
+ {
+  "entity": "4IRL_1",
+  "accs": [
+   "B0V1H4",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Novel protein similar to vertebrate guanylate binding protein family",
+  "len": 476
+ },
+ {
+  "entity": "4IKM_1",
+  "accs": [
+   "P0AEX9",
+   "Q9Y2G2"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Caspase recruitment domain-containing protein 8",
+  "len": 469
+ },
+ {
+  "entity": "4IFP_1",
+  "accs": [
+   "P0AEX9",
+   "Q9C000"
+  ],
+  "desc": "Maltose-binding periplasmic protein,NACHT, LRR and PYD domains-containing protein 1",
+  "len": 466
+ },
+ {
+  "entity": "4H1G_1",
+  "accs": [
+   "C4YKK8",
+   "P0AEX9"
+  ],
+  "desc": "Maltose binding protein-CaKar3 motor domain fusion protein",
+  "len": 715
+ },
+ {
+  "entity": "4GLI_1",
+  "accs": [
+   "P0AEX9",
+   "Q16637"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Survival motor neuron protein chimera",
+  "len": 401
+ },
+ {
+  "entity": "4GIZ_1",
+  "accs": [
+   "P0AEX9",
+   "Q05086"
+  ],
+  "desc": "Maltose-binding periplasmic protein, UBIQUITIN LIGASE EA6P: chimeric protein",
+  "len": 382
+ },
+ {
+  "entity": "4FED_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Huntingtin",
+  "len": 452
+ },
+ {
+  "entity": "4FEC_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Huntingtin",
+  "len": 452
+ },
+ {
+  "entity": "4FE8_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Huntingtin",
+  "len": 452
+ },
+ {
+  "entity": "4EXK_1",
+  "accs": [
+   "A0A0F6B1U8",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein, uncharacterized protein chimera",
+  "len": 487
+ },
+ {
+  "entity": "4EGC_1",
+  "accs": [
+   "P0AEX9",
+   "Q15475"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Homeobox protein SIX1 chimera",
+  "len": 559
+ },
+ {
+  "entity": "4EDQ_1",
+  "accs": [
+   "O70468",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Myosin-binding protein C, cardiac-type chimeric protein",
+  "len": 492
+ },
+ {
+  "entity": "4DXC_1",
+  "accs": [
+   "P0AEX9",
+   "P62593"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Beta-lactamase TEM chimera",
+  "len": 637
+ },
+ {
+  "entity": "4DXB_1",
+  "accs": [
+   "P0AEX9",
+   "P62593"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Beta-lactamase TEM chimera",
+  "len": 637
+ },
+ {
+  "entity": "4BLD_1",
+  "accs": [
+   "P0AEX9",
+   "Q9UMX1"
+  ],
+  "desc": "MALTOSE-BINDING PERIPLASMIC PROTEIN, SUPPRESSOR OF FUSED HOMOLOG",
+  "len": 753
+ },
+ {
+  "entity": "4BLB_1",
+  "accs": [
+   "P0AEX9",
+   "Q9UMX1"
+  ],
+  "desc": "MALTOSE-BINDING PERIPLASMIC PROTEIN, SUPPRESSOR OF FUSED HOMOLOG",
+  "len": 753
+ },
+ {
+  "entity": "4BLA_1",
+  "accs": [
+   "P0AEX9",
+   "Q9UMX1"
+  ],
+  "desc": "MALTOSE-BINDING PERIPLASMIC PROTEIN, SUPPRESSOR OF FUSED HOMOLOG",
+  "len": 756
+ },
+ {
+  "entity": "4BL9_1",
+  "accs": [
+   "P0AEX9",
+   "Q9UMX1"
+  ],
+  "desc": "MALTOSE-BINDING PERIPLASMIC PROTEIN, SUPPRESSOR OF FUSED HOMOLOG",
+  "len": 756
+ },
+ {
+  "entity": "4BL8_1",
+  "accs": [
+   "P0AEX9",
+   "Q9UMX1"
+  ],
+  "desc": "MALTOSE-BINDING PERIPLASMIC PROTEIN, SUPPRESSOR OF FUSED HOMOLOG",
+  "len": 831
+ },
+ {
+  "entity": "4B3N_1",
+  "accs": [
+   "P0AEX9",
+   "Q0PF16"
+  ],
+  "desc": "MALTOSE-BINDING PERIPLASMIC PROTEIN, TRIPARTITE MOTIF-CONTAINING PROTEIN 5",
+  "len": 602
+ },
+ {
+  "entity": "3WOA_1",
+  "accs": [
+   "P03034",
+   "P0AEX9"
+  ],
+  "desc": "Repressor protein CI, Maltose-binding periplasmic protein",
+  "len": 417
+ },
+ {
+  "entity": "3W15_3",
+  "accs": [
+   "P0AEX9",
+   "P27796"
+  ],
+  "desc": "3-ketoacyl-CoA thiolase, peroxisomal, Maltose-binding periplasmic protein",
+  "len": 389
+ },
+ {
+  "entity": "3Q29_1",
+  "accs": [
+   "P0AEX9",
+   "P37840"
+  ],
+  "desc": "Maltose-binding periplasmic protein/alpha-synuclein chimeric protein",
+  "len": 390
+ },
+ {
+  "entity": "3Q28_1",
+  "accs": [
+   "P0AEX9",
+   "P37840"
+  ],
+  "desc": "Maltose-binding periplasmic protein/alpha-synuclein chimeric protein",
+  "len": 393
+ },
+ {
+  "entity": "3Q27_1",
+  "accs": [
+   "P0AEX9",
+   "P37840"
+  ],
+  "desc": "Maltose-binding periplasmic protein/alpha-synuclein chimeric protein",
+  "len": 397
+ },
+ {
+  "entity": "3Q26_1",
+  "accs": [
+   "P0AEX9",
+   "P37840"
+  ],
+  "desc": "Maltose-binding periplasmic protein/alpha-synuclein chimeric protein",
+  "len": 404
+ },
+ {
+  "entity": "3Q25_1",
+  "accs": [
+   "P0AEX9",
+   "P37840"
+  ],
+  "desc": "Maltose-binding periplasmic protein/alpha-synuclein chimeric protein",
+  "len": 390
+ },
+ {
+  "entity": "3PY7_1",
+  "accs": [
+   "P06931",
+   "P0AEX9"
+  ],
+  "desc": "maltose-binding periplasmic protein,paxillin LD1,protein E6 chimera",
+  "len": 523
+ },
+ {
+  "entity": "3OAI_1",
+  "accs": [
+   "P0AEX9",
+   "P25189"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Myelin protein P0",
+  "len": 507
+ },
+ {
+  "entity": "3O3U_1",
+  "accs": [
+   "P0AEX9",
+   "Q15109"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Advanced glycosylation end product-specific receptor",
+  "len": 581
+ },
+ {
+  "entity": "3N96_1",
+  "accs": [
+   "P0AEX9",
+   "Q13324"
+  ],
+  "desc": "Maltose binding protein-CRFR2 alpha",
+  "len": 482
+ },
+ {
+  "entity": "3N95_1",
+  "accs": [
+   "P0AEX9",
+   "Q13324"
+  ],
+  "desc": "Maltose binding protein-CRFR2 alpha extracellular domain",
+  "len": 482
+ },
+ {
+  "entity": "3N94_1",
+  "accs": [
+   "P0AEX9",
+   "P41586"
+  ],
+  "desc": "Fusion protein of Maltose-binding periplasmic protein and pituitary adenylate cyclase 1 Receptor-short",
+  "len": 475
+ },
+ {
+  "entity": "3N93_1",
+  "accs": [
+   "P0AEX9",
+   "Q13324"
+  ],
+  "desc": "Maltose binding protein-CRFR2 alpha",
+  "len": 482
+ },
+ {
+  "entity": "3MQ9_1",
+  "accs": [
+   "P0AEX9",
+   "Q10589"
+  ],
+  "desc": "Bone marrow stromal antigen 2 fused to Maltose-binding periplasmic protein",
+  "len": 471
+ },
+ {
+  "entity": "3MP8_1",
+  "accs": [
+   "P0AEX9",
+   "P25554"
+  ],
+  "desc": "Maltose-binding periplasmic protein,LINKER,SAGA-associated factor 29",
+  "len": 522
+ },
+ {
+  "entity": "3MP6_1",
+  "accs": [
+   "P0AEX9",
+   "P25554"
+  ],
+  "desc": "Maltose-binding periplasmic protein,LINKER,SAGA-associated factor 29",
+  "len": 522
+ },
+ {
+  "entity": "3MP1_1",
+  "accs": [
+   "P0AEX9",
+   "P25554"
+  ],
+  "desc": "Maltose-binding periplasmic protein,LINKER,SAGA-associated factor 29",
+  "len": 522
+ },
+ {
+  "entity": "3LC8_1",
+  "accs": [
+   "O75787",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Renin receptor",
+  "len": 384
+ },
+ {
+  "entity": "3LBS_1",
+  "accs": [
+   "O75787",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Renin receptor",
+  "len": 384
+ },
+ {
+  "entity": "3J9P_1",
+  "accs": [
+   "O75762",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Transient receptor potential cation channel subfamily A member 1 chimera",
+  "len": 1528
+ },
+ {
+  "entity": "3IOW_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Huntingtin",
+  "len": 449
+ },
+ {
+  "entity": "3IOV_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Huntingtin",
+  "len": 449
+ },
+ {
+  "entity": "3IOU_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Huntingtin",
+  "len": 449
+ },
+ {
+  "entity": "3IOT_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Huntingtin",
+  "len": 449
+ },
+ {
+  "entity": "3IOR_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding protein, huntingtin fusion protein",
+  "len": 449
+ },
+ {
+  "entity": "3IO6_1",
+  "accs": [
+   "P0AEX9",
+   "P42858"
+  ],
+  "desc": "Maltose-binding periplasmic protein, HUNTINGTIN FUSION PROTEIN",
+  "len": 449
+ },
+ {
+  "entity": "3H4Z_1",
+  "accs": [
+   "P0AEX9",
+   "P49273"
+  ],
+  "desc": "Maltose-binding periplasmic protein fused with Allergen DERP7",
+  "len": 568
+ },
+ {
+  "entity": "3H3G_1",
+  "accs": [
+   "P0AEX9",
+   "Q03431"
+  ],
+  "desc": "Fusion protein of Maltose-binding periplasmic domain and human parathyroid hormone receptor extracellular domain",
+  "len": 539
+ },
+ {
+  "entity": "3G7W_1",
+  "accs": [
+   "P0AEX9",
+   "P10997"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Islet amyloid polypeptide fusion protein",
+  "len": 393
+ },
+ {
+  "entity": "3G7V_1",
+  "accs": [
+   "P0AEX9",
+   "P10997"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Islet amyloid polypeptide fusion protein",
+  "len": 408
+ },
+ {
+  "entity": "3F5F_1",
+  "accs": [
+   "P0AEX9",
+   "Q76KB1"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Heparan sulfate 2-O-sulfotransferase 1",
+  "len": 658
+ },
+ {
+  "entity": "3EHU_1",
+  "accs": [
+   "P0AEX9",
+   "P34998"
+  ],
+  "desc": "FUSION PROTEIN OF CRFR1 EXTRACELLULAR DOMAIN AND MBP",
+  "len": 476
+ },
+ {
+  "entity": "3EHT_1",
+  "accs": [
+   "P0AEX9",
+   "P34998"
+  ],
+  "desc": "FUSION PROTEIN OF CRFR1 EXTRACELLULAR DOMAIN AND MBP",
+  "len": 476
+ },
+ {
+  "entity": "3EHS_1",
+  "accs": [
+   "P0AEX9",
+   "P34998"
+  ],
+  "desc": "fusion protein of CRFR1 extracellular domain and MBP",
+  "len": 476
+ },
+ {
+  "entity": "3EF7_1",
+  "accs": [
+   "P0AEX9",
+   "P10761"
+  ],
+  "desc": "Maltose-binding periplasmic protein, LINKER, Zona pellucida protein 3",
+  "len": 481
+ },
+ {
+  "entity": "3DM0_1",
+  "accs": [
+   "O24456",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein fused with RACK1",
+  "len": 694
+ },
+ {
+  "entity": "3D4G_1",
+  "accs": [
+   "P0AEX9",
+   "P10761"
+  ],
+  "desc": "Maltose-binding periplasmic protein, LINKER, Zona pellucida protein 3",
+  "len": 481
+ },
+ {
+  "entity": "3D4C_1",
+  "accs": [
+   "P0AEX9",
+   "P10761"
+  ],
+  "desc": "Maltose-binding periplasmic protein, LINKER, Zona pellucida protein 3",
+  "len": 481
+ },
+ {
+  "entity": "3C4M_1",
+  "accs": [
+   "P0AEX9",
+   "Q03431"
+  ],
+  "desc": "Fusion protein of Maltose-binding periplasmic protein and Parathyroid hormone/parathyroid hormone-related peptide receptor",
+  "len": 539
+ },
+ {
+  "entity": "3A3C_1",
+  "accs": [
+   "P0AEX9",
+   "P36046"
+  ],
+  "desc": "Maltose-binding periplasmic protein, LINKER, Mitochondrial intermembrane space import and assembly protein 40",
+  "len": 451
+ },
+ {
+  "entity": "2ZXT_1",
+  "accs": [
+   "P0AEX9",
+   "P36046"
+  ],
+  "desc": "Maltose-binding periplasmic protein, LINKER, Mitochondrial intermembrane space import and assembly protein 40",
+  "len": 465
+ },
+ {
+  "entity": "2VGQ_1",
+  "accs": [
+   "P0AEX9",
+   "Q7Z434"
+  ],
+  "desc": "Sugar ABC transporter substrate-binding protein,Mitochondrial antiviral-signaling protein",
+  "len": 477
+ },
+ {
+  "entity": "28WZ_1",
+  "accs": [
+   "P0AEX9",
+   "Q96PV6"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Leukocyte receptor cluster member 8",
+  "len": 687
+ },
+ {
+  "entity": "28WY_1",
+  "accs": [
+   "A6NKF1",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,SAC3 domain-containing protein 1",
+  "len": 736
+ },
+ {
+  "entity": "1R6Z_1",
+  "accs": [
+   "P0AEX9",
+   "Q9VUQ5"
+  ],
+  "desc": "Chimera of Maltose-binding periplasmic protein and Argonaute 2",
+  "len": 509
+ },
+ {
+  "entity": "1MH4_1",
+  "accs": [
+   "P0AEX9",
+   "P0CY11"
+  ],
+  "desc": "maltose binding-a1 homeodomain protein chimera",
+  "len": 421
+ },
+ {
+  "entity": "1MH3_1",
+  "accs": [
+   "P0AEX9",
+   "P0CY11"
+  ],
+  "desc": "maltose binding-a1 homeodomain protein chimera",
+  "len": 421
+ },
+ {
+  "entity": "1HSJ_1",
+  "accs": [
+   "P0AEX9",
+   "Q9F0R1"
+  ],
+  "desc": "FUSION PROTEIN CONSISTING OF STAPHYLOCOCCUS ACCESSORY REGULATOR PROTEIN R AND MALTOSE BINDING PROTEIN",
+  "len": 487
+ },
+ {
+  "entity": "5AZ7_1",
+  "accs": [
+   "P0AEX9",
+   "Q62760"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Mitochondrial import receptor subunit TOM20 homolog",
+  "len": 435
+ },
+ {
+  "entity": "5EDU_1",
+  "accs": [
+   "P0AEX9",
+   "Q9UBN7"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Histone deacetylase 6 chimera",
+  "len": 745
+ },
+ {
+  "entity": "5GPP_1",
+  "accs": [
+   "P0AEX9",
+   "Q9I9N6"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Apoptosis-associated speck-like protein containing a CARD",
+  "len": 468
+ },
+ {
+  "entity": "5H7Q_1",
+  "accs": [
+   "P0AEX9",
+   "P41218"
+  ],
+  "desc": "MNDA PYD domain with MBP tag",
+  "len": 479
+ },
+ {
+  "entity": "5II5_1",
+  "accs": [
+   "P0AEX9",
+   "Q8WR62"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Vitelline envelope sperm lysin receptor",
+  "len": 496
+ },
+ {
+  "entity": "5V6Y_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",
+  "len": 593
+ },
+ {
+  "entity": "6K7D_1",
+  "accs": [
+   "P0AEX9",
+   "P53220"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Mitochondrial import inner membrane translocase subunit TIM21",
+  "len": 506
+ },
+ {
+  "entity": "6K7E_1",
+  "accs": [
+   "P0AEX9",
+   "P53220"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Mitochondrial import inner membrane translocase subunit TIM21",
+  "len": 507
+ },
+ {
+  "entity": "6K7F_1",
+  "accs": [
+   "P0AEX9",
+   "P53220"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Mitochondrial import inner membrane translocase subunit TIM21",
+  "len": 499
+ },
+ {
+  "entity": "6LF3_1",
+  "accs": [
+   "P0AEX9",
+   "Q14289"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Protein-tyrosine kinase 2-beta",
+  "len": 419
+ },
+ {
+  "entity": "6LES_1",
+  "accs": [
+   "P0AEX9",
+   "Q05397"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Focal adhesion kinase 1",
+  "len": 397
+ },
+ {
+  "entity": "6KI0_1",
+  "accs": [
+   "P0AEX9",
+   "Q9ULZ3"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Apoptosis-associated speck-like protein containing a CARD",
+  "len": 466
+ },
+ {
+  "entity": "6KEA_1",
+  "accs": [
+   "O60673",
+   "P0AEX9",
+   "P18011",
+   "Q9UI95"
+  ],
+  "desc": "Maltose-binding periplasmic protein,LINKER,hREV7,LINKER,Invasin IpaB,hREV3",
+  "len": 631
+ },
+ {
+  "entity": "6I4Y_1",
+  "accs": [
+   "O43715",
+   "P0AEX9"
+  ],
+  "desc": "Maltose transport system, substrate-binding protein,TP53-regulated inhibitor of apoptosis 1",
+  "len": 446
+ },
+ {
+  "entity": "6EQZ_1",
+  "accs": [
+   "P0AEX9",
+   "Q2W8S0"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Tightly bound bacterial magnetic particle protein,Maltose-binding periplasmic protein",
+  "len": 401
+ },
+ {
+  "entity": "6EG3_1",
+  "accs": [
+   "P0AEX9",
+   "P51531"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Probable global transcription activator SNF2L2",
+  "len": 621
+ },
+ {
+  "entity": "6EG2_1",
+  "accs": [
+   "P0AEX9",
+   "P51531"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Probable global transcription activator SNF2L2",
+  "len": 621
+ },
+ {
+  "entity": "6DM8_1",
+  "accs": [
+   "P0AEX9",
+   "P97287"
+  ],
+  "desc": "Induced myeloid leukemia cell differentiation protein Mcl-1 homolog - MBP chimera",
+  "len": 518
+ },
+ {
+  "entity": "6DD5_1",
+  "accs": [
+   "F2K1V9",
+   "P0AEX9"
+  ],
+  "desc": "MMB-1 Cas6 Fused to Maltose Binding Protein,CRISPR-associated endonuclease Cas1",
+  "len": 678
+ },
+ {
+  "entity": "6DBX_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBW_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBV_3",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBV_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBU_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBT_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBR_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBQ_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBO_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBL_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBJ_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6DBI_1",
+  "accs": [
+   "O13033",
+   "P0AEX9"
+  ],
+  "desc": "Recombination activating gene 1 - MBP chimera",
+  "len": 1159
+ },
+ {
+  "entity": "6D67_1",
+  "accs": [
+   "P0AEX9",
+   "P28562"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Dual specificity protein phosphatase 1",
+  "len": 520
+ },
+ {
+  "entity": "6D66_1",
+  "accs": [
+   "P0AEX9",
+   "P28562"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Dual specificity protein phosphatase 1",
+  "len": 520
+ },
+ {
+  "entity": "6D65_1",
+  "accs": [
+   "P0AEX9",
+   "P28562"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Dual specificity protein phosphatase 1",
+  "len": 520
+ },
+ {
+  "entity": "6D1U_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",
+  "len": 593
+ },
+ {
+  "entity": "6BUZ_7",
+  "accs": [
+   "P0AEX9",
+   "Q96H22"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Centromere protein N chimera",
+  "len": 668
+ },
+ {
+  "entity": "6APX_1",
+  "accs": [
+   "P0AEX9",
+   "P28562"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Dual specificity protein phosphatase 1",
+  "len": 520
+ },
+ {
+  "entity": "6ANV_1",
+  "accs": [
+   "L7P7M1",
+   "P0AEX9"
+  ],
+  "desc": "anti-CRISPR protein AcrF1 fused with C-terminal MBP tag",
+  "len": 452
+ },
+ {
+  "entity": "5ZR0_1",
+  "accs": [
+   "P0A850",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Trigger factor",
+  "len": 142
+ },
+ {
+  "entity": "5ZNZ_1",
+  "accs": [
+   "B1AWN9",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Tumor necrosis factor receptor superfamily, member 25",
+  "len": 464
+ },
+ {
+  "entity": "5ZNY_1",
+  "accs": [
+   "B1AWN9",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Tumor necrosis factor receptor superfamily, member 25",
+  "len": 464
+ },
+ {
+  "entity": "5ZCA_1",
+  "accs": [
+   "P03034",
+   "P0AEX9"
+  ],
+  "desc": "Repressor protein cI,Maltose-binding periplasmic protein",
+  "len": 391
+ },
+ {
+  "entity": "5Z0V_1",
+  "accs": [
+   "P0AEX9",
+   "Q32ZE1"
+  ],
+  "desc": "Extracellular solute-binding protein family 1,viral genome protein",
+  "len": 445
+ },
+ {
+  "entity": "5Z0R_1",
+  "accs": [
+   "P0AEX9",
+   "Q32ZE1"
+  ],
+  "desc": "Extracellular solute-binding protein family 1,viral genome protein",
+  "len": 445
+ },
+ {
+  "entity": "5YGS_1",
+  "accs": [
+   "P0AEX9",
+   "Q93038"
+  ],
+  "desc": "Human TNRSF25 death domain",
+  "len": 463
+ },
+ {
+  "entity": "5YGP_1",
+  "accs": [
+   "P0AEX9",
+   "Q93038"
+  ],
+  "desc": "TNFRSF25 death domain",
+  "len": 463
+ },
+ {
+  "entity": "5YEV_1",
+  "accs": [
+   "P0AEX9",
+   "Q93038"
+  ],
+  "desc": "TNFRSF25 death domain",
+  "len": 464
+ },
+ {
+  "entity": "5Y2G_1",
+  "accs": [
+   "P09879",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Protein B",
+  "len": 595
+ },
+ {
+  "entity": "5WPZ_1",
+  "accs": [
+   "P0AEX9",
+   "P41218"
+  ],
+  "desc": "MBP-hMNDA-PYD",
+  "len": 477
+ },
+ {
+  "entity": "5W1C_1",
+  "accs": [
+   "P0AEX9",
+   "Q9GZX7"
+  ],
+  "desc": "MBP fused activation-induced cytidine deaminase",
+  "len": 549
+ },
+ {
+  "entity": "5W0Z_1",
+  "accs": [
+   "P0AEX9",
+   "Q9GZX7"
+  ],
+  "desc": "MBP fused activation-induced cytidine deaminase",
+  "len": 549
+ },
+ {
+  "entity": "5W0U_1",
+  "accs": [
+   "P0AEX9",
+   "Q9GZX7"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Single-stranded DNA cytosine deaminase",
+  "len": 549
+ },
+ {
+  "entity": "5W0R_1",
+  "accs": [
+   "P0AEX9",
+   "Q9GZX7"
+  ],
+  "desc": "MBP fused activation-induced cytidine deaminase",
+  "len": 549
+ },
+ {
+  "entity": "5VAW_1",
+  "accs": [
+   "A0A0D5YCX7",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Type IV pilin PilA",
+  "len": 508
+ },
+ {
+  "entity": "5TTD_1",
+  "accs": [
+   "D2KPJ6",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Pilin isopeptide linkage domain protein",
+  "len": 499
+ },
+ {
+  "entity": "5OSQ_1",
+  "accs": [
+   "P0AEX9",
+   "P10761"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Zona pellucida sperm-binding protein 3",
+  "len": 481
+ },
+ {
+  "entity": "5MM3_1",
+  "accs": [
+   "P0AEX9",
+   "Q2W8S0"
+  ],
+  "desc": "Sugar ABC transporter substrate-binding protein,Magnetosome protein MamC,Sugar ABC transporter substrate-binding protein",
+  "len": 412
+ },
+ {
+  "entity": "5K94_1",
+  "accs": [
+   "P0AEX9",
+   "P10408"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Protein translocase subunit SecA,Maltose-binding periplasmic protein",
+  "len": 508
+ },
+ {
+  "entity": "5JST_1",
+  "accs": [
+   "A6ZQL5",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Mitochondrial division protein 1",
+  "len": 443
+ },
+ {
+  "entity": "5JQE_1",
+  "accs": [
+   "P0AEX9",
+   "Q14790"
+  ],
+  "desc": "Sugar ABC transporter substrate-binding protein,Caspase-8 chimera",
+  "len": 565
+ },
+ {
+  "entity": "5IQZ_1",
+  "accs": [
+   "P0AEX9",
+   "Q9NRC8"
+  ],
+  "desc": "SIRT7 protein",
+  "len": 443
+ },
+ {
+  "entity": "5IIC_1",
+  "accs": [
+   "P0AEX9",
+   "Q8WR62"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Vitelline envelope sperm lysin receptor",
+  "len": 496
+ },
+ {
+  "entity": "5I69_1",
+  "accs": [
+   "P0AEX9",
+   "Q2W8S0"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Tightly bound bacterial magnetic particle protein,Maltose-binding periplasmic protein",
+  "len": 412
+ },
+ {
+  "entity": "5I04_1",
+  "accs": [
+   "P0AEX9",
+   "P17813"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Endoglin",
+  "len": 692
+ },
+ {
+  "entity": "5HZW_1",
+  "accs": [
+   "P0AEX9",
+   "P17813"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Endoglin",
+  "len": 691
+ },
+ {
+  "entity": "5HZV_1",
+  "accs": [
+   "P0AEX9",
+   "P17813"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Endoglin",
+  "len": 626
+ },
+ {
+  "entity": "5H7N_1",
+  "accs": [
+   "P0AEX9",
+   "P59046"
+  ],
+  "desc": "NLRP12-PYD with MBP tag",
+  "len": 478
+ },
+ {
+  "entity": "5GPQ_1",
+  "accs": [
+   "P0AEX9",
+   "Q9I9N6"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Apoptosis-associated speck-like protein containing a CARD",
+  "len": 467
+ },
+ {
+  "entity": "5FSG_1",
+  "accs": [
+   "P05133",
+   "P0AEX9"
+  ],
+  "desc": "MALTOSE-BINDING PERIPLASMIC PROTEIN, HANTAVIRUS NUCLEOPROTEIN",
+  "len": 698
+ },
+ {
+  "entity": "5DIS_4",
+  "accs": [
+   "P0AEX9",
+   "P35658"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Nuclear pore complex protein Nup214",
+  "len": 479
+ },
+ {
+  "entity": "5BMY_1",
+  "accs": [
+   "P0AEX9",
+   "Q13526"
+  ],
+  "desc": "Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,Maltose-binding periplasmic protein",
+  "len": 389
+ },
+ {
+  "entity": "5B3Z_1",
+  "accs": [
+   "P0AEX9",
+   "Q13526"
+  ],
+  "desc": "Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,Maltose-binding periplasmic protein",
+  "len": 403
+ },
+ {
+  "entity": "5B3Y_1",
+  "accs": [
+   "P0AEX9",
+   "Q13526"
+  ],
+  "desc": "Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,Maltose-binding periplasmic protein",
+  "len": 390
+ },
+ {
+  "entity": "5B3X_1",
+  "accs": [
+   "P0AEX9",
+   "Q13526"
+  ],
+  "desc": "Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,Maltose-binding periplasmic protein",
+  "len": 382
+ },
+ {
+  "entity": "5B3W_1",
+  "accs": [
+   "P0AEX9",
+   "Q13526"
+  ],
+  "desc": "Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,Maltose-binding periplasmic protein",
+  "len": 382
+ },
+ {
+  "entity": "5AZA_1",
+  "accs": [
+   "I6V0B8",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Oligosaccharyl transferase stt3 subunit related protein",
+  "len": 872
+ },
+ {
+  "entity": "5AZ9_1",
+  "accs": [
+   "P0AEX9",
+   "Q62760"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Mitochondrial import receptor subunit TOM20 homolog",
+  "len": 430
+ },
+ {
+  "entity": "5AZ8_1",
+  "accs": [
+   "P0AEX9",
+   "Q62760"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Mitochondrial import receptor subunit TOM20 homolog",
+  "len": 435
+ },
+ {
+  "entity": "5AZ6_1",
+  "accs": [
+   "P0AEX9",
+   "Q62760"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Mitochondrial import receptor subunit TOM20 homolog",
+  "len": 433
+ },
+ {
+  "entity": "4XZV_1",
+  "accs": [
+   "O43715",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,TP53-regulated inhibitor of apoptosis 1",
+  "len": 446
+ },
+ {
+  "entity": "4XZS_1",
+  "accs": [
+   "O43715",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein,TP53-regulated inhibitor of apoptosis 1",
+  "len": 446
+ },
+ {
+  "entity": "4XR8_1",
+  "accs": [
+   "P0AEX9",
+   "Q05086"
+  ],
+  "desc": "Maltose-binding periplasmic protein, ubiquitin ligase E6AP",
+  "len": 383
+ },
+ {
+  "entity": "4WTH_1",
+  "accs": [
+   "P0AEX9",
+   "P54252"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Ataxin-3 chimera",
+  "len": 441
+ },
+ {
+  "entity": "4WMX_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "MBP-MCL1 chimera protein",
+  "len": 518
+ },
+ {
+  "entity": "4WMW_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "MBP-MCL1 chimera protein",
+  "len": 518
+ },
+ {
+  "entity": "4WMV_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "MBL-MCL1 chimera protein",
+  "len": 518
+ },
+ {
+  "entity": "4WMU_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "MBP-MCL1 chimera protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "4WMT_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "MBP-MCL1 chimera protein",
+  "len": 518
+ },
+ {
+  "entity": "4WMS_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "MBP-MCL1 chimera protein",
+  "len": 518
+ },
+ {
+  "entity": "4RWG_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Receptor activity-modifying protein 1, Calcitonin gene-related peptide type 1 receptor fusion protein",
+  "len": 593
+ },
+ {
+  "entity": "4RWF_1",
+  "accs": [
+   "O60895",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose transporter subunit, Receptor activity-modifying protein 2, Calcitonin gene-related peptide type 1 receptor fusion protein",
+  "len": 591
+ },
+ {
+  "entity": "4RG5_1",
+  "accs": [
+   "P0AEX9",
+   "Q09808"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Survival Motor Neuron protein chimera",
+  "len": 401
+ },
+ {
+  "entity": "4R0Y_1",
+  "accs": [
+   "P0AEX9",
+   "P97836"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Disks large-associated protein 1",
+  "len": 501
+ },
+ {
+  "entity": "4QVH_1",
+  "accs": [
+   "O33336",
+   "P0AEX9"
+  ],
+  "desc": "Maltose-binding periplasmic protein, 4'-phosphopantetheinyl transferase chimera",
+  "len": 598
+ },
+ {
+  "entity": "4QSZ_1",
+  "accs": [
+   "P0AEX9",
+   "P0C872"
+  ],
+  "desc": "Maltose-binding periplasmic protein, JmjC domain-containing protein 7 chimera",
+  "len": 687
+ },
+ {
+  "entity": "4PQK_1",
+  "accs": [
+   "B1B3N6",
+   "P0AEX9"
+  ],
+  "desc": "Maltose ABC transporter periplasmic protein, Truncated replication protein RepA",
+  "len": 487
+ },
+ {
+  "entity": "4O2X_1",
+  "accs": [
+   "P0AEX9",
+   "Q8IEB2"
+  ],
+  "desc": "Maltose-binding periplasmic protein, ATP-dependent Clp protease adaptor protein ClpS containing protein chimeric construct",
+  "len": 507
+ },
+ {
+  "entity": "4NUF_1",
+  "accs": [
+   "P0AEX9",
+   "Q62227"
+  ],
+  "desc": "Maltose ABC transporter periplasmic protein, Nuclear receptor subfamily 0 group B member 2 chimeric construct",
+  "len": 580
+ },
+ {
+  "entity": "4NDZ_1",
+  "accs": [
+   "P0AEX9",
+   "Q76KB1"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Heparan sulfate 2-O-sulfotransferase 1 fusion",
+  "len": 658
+ },
+ {
+  "entity": "4N4X_1",
+  "accs": [
+   "P0AEX9",
+   "Q9NP55"
+  ],
+  "desc": "Maltose-binding periplasmic/Palate lung and nasal epithelium clone fusion protein",
+  "len": 584
+ },
+ {
+  "entity": "4LOG_1",
+  "accs": [
+   "P0AEX9",
+   "Q9Y5X4"
+  ],
+  "desc": "Maltose ABC transporter periplasmic protein and NR2E3 protein chimeric construct",
+  "len": 574
+ },
+ {
+  "entity": "4KYE_1",
+  "accs": [
+   "P0AEX9",
+   "P21738"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Phosphoprotein, chimeric construct",
+  "len": 420
+ },
+ {
+  "entity": "4KYD_1",
+  "accs": [
+   "P0AEX9",
+   "P21738"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Phosphoprotein, chimeric construct",
+  "len": 420
+ },
+ {
+  "entity": "4KYC_1",
+  "accs": [
+   "P0AEX9",
+   "Q91MK1"
+  ],
+  "desc": "Maltose-binding periplasmic protein, Phosphoprotein,  chimeric construct",
+  "len": 420
+ },
+ {
+  "entity": "4KEG_1",
+  "accs": [
+   "P0AEX9",
+   "Q9NP55"
+  ],
+  "desc": "Maltose-binding periplasmic/Palate lung and nasal epithelium clone fusion protein",
+  "len": 584
+ },
+ {
+  "entity": "8SVY_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein, Induced myeloid leukemia cell differentiation protein Mcl-1 chimera",
+  "len": 518
+ },
+ {
+  "entity": "8SQB_6",
+  "accs": [
+   "P0AEX9",
+   "Q7BSW5"
+  ],
+  "desc": "Maltodextrin-binding protein,EspP(b7-12)",
+  "len": 581
+ },
+ {
+  "entity": "8SQA_6",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Autotransporter protein EspP translocator",
+  "len": 551
+ },
+ {
+  "entity": "8SOK_1",
+  "accs": [
+   "P0AEX9",
+   "Q2NKJ3"
+  ],
+  "desc": "CST complex subunit CTC1",
+  "len": 1613
+ },
+ {
+  "entity": "8SOJ_1",
+  "accs": [
+   "P0AEX9",
+   "Q2NKJ3"
+  ],
+  "desc": "CST complex subunit CTC1",
+  "len": 1613
+ },
+ {
+  "entity": "8SBU_1",
+  "accs": [
+   "P0AEX9",
+   "Q59028"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase",
+  "len": 618
+ },
+ {
+  "entity": "8QSO_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "8JYX_1",
+  "accs": [
+   "P0AEX9",
+   "Q7SBA0"
+  ],
+  "desc": "Maltodextrin-binding protein,Gasdermin-like protein rcd-1-1",
+  "len": 635
+ },
+ {
+  "entity": "8JXS_3",
+  "accs": [
+   "P06654",
+   "P0A015",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Immunoglobulin G-binding protein A,Immunoglobulin G-binding protein G",
+  "len": 559
+ },
+ {
+  "entity": "8JXR_3",
+  "accs": [
+   "P06654",
+   "P0A015",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Immunoglobulin G-binding protein A,Immunoglobulin G-binding protein G",
+  "len": 559
+ },
+ {
+  "entity": "8JI0_2",
+  "accs": [
+   "M9ZTT7",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Hemorrhagic toxin",
+  "len": 786
+ },
+ {
+  "entity": "8J2P_1",
+  "accs": [
+   "P0AEX9",
+   "P29590"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Protein PML",
+  "len": 428
+ },
+ {
+  "entity": "8J25_1",
+  "accs": [
+   "P0AEX9",
+   "P29590"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Protein PML",
+  "len": 428
+ },
+ {
+  "entity": "8IIZ_1",
+  "accs": [
+   "O95619",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,YEATS domain-containing protein 4",
+  "len": 514
+ },
+ {
+  "entity": "8IIY_1",
+  "accs": [
+   "O95619",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,YEATS domain-containing protein 4",
+  "len": 514
+ },
+ {
+  "entity": "8HLB_1",
+  "accs": [
+   "P0AEX9",
+   "P20333"
+  ],
+  "desc": "Tumor necrosis factor receptor superfamily member 1B,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 550
+ },
+ {
+  "entity": "8HGH_1",
+  "accs": [
+   "P0AEX9",
+   "Q13219"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Pappalysin-1",
+  "len": 1944
+ },
+ {
+  "entity": "8H68_1",
+  "accs": [
+   "P0AEX9",
+   "Q8MNT9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,DNA N6-methyl adenine demethylase",
+  "len": 634
+ },
+ {
+  "entity": "8GKH_2",
+  "accs": [
+   "A0A0L0H5U9",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein (Fragment),OrfB_Zn_ribbon domain-containing protein",
+  "len": 1032
+ },
+ {
+  "entity": "8GCR_1",
+  "accs": [
+   "P03126",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Protein E6",
+  "len": 541
+ },
+ {
+  "entity": "8FV5_1",
+  "accs": [
+   "F8SJT5",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein, phiPA3 PhuN",
+  "len": 996
+ },
+ {
+  "entity": "8FNE_1",
+  "accs": [
+   "F8SJT5",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein, PhuN",
+  "len": 996
+ },
+ {
+  "entity": "8EL1_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 532
+ },
+ {
+  "entity": "8EL0_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 532
+ },
+ {
+  "entity": "8EKX_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 532
+ },
+ {
+  "entity": "8DX4_1",
+  "accs": [
+   "A0A0H3N4W9",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,Putative pilin protein",
+  "len": 512
+ },
+ {
+  "entity": "8DEI_1",
+  "accs": [
+   "P0AEX9",
+   "Q12495"
+  ],
+  "desc": "Maltodextrin-binding protein,Chromatin assembly factor 1 subunit p90 fusion",
+  "len": 490
+ },
+ {
+  "entity": "8CRB_3",
+  "accs": [
+   "G3XD49",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Type III secretion protein PcrV",
+  "len": 692
+ },
+ {
+  "entity": "8CR9_3",
+  "accs": [
+   "G3XD49",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Type III secretion protein PcrV",
+  "len": 692
+ },
+ {
+  "entity": "8CE0_1",
+  "accs": [
+   "P02649",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,Apolipoprotein E",
+  "len": 675
+ },
+ {
+  "entity": "8CDY_1",
+  "accs": [
+   "P02649",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,Apolipoprotein E",
+  "len": 675
+ },
+ {
+  "entity": "8C5L_1",
+  "accs": [
+   "P0AEX9",
+   "P10588"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Nuclear receptor subfamily 2 group F member 6",
+  "len": 568
+ },
+ {
+  "entity": "8AX9_1",
+  "accs": [
+   "P02649",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Apolipoprotein E",
+  "len": 675
+ },
+ {
+  "entity": "8AX8_1",
+  "accs": [
+   "P02649",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Apolipoprotein E",
+  "len": 675
+ },
+ {
+  "entity": "8AX7_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",
+  "len": 593
+ },
+ {
+  "entity": "8AX6_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",
+  "len": 593
+ },
+ {
+  "entity": "8AX5_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",
+  "len": 593
+ },
+ {
+  "entity": "8AG0_2",
+  "accs": [
+   "O43715",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,TP53-regulated inhibitor of apoptosis 1",
+  "len": 446
+ },
+ {
+  "entity": "7Z7H_2",
+  "accs": [
+   "P0AEX9",
+   "Q8GF97"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,TccC3",
+  "len": 578
+ },
+ {
+  "entity": "7Y5Q_1",
+  "accs": [
+   "P0AEX9",
+   "Q13219"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Pappalysin-1",
+  "len": 1944
+ },
+ {
+  "entity": "7XQC_1",
+  "accs": [
+   "P0AEX9",
+   "P9WFM7"
+  ],
+  "desc": "Fusion protein of Maltose-binding periplasmic protein and RNA-binding protein KhpA",
+  "len": 450
+ },
+ {
+  "entity": "7WR3_1",
+  "accs": [
+   "A0A0H2US87",
+   "P0AEX9"
+  ],
+  "desc": "MBP-fused OspC3",
+  "len": 806
+ },
+ {
+  "entity": "7W40_1",
+  "accs": [
+   "P0AEX9",
+   "P30550"
+  ],
+  "desc": "Maltodextrin-binding protein,Gastrin-releasing peptide receptor",
+  "len": 897
+ },
+ {
+  "entity": "7W3Z_1",
+  "accs": [
+   "P0AEX9",
+   "P30550"
+  ],
+  "desc": "Maltodextrin-binding protein,Gastrin-releasing peptide receptor",
+  "len": 897
+ },
+ {
+  "entity": "7VQO_1",
+  "accs": [
+   "G0SE85",
+   "G0SGP6",
+   "P0AEX9"
+  ],
+  "desc": "Ams1, Nbr1 and malE fusion protein",
+  "len": 1616
+ },
+ {
+  "entity": "7VN8_1",
+  "accs": [
+   "P0AEX9",
+   "Q8S307"
+  ],
+  "desc": "Maltodextrin-binding protein,Protein BRASSINAZOLE-RESISTANT 1",
+  "len": 439
+ },
+ {
+  "entity": "7VN7_1",
+  "accs": [
+   "P0AEX9",
+   "Q8S307"
+  ],
+  "desc": "Maltodextrin-binding protein,Protein BRASSINAZOLE-RESISTANT 1",
+  "len": 439
+ },
+ {
+  "entity": "7VN6_1",
+  "accs": [
+   "P0AEX9",
+   "Q8S307"
+  ],
+  "desc": "Maltodextrin-binding protein,Protein BRASSINAZOLE-RESISTANT 1",
+  "len": 439
+ },
+ {
+  "entity": "7VN5_1",
+  "accs": [
+   "P0AEX9",
+   "Q8S307"
+  ],
+  "desc": "Maltodextrin-binding protein,Protein BRASSINAZOLE-RESISTANT 1",
+  "len": 439
+ },
+ {
+  "entity": "7VN4_1",
+  "accs": [
+   "P0AEX9",
+   "Q8S307"
+  ],
+  "desc": "Maltodextrin-binding protein,Protein BRASSINAZOLE-RESISTANT 1",
+  "len": 439
+ },
+ {
+  "entity": "7VN3_1",
+  "accs": [
+   "P0AEX9",
+   "Q8S307"
+  ],
+  "desc": "Maltodextrin-binding protein,Protein BRASSINAZOLE-RESISTANT 1",
+  "len": 439
+ },
+ {
+  "entity": "7VN2_1",
+  "accs": [
+   "P0AEX9",
+   "Q8S307"
+  ],
+  "desc": "Maltodextrin-binding protein,Protein BRASSINAZOLE-RESISTANT 1",
+  "len": 439
+ },
+ {
+  "entity": "7VH1_2",
+  "accs": [
+   "P0AEX9",
+   "Q6IUF9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,RING finger protein Z",
+  "len": 496
+ },
+ {
+  "entity": "7VGQ_2",
+  "accs": [
+   "P0AEX9",
+   "Q6IUF9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,RING finger protein Z",
+  "len": 496
+ },
+ {
+  "entity": "7UAJ_1",
+  "accs": [
+   "P03126",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Protein E6",
+  "len": 537
+ },
+ {
+  "entity": "7U0I_7",
+  "accs": [
+   "P0AEX9",
+   "Q01860"
+  ],
+  "desc": "Maltodextrin-binding protein,POU domain, class 5, transcription factor 1",
+  "len": 550
+ },
+ {
+  "entity": "7U0G_7",
+  "accs": [
+   "P0AEX9",
+   "Q01860"
+  ],
+  "desc": "Maltodextrin-binding protein,POU domain, class 5, transcription factor 1",
+  "len": 550
+ },
+ {
+  "entity": "7TT7_5",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7TT6_1",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7TT5_1",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7TT4_2",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7TT3_6",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7TT2_6",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7TT1_1",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7TT0_5",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7TSZ_6",
+  "accs": [
+   "O32591",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Serine protease EspP chimera",
+  "len": 764
+ },
+ {
+  "entity": "7T31_1",
+  "accs": [
+   "P0AEX9",
+   "Q185H8"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Putative pilin protein chimera",
+  "len": 512
+ },
+ {
+  "entity": "7RW6_1",
+  "accs": [
+   "P03190",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Ribonucleoside-diphosphate reductase large subunit",
+  "len": 1197
+ },
+ {
+  "entity": "7P1H_1",
+  "accs": [
+   "A0A023NA98",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,RTX-toxin",
+  "len": 827
+ },
+ {
+  "entity": "7P1G_1",
+  "accs": [
+   "P0AEX9",
+   "Q9I1S4"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",
+  "len": 773
+ },
+ {
+  "entity": "7P0I_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",
+  "len": 594
+ },
+ {
+  "entity": "7P0F_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",
+  "len": 594
+ },
+ {
+  "entity": "7O2W_2",
+  "accs": [
+   "P0AEX9",
+   "Q8TEV9"
+  ],
+  "desc": "Guanine nucleotide exchange protein SMCR8,Guanine nucleotide exchange protein SMCR8,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1206
+ },
+ {
+  "entity": "7NZM_5",
+  "accs": [
+   "O75807",
+   "P0AEX9"
+  ],
+  "desc": "Protein phosphatase 1 regulatory subunit 15A,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 444
+ },
+ {
+  "entity": "7MN8_3",
+  "accs": [
+   "P04626",
+   "P0AEX9"
+  ],
+  "desc": "Receptor tyrosine-protein kinase erbB-2,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1455
+ },
+ {
+  "entity": "7MN6_2",
+  "accs": [
+   "P04626",
+   "P0AEX9"
+  ],
+  "desc": "Receptor tyrosine-protein kinase erbB-2,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1455
+ },
+ {
+  "entity": "7MN5_3",
+  "accs": [
+   "P04626",
+   "P0AEX9"
+  ],
+  "desc": "Receptor tyrosine-protein kinase erbB-2,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1455
+ },
+ {
+  "entity": "7MK7_1",
+  "accs": [
+   "P0AEX9",
+   "Q6UXT8"
+  ],
+  "desc": "ALK and LTK ligand 1,Maltodextrin-binding protein",
+  "len": 421
+ },
+ {
+  "entity": "7MHW_1",
+  "accs": [
+   "P0AEX9",
+   "Q2YLR6"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Outer membrane lipoprotein omp19",
+  "len": 481
+ },
+ {
+  "entity": "7KD4_1",
+  "accs": [
+   "P0AEX9",
+   "Q91MK1"
+  ],
+  "desc": "Maltodextrin-binding protein and Phosphoprotein fusion protein",
+  "len": 431
+ },
+ {
+  "entity": "7K48_1",
+  "accs": [
+   "A8EVM5",
+   "P0AEX9",
+   "Q15858"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Ion transport protein,Sodium channel protein type 9 subunit alpha chimera",
+  "len": 611
+ },
+ {
+  "entity": "7E29_1",
+  "accs": [
+   "P0AEX9",
+   "Q04213"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,ISWI one complex protein 4",
+  "len": 551
+ },
+ {
+  "entity": "7DDE_1",
+  "accs": [
+   "O36014",
+   "P0AEX9",
+   "Q9P792"
+  ],
+  "desc": "Aspartyl aminopeptidase 1,ZZ-type zinc finger-containing protein P35G2.11c,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 929
+ },
+ {
+  "entity": "7DD9_1",
+  "accs": [
+   "P0AEX9",
+   "Q9P792",
+   "Q9UT61"
+  ],
+  "desc": "Alpha-mannosidase,ZZ-type zinc finger-containing protein P35G2.11c,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1584
+ },
+ {
+  "entity": "7CY8_1",
+  "accs": [
+   "A0A2K3D5Z7",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,5-methylcytosine-modifying enzyme 1",
+  "len": 917
+ },
+ {
+  "entity": "7CY7_1",
+  "accs": [
+   "A0A2K3D5Z7",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,5-methylcytosine-modifying enzyme 1",
+  "len": 917
+ },
+ {
+  "entity": "7CY6_1",
+  "accs": [
+   "A0A2K3D5Z7",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,5-methylcytosine-modifying enzyme 1",
+  "len": 917
+ },
+ {
+  "entity": "7CY5_1",
+  "accs": [
+   "A0A2K3D5Z7",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,5-methylcytosine-modifying enzyme 1",
+  "len": 917
+ },
+ {
+  "entity": "7CY4_1",
+  "accs": [
+   "A0A2K3D5Z7",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,5-methylcytosine-modifying enzyme 1",
+  "len": 917
+ },
+ {
+  "entity": "7BY0_7",
+  "accs": [
+   "O57393",
+   "P0AEX9"
+  ],
+  "desc": "Maltose Binding Protein tag, linker,CENP-C",
+  "len": 664
+ },
+ {
+  "entity": "7BG0_1",
+  "accs": [
+   "P0AEX9",
+   "P10997"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Islet amyloid polypeptide",
+  "len": 408
+ },
+ {
+  "entity": "7B01_1",
+  "accs": [
+   "P0AEX9",
+   "Q76LX8"
+  ],
+  "desc": "Maltodextrin-binding protein,Maltodextrin-binding protein,Maltodextrin-binding protein,ADAMTS13 CUB12,A disintegrin and metalloproteinase with thrombospondin motifs 13,A disintegrin and metalloproteinase with thrombospondin motifs 13,A disintegrin and metalloproteinase with thrombospondin motifs 13",
+  "len": 608
+ },
+ {
+  "entity": "6ZHO_1",
+  "accs": [
+   "O60894",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",
+  "len": 594
+ },
+ {
+  "entity": "6YSN_1",
+  "accs": [
+   "P0AEX9",
+   "Q9UL62"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Short transient receptor potential channel 5",
+  "len": 1146
+ },
+ {
+  "entity": "6YBL_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6YBK_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6YBJ_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6XRX_1",
+  "accs": [
+   "P0AEX9",
+   "Q8T5C5"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein, Mosquito protein AZ1",
+  "len": 554
+ },
+ {
+  "entity": "6XDS_1",
+  "accs": [
+   "P0AEX9",
+   "Q9NZC2"
+  ],
+  "desc": "Sugar ABC transporter substrate-binding protein,Triggering receptor expressed on myeloid cells 2",
+  "len": 492
+ },
+ {
+  "entity": "6X91_1",
+  "accs": [
+   "P0AEX9",
+   "P41238"
+  ],
+  "desc": "Maltodextrin-binding protein, C->U-editing enzyme APOBEC-1 chimera",
+  "len": 593
+ },
+ {
+  "entity": "6WBJ_1",
+  "accs": [
+   "P0AEX9",
+   "Q9Z0J1"
+  ],
+  "desc": "Maltodextrin-binding protein,Reversion-inducing cysteine-rich protein with Kazal motifs fusion",
+  "len": 447
+ },
+ {
+  "entity": "6WBH_1",
+  "accs": [
+   "P0AEX9",
+   "Q9Z0J1"
+  ],
+  "desc": "Maltodextrin-binding protein,Reversion-inducing cysteine-rich protein with Kazal motifs fusion",
+  "len": 447
+ },
+ {
+  "entity": "6VLS_1",
+  "accs": [
+   "P0AEX9",
+   "W8GI72"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Vip3Aa",
+  "len": 966
+ },
+ {
+  "entity": "6V2E_1",
+  "accs": [
+   "O60895",
+   "P0AEX9",
+   "Q16602"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Receptor activity-modifying protein 2,Calcitonin gene-related peptide type 1 receptor",
+  "len": 591
+ },
+ {
+  "entity": "6SQC_1",
+  "accs": [
+   "P0AEX9",
+   "Q92793"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,CREB-binding protein",
+  "len": 424
+ },
+ {
+  "entity": "6SMV_1",
+  "accs": [
+   "P0AEX9",
+   "P36813",
+   "Q92585"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Protein E6,Mastermind-like protein 1",
+  "len": 538
+ },
+ {
+  "entity": "6SLM_1",
+  "accs": [
+   "P0AEX9",
+   "P17386",
+   "Q05086"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Protein E6,Ubiquitin-protein ligase E3A",
+  "len": 551
+ },
+ {
+  "entity": "6SJA_1",
+  "accs": [
+   "P0AEX9",
+   "Q14653"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Interferon regulatory factor 3",
+  "len": 383
+ },
+ {
+  "entity": "6SIV_1",
+  "accs": [
+   "P0AEX9",
+   "Q14653"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Interferon regulatory factor 3",
+  "len": 383
+ },
+ {
+  "entity": "6QZ7_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6QYO_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6QYN_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6QYL_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6QYK_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6QXJ_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6QUG_1",
+  "accs": [
+   "I7MHJ5",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,Nucleoporin, putative",
+  "len": 402
+ },
+ {
+  "entity": "6QGD_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 518
+ },
+ {
+  "entity": "6P6W_1",
+  "accs": [
+   "A8EVM5",
+   "P0AEX9"
+  ],
+  "desc": "Fusion of Maltose-binding protein and voltage-gated sodium channel NavAb",
+  "len": 661
+ },
+ {
+  "entity": "6NDJ_1",
+  "accs": [
+   "P0AEX9",
+   "P59044"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein, NACHT, LRR and PYD domains-containing protein 6 chimera",
+  "len": 473
+ },
+ {
+  "entity": "6N85_2",
+  "accs": [
+   "P0AEX9",
+   "P19087"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Guanine nucleotide-binding protein G(t) subunit alpha-2",
+  "len": 415
+ },
+ {
+  "entity": "6N84_1",
+  "accs": [
+   "P0AEX9",
+   "P19087"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Guanine nucleotide-binding protein G(t) subunit alpha-2",
+  "len": 415
+ },
+ {
+  "entity": "6M4W_1",
+  "accs": [
+   "P0AEX9",
+   "P62942"
+  ],
+  "desc": "chimera of Maltose/maltodextrin-binding periplasmic protein and Peptidyl-prolyl cis-trans isomerase FKBP1A",
+  "len": 405
+ },
+ {
+  "entity": "6M4V_1",
+  "accs": [
+   "P0AEX9",
+   "P62942"
+  ],
+  "desc": "chimera of Maltose/maltodextrin-binding periplasmic protein and Peptidyl-prolyl cis-trans isomerase FKBP1A",
+  "len": 405
+ },
+ {
+  "entity": "8ZQE_5",
+  "accs": [
+   "P0ABE7",
+   "P0AEX9",
+   "P49685"
+  ],
+  "desc": "GPR15",
+  "len": 881
+ },
+ {
+  "entity": "9SKR_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9VV6_1",
+  "accs": [
+   "P0ABE7",
+   "P0AEX9",
+   "Q96P68"
+  ],
+  "desc": "Soluble cytochrome b562,2-oxoglutarate receptor 1,Soluble cytochrome b562,2-oxoglutarate receptor 1,Soluble cytochrome b562,2-oxoglutarate receptor 1,Fusion protein,Maltose/maltodextrin-binding periplasmic protein,Maltose/maltodextrin-binding periplasmic protein,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1398
+ },
+ {
+  "entity": "9W39_1",
+  "accs": [
+   "P0AEX9",
+   "Q504T8"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Midnolin",
+  "len": 856
+ },
+ {
+  "entity": "9W3K_1",
+  "accs": [
+   "P02976",
+   "P06654",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Immunoglobulin G-binding protein A,Immunoglobulin G-binding protein G",
+  "len": 559
+ },
+ {
+  "entity": "9XQC_5",
+  "accs": [
+   "O95800",
+   "P0AEX9"
+  ],
+  "desc": "Probable G-protein coupled receptor 75,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 440
+ },
+ {
+  "entity": "9WBG_1",
+  "accs": [
+   "P0AEX9",
+   "Q504T8"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Midnolin",
+  "len": 856
+ },
+ {
+  "entity": "9W98_1",
+  "accs": [
+   "P0AEX9",
+   "P48065"
+  ],
+  "desc": "GFP,Maltose/maltodextrin-binding periplasmic protein,Sodium- and chloride-dependent betaine transporter",
+  "len": 1291
+ },
+ {
+  "entity": "9W97_1",
+  "accs": [
+   "P0AEX9",
+   "P48065"
+  ],
+  "desc": "GFP,Maltose/maltodextrin-binding periplasmic protein,Sodium- and chloride-dependent betaine transporter",
+  "len": 1291
+ },
+ {
+  "entity": "9VUS_5",
+  "accs": [
+   "P0ABE7",
+   "P0AEX9",
+   "Q96P68"
+  ],
+  "desc": "Soluble cytochrome b562,2-oxoglutarate receptor 1,Soluble cytochrome b562,2-oxoglutarate receptor 1,Soluble cytochrome b562,2-oxoglutarate receptor 1,Fusion protein,Maltose/maltodextrin-binding periplasmic protein,Maltose/maltodextrin-binding periplasmic protein,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1398
+ },
+ {
+  "entity": "9VUM_2",
+  "accs": [
+   "P0AEX9",
+   "Q9IK91"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Phosphoprotein",
+  "len": 638
+ },
+ {
+  "entity": "9VUM_1",
+  "accs": [
+   "P0AEX9",
+   "Q997F0"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,RNA-directed RNA polymerase L",
+  "len": 1904
+ },
+ {
+  "entity": "9VUL_2",
+  "accs": [
+   "P0AEX9",
+   "P35975"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,RNA-directed RNA polymerase L,Strep II and FLAG tag",
+  "len": 2630
+ },
+ {
+  "entity": "9VUL_1",
+  "accs": [
+   "P0AEX9",
+   "P35974"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Phosphoprotein",
+  "len": 602
+ },
+ {
+  "entity": "9VBV_1",
+  "accs": [
+   "P0AEX9",
+   "Q8GZ99"
+  ],
+  "desc": "Leucine-rich repeat receptor protein kinase HPCA1,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 893
+ },
+ {
+  "entity": "9VBD_1",
+  "accs": [
+   "P0AEX9",
+   "Q8GZ99"
+  ],
+  "desc": "Leucine-rich repeat receptor protein kinase HPCA1,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 893
+ },
+ {
+  "entity": "9UJY_1",
+  "accs": [
+   "P0AEX9",
+   "Q9W1K4"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Egalitarian, isoform B",
+  "len": 426
+ },
+ {
+  "entity": "9TNZ_1",
+  "accs": [
+   "P0AEX9",
+   "P23497"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Nuclear autoantigen Sp-100",
+  "len": 525
+ },
+ {
+  "entity": "9T3X_3",
+  "accs": [
+   "P0AEX9",
+   "Q86VM9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Zinc finger CCCH domain-containing protein 18",
+  "len": 464
+ },
+ {
+  "entity": "9SKZ_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9SKY_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9SKX_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9SKW_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9SKV_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9SKU_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9SKT_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9SKS_1",
+  "accs": [
+   "O85042",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Carboxysome shell carbonic anhydrase",
+  "len": 919
+ },
+ {
+  "entity": "9PX5_1",
+  "accs": [
+   "P0AEX9",
+   "Q9NZC2"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Triggering receptor expressed on myeloid cells 2",
+  "len": 492
+ },
+ {
+  "entity": "9P0X_4",
+  "accs": [
+   "P0AEX9",
+   "P13726"
+  ],
+  "desc": "Tissue factor,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 611
+ },
+ {
+  "entity": "9LN6_2",
+  "accs": [
+   "P0AEX9",
+   "Q96T88"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,E3 ubiquitin-protein ligase UHRF1",
+  "len": 495
+ },
+ {
+  "entity": "9LN6_1",
+  "accs": [
+   "P0AEX9",
+   "Q86W24"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,NACHT, LRR and PYD domains-containing protein 14",
+  "len": 1506
+ },
+ {
+  "entity": "9DH3_1",
+  "accs": [
+   "P0AEX9",
+   "Q96P20"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,NACHT, LRR and PYD domains-containing protein 3 chimera",
+  "len": 1267
+ },
+ {
+  "entity": "9COO_2",
+  "accs": [
+   "P02976",
+   "P06654",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,Immunoglobulin G-binding protein A,Immunoglobulin G-binding protein G",
+  "len": 545
+ },
+ {
+  "entity": "9CF3_4",
+  "accs": [
+   "A0A0B7NJM7",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Parasitella parasitica Fanzor 1",
+  "len": 1259
+ },
+ {
+  "entity": "9CF2_3",
+  "accs": [
+   "A0A0B7NJM7",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Parasitella parasitica Fanzor 1",
+  "len": 1259
+ },
+ {
+  "entity": "9CF1_3",
+  "accs": [
+   "A0A0B7NJM7",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Parasitella parasitica Fanzor 1",
+  "len": 1259
+ },
+ {
+  "entity": "9CF0_3",
+  "accs": [
+   "A0A0B7NJM7",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Parasitella parasitica Fanzor 1",
+  "len": 1259
+ },
+ {
+  "entity": "9CEZ_2",
+  "accs": [
+   "A0A0L0H5U9",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Spizellomyces punctatus Fanzor 1",
+  "len": 1032
+ },
+ {
+  "entity": "9CEY_2",
+  "accs": [
+   "A0A0L0H5U9",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Spizellomyces punctatus Fanzor 1",
+  "len": 1032
+ },
+ {
+  "entity": "9CEX_4",
+  "accs": [
+   "A0A0L0H5U9",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Spizellomyces punctatus Fanzor 1",
+  "len": 1032
+ },
+ {
+  "entity": "9CEW_2",
+  "accs": [
+   "A0A0L0H5U9",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Spizellomyces punctatus Fanzor 1",
+  "len": 1032
+ },
+ {
+  "entity": "9CEV_2",
+  "accs": [
+   "A0A0L0H5U9",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Spizellomyces punctatus Fanzor 1",
+  "len": 1032
+ },
+ {
+  "entity": "9CEU_2",
+  "accs": [
+   "A0A0L0H5U9",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Spizellomyces punctatus Fanzor 1",
+  "len": 1032
+ },
+ {
+  "entity": "9CET_2",
+  "accs": [
+   "L1JXG4",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Guillardia theta Fanzor1",
+  "len": 1100
+ },
+ {
+  "entity": "9CES_2",
+  "accs": [
+   "L1JXG4",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Guillardia theta Fanzor1",
+  "len": 1100
+ },
+ {
+  "entity": "9CER_1",
+  "accs": [
+   "L1JXG4",
+   "P0AEX9"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Guillardia theta Fanzor1",
+  "len": 1100
+ },
+ {
+  "entity": "9BOI_1",
+  "accs": [
+   "P0AEX9",
+   "P42212",
+   "Q9H2V7"
+  ],
+  "desc": "mVenus,Maltose/maltodextrin-binding periplasmic protein,Protein spinster homolog 1,Designed ankyrin repeat protein (DARPin)",
+  "len": 1275
+ },
+ {
+  "entity": "9BDT_4",
+  "accs": [
+   "P02976",
+   "P06654",
+   "P0AEX9"
+  ],
+  "desc": "Maltodextrin-binding protein,Immunoglobulin G-binding protein A,Immunoglobulin G-binding protein G",
+  "len": 545
+ },
+ {
+  "entity": "9BDE_4",
+  "accs": [
+   "P02976",
+   "P0AEX9",
+   "P19909"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Immunoglobulin G-binding protein A,Immunoglobulin G-binding protein G",
+  "len": 545
+ },
+ {
+  "entity": "9BCG_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Induced myeloid leukemia cell differentiation protein Mcl-1",
+  "len": 516
+ },
+ {
+  "entity": "8ZMS_1",
+  "accs": [
+   "P0AEX9",
+   "Q16572"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Vesicular acetylcholine transporter,DARPinoff7",
+  "len": 1047
+ },
+ {
+  "entity": "8ZMR_1",
+  "accs": [
+   "P0AEX9",
+   "Q16572"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Vesicular acetylcholine transporter,DARPinoff7",
+  "len": 1047
+ },
+ {
+  "entity": "8XB4_1",
+  "accs": [
+   "P0AEX9",
+   "P23975"
+  ],
+  "desc": "GFP-MBP-solute carrier family 6 member 2",
+  "len": 1244
+ },
+ {
+  "entity": "8XB3_1",
+  "accs": [
+   "P0AEX9",
+   "P23975"
+  ],
+  "desc": "GFP-MBP-solute carrier family 6 member 2",
+  "len": 1244
+ },
+ {
+  "entity": "8XB2_1",
+  "accs": [
+   "P0AEX9",
+   "P23975"
+  ],
+  "desc": "GFP-MBP-solute carrier family 6 member 2,Maltose/maltodextrin-binding periplasmic protein,Sodium-dependent noradrenaline transporter,Maltose/maltodextrin-binding periplasmic protein,Sodium-dependent noradrenaline transporter",
+  "len": 1244
+ },
+ {
+  "entity": "8X7W_1",
+  "accs": [
+   "P0AEX9",
+   "P59047"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,NACHT, LRR and PYD domains-containing protein 5",
+  "len": 1530
+ },
+ {
+  "entity": "8X7V_1",
+  "accs": [
+   "P0AEX9",
+   "P59047"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,NACHT, LRR and PYD domains-containing protein 5",
+  "len": 1530
+ },
+ {
+  "entity": "8X2Y_6",
+  "accs": [
+   "P0AEX9",
+   "P47128"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Chromatin modification-related protein EAF6",
+  "len": 537
+ },
+ {
+  "entity": "8X2X_1",
+  "accs": [
+   "P0AEX9",
+   "P47128"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Chromatin modification-related protein EAF6",
+  "len": 537
+ },
+ {
+  "entity": "8VXN_1",
+  "accs": [
+   "P0AEX9",
+   "P10415",
+   "Q07817"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein fused to apoptosis regulator Bcl-2/Bcl-xL chimera",
+  "len": 547
+ },
+ {
+  "entity": "8VXM_1",
+  "accs": [
+   "P0AEX9",
+   "P10415",
+   "Q07817"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein fused to apoptosis regulator Bcl-2/Bcl-xL chimera",
+  "len": 547
+ },
+ {
+  "entity": "8VWZ_1",
+  "accs": [
+   "P0AEX9",
+   "P10415",
+   "Q07817"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein fused to apoptosis regulator Bcl-2/Bcl-xL chimera",
+  "len": 547
+ },
+ {
+  "entity": "8VWX_1",
+  "accs": [
+   "P0AEX9",
+   "P10415",
+   "Q07817"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein fused to apoptosis regulator Bcl-2/Bcl-xL chimera",
+  "len": 547
+ },
+ {
+  "entity": "8VRS_1",
+  "accs": [
+   "P0AEX9",
+   "Q8WXI7"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Mucin-16",
+  "len": 397
+ },
+ {
+  "entity": "8VG1_8",
+  "accs": [
+   "P0AEX9",
+   "P43694"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Transcription factor GATA-4",
+  "len": 835
+ },
+ {
+  "entity": "8VG0_7",
+  "accs": [
+   "P0AEX9",
+   "P43694"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,Transcription factor GATA-4",
+  "len": 835
+ },
+ {
+  "entity": "8TNR_3",
+  "accs": [
+   "P0AEX9",
+   "Q13422"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,SD40",
+  "len": 455
+ },
+ {
+  "entity": "8TNQ_3",
+  "accs": [
+   "P0AEX9",
+   "Q13422"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,SD40",
+  "len": 455
+ },
+ {
+  "entity": "8TNP_3",
+  "accs": [
+   "P0AEX9",
+   "Q13422"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein,SD40",
+  "len": 455
+ },
+ {
+  "entity": "8TLX_1",
+  "accs": [
+   "P0AEX9",
+   "P42568"
+  ],
+  "desc": "MBP and AF9 AHD fusion protein 3AQA",
+  "len": 442
+ },
+ {
+  "entity": "8TLW_1",
+  "accs": [
+   "P0AEX9",
+   "P42568"
+  ],
+  "desc": "MBP and AF9 AHD fusion protein 3AQA",
+  "len": 442
+ },
+ {
+  "entity": "8TLV_1",
+  "accs": [
+   "P0AEX9",
+   "P42568"
+  ],
+  "desc": "MBP and AF9 AHD fusion protein 4AQK",
+  "len": 443
+ },
+ {
+  "entity": "8T6F_1",
+  "accs": [
+   "P0AEX9",
+   "Q07820"
+  ],
+  "desc": "Maltose/maltodextrin-binding periplasmic protein/Induced myeloid leukemia cell differentiation protein Mcl-1 Chimera",
+  "len": 518
+ }
+]

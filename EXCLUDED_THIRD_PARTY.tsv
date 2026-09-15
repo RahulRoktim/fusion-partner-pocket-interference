@@ -1,0 +1,11 @@
+REPO_PATH	DESCRIPTION	SOURCE	BYTES	SHA256
+dataset_audit/membership/plinder_2024-06_v2_split.parquet	PLINDER 2024-06/v2 split file	https://storage.googleapis.com/plinder/2024-06/v2/splits/split.parquet	10651188	2959fb4b32f8c5cc2d3e12fc810b8905e904496f5538e8d058f47eecee73eb40
+dataset_audit/membership/1dug_benchmark.pdb	PDB entry 1DUG coordinates (benchmarked chain)	https://files.rcsb.org/download/1DUG.cif	156249	c75dbb952653fa91cb1b8d5c167a077358e39be4adee66bd6d9977f16c92a902
+dataset_audit/membership/chen11.ds	CHEN11 membership list	https://github.com/rdk/p2rank-datasets	8117	91caf227eb213f5a5f2c9ce081730bdf6a81c40e03582969bfcb036c9fbec9de
+dataset_audit/membership/joined.ds	JOINED membership list	https://github.com/rdk/p2rank-datasets	12291	749f23f5da3bac827f8904c34610467b1b5c1597a9f3fcfbee6e966b11e4da6b
+dataset_audit/membership/joined(mlig).ds	JOINED (mlig) membership list	https://github.com/rdk/p2rank-datasets	10821	237286874af9dcff14be5ef397868ca778446cdec0174207b16b897f1f10e15c
+dataset_audit/membership/coach420.ds	COACH420 membership list	https://github.com/rdk/p2rank-datasets	7980	4c33519448ae2df7107cf780cb0d8b38d02f3697173e0071c3751b3411c02bdd
+dataset_audit/membership/coach420(mlig).ds	COACH420 (mlig) membership list	https://github.com/rdk/p2rank-datasets	7744	87d6e1724637adfa3dd84c891e80c36f0501c4c2dc7f11b62ec4c585c4f3c417
+dataset_audit/membership/holo4k.ds	HOLO4K membership list	https://github.com/rdk/p2rank-datasets	64144	442a1abb07ee5ff93721262ba270600d1acdf7a75b50eb4c1eb773bd32c9dda0
+dataset_audit/membership/holo4k(mlig).ds	HOLO4K (mlig) membership list	https://github.com/rdk/p2rank-datasets	76996	28730da34f04848b41d39544bd68fd9310f9ab7201e53aea5c7bf0c3c6d866e1
+dataset_audit/membership/fptrain.ds	FPTRAIN membership list	https://github.com/rdk/p2rank-datasets	3774	af16cd4819b5947c36ef606942a0e7ff6cc4b19167cb37262129669dcff33715

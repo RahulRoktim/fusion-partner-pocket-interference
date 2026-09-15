@@ -1,0 +1,90 @@
+====================================================================================================
+PAIRED TARGET-CAVITY ENDPOINT — DEVELOPMENT DATA (n=24), exploratory
+====================================================================================================
+
+====================================================================================================
+DETECTOR: P2RANK
+====================================================================================================
+
+  structures with >=1 matched target cavity: 18/24
+  structures with NO matched target cavity: ['3N94', '3OAI', '5GPP', '5H7Q', '5JQE', '5YQR']
+
+  [E-B1] DISPLACEMENT — the target's best cavity was outranked by a
+         fusion-associated pocket in the deposited construct:
+         5/18 =  27.8% [12.5-50.9]
+         by partner:
+           BRIL : 0/8 =   0.0% [0.0-32.4]
+           T4L  : 2/7 =  28.6% [8.2-64.1]
+           MBP  : 3/3 = 100.0% [43.8-100.0]
+
+  [E-B2] PAIRED RANK CHANGE over all 86 matched cavities:
+         improved 42, worsened 1, unchanged 43
+         median change 0, mean +0.81, range [-3, 9]
+         Wilcoxon signed-rank on non-zero changes (DESCRIPTIVE): p = 5.28e-08
+         restricted to cavities with a fusion pocket above them (n=43): median change 1, improved 42, worsened 1
+
+  [E-C] BIOLOGICAL REFERENCE-SITE SUBSET
+        coverage: 13/24 structures
+        matched cavity overlapping the reference site found in 13/13
+        biological site outranked by a fusion pocket in the construct: 1/13 =   7.7% [1.4-33.3]
+        paired rank change of the biological site: median 0, improved 1, worsened 0, unchanged 12
+          3ODU   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          4DJH   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          4JKV   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          4N6H   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          4Z35   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          5ZBQ   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          6A73   T4L   rank 3 -> 1 (fusion pockets above in original: 2) J=1.0
+          6BG3   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          6CM4   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          6RZ4   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          6RZ7   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          7YXA   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          9JRT   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+
+====================================================================================================
+DETECTOR: FPOCKET
+====================================================================================================
+
+  structures with >=1 matched target cavity: 24/24
+
+  [E-B1] DISPLACEMENT — the target's best cavity was outranked by a
+         fusion-associated pocket in the deposited construct:
+         15/24 =  62.5% [42.7-78.8]
+         by partner:
+           BRIL : 5/8 =  62.5% [30.6-86.3]
+           T4L  : 3/8 =  37.5% [13.7-69.4]
+           MBP  : 7/8 =  87.5% [52.9-97.8]
+
+  [E-B2] PAIRED RANK CHANGE over all 364 matched cavities:
+         improved 313, worsened 32, unchanged 19
+         median change 5, mean +5.60, range [-18, 46]
+         Wilcoxon signed-rank on non-zero changes (DESCRIPTIVE): p = 3.98e-47
+         restricted to cavities with a fusion pocket above them (n=327): median change 5, improved 309, worsened 17
+
+  [E-C] BIOLOGICAL REFERENCE-SITE SUBSET
+        coverage: 13/24 structures
+        matched cavity overlapping the reference site found in 13/13
+        biological site outranked by a fusion pocket in the construct: 6/13 =  46.2% [23.2-70.9]
+        paired rank change of the biological site: median 0, improved 6, worsened 0, unchanged 7
+          3ODU   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          4DJH   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          4JKV   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=0.979
+          4N6H   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          4Z35   BRIL  rank 4 -> 2 (fusion pockets above in original: 1) J=1.0
+          5ZBQ   T4L   rank 13 -> 12 (fusion pockets above in original: 3) J=1.0
+          6A73   T4L   rank 9 -> 4 (fusion pockets above in original: 3) J=1.0
+          6BG3   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          6CM4   T4L   rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+          6RZ4   BRIL  rank 24 -> 18 (fusion pockets above in original: 5) J=1.0
+          6RZ7   BRIL  rank 10 -> 9 (fusion pockets above in original: 2) J=1.0
+          7YXA   BRIL  rank 2 -> 1 (fusion pockets above in original: 1) J=1.0
+          9JRT   BRIL  rank 1 -> 1 (fusion pockets above in original: 0) J=1.0
+
+====================================================================================================
+COMPARISON WITH THE DEGENERATE PILOT ENDPOINT (audit only)
+====================================================================================================
+  p2rank   degenerate 'rank-1 becomes TARGET_DOMINATED': 5 improved / 0 worsened
+  p2rank   non-degenerate displacement of the target's own best cavity: 5/18
+  fpocket  degenerate 'rank-1 becomes TARGET_DOMINATED': 15 improved / 0 worsened
+  fpocket  non-degenerate displacement of the target's own best cavity: 15/24

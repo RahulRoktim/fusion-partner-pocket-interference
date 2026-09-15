@@ -1,0 +1,1394 @@
+[
+ {
+  "entity": "29AJ_1",
+  "accs": [
+   "P00720",
+   "Q5VT66"
+  ],
+  "desc": "Mitochondrial amidoxime-reducing component 1,Endolysin",
+  "len": 455
+ },
+ {
+  "entity": "3ODU_1",
+  "accs": [
+   "P00720",
+   "P61073"
+  ],
+  "desc": "C-X-C chemokine receptor type 4, Lysozyme Chimera",
+  "len": 502
+ },
+ {
+  "entity": "3OE6_1",
+  "accs": [
+   "P00720",
+   "P61073"
+  ],
+  "desc": "C-X-C chemokine receptor type 4, Lysozyme Chimera",
+  "len": 508
+ },
+ {
+  "entity": "3OE8_1",
+  "accs": [
+   "P00720",
+   "P61073"
+  ],
+  "desc": "C-X-C chemokine receptor type 4, Lysozyme Chimera",
+  "len": 502
+ },
+ {
+  "entity": "3OE9_1",
+  "accs": [
+   "P00720",
+   "P61073"
+  ],
+  "desc": "C-X-C chemokine receptor type 4, Lysozyme Chimera",
+  "len": 499
+ },
+ {
+  "entity": "3PBL_1",
+  "accs": [
+   "P00720",
+   "P35462"
+  ],
+  "desc": "D(3) dopamine receptor, Lysozyme chimera",
+  "len": 481
+ },
+ {
+  "entity": "3SN6_4",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Endolysin,Beta-2 adrenergic receptor",
+  "len": 514
+ },
+ {
+  "entity": "4K5Y_1",
+  "accs": [
+   "P00720",
+   "P34998"
+  ],
+  "desc": "Corticotropin-releasing factor receptor 1, T4-Lysozyme chimeric construct",
+  "len": 441
+ },
+ {
+  "entity": "4U14_1",
+  "accs": [
+   "P00720",
+   "P08483"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M3,Endolysin,Muscarinic acetylcholine receptor M3",
+  "len": 460
+ },
+ {
+  "entity": "4TN3_1",
+  "accs": [
+   "G9MAP5",
+   "P00720"
+  ],
+  "desc": "TRIM5/cyclophilin A fusion protein/T4 Lysozyme chimera",
+  "len": 400
+ },
+ {
+  "entity": "4RWS_1",
+  "accs": [
+   "P00720",
+   "P61073"
+  ],
+  "desc": "C-X-C chemokine receptor type 4/Endolysin chimeric protein",
+  "len": 498
+ },
+ {
+  "entity": "4QKX_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor",
+  "len": 469
+ },
+ {
+  "entity": "4PHU_1",
+  "accs": [
+   "O14842",
+   "P00720"
+  ],
+  "desc": "Free fatty acid receptor 1,Lysozyme",
+  "len": 491
+ },
+ {
+  "entity": "4OO9_1",
+  "accs": [
+   "P00720",
+   "P41594"
+  ],
+  "desc": "Metabotropic glutamate receptor 5, Lysozyme, Metabotropic glutamate receptor 5 chimera",
+  "len": 444
+ },
+ {
+  "entity": "4N9N_1",
+  "accs": [
+   "P00720",
+   "Q12151"
+  ],
+  "desc": "Sterol uptake control protein 2, Lysozyme",
+  "len": 438
+ },
+ {
+  "entity": "4LDO_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Lysozyme, Beta-2 adrenergic receptor",
+  "len": 469
+ },
+ {
+  "entity": "4LDL_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Lysozyme, Beta-2 adrenergic receptor",
+  "len": 469
+ },
+ {
+  "entity": "4LDE_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Lysozyme, Beta-2 adrenergic receptor",
+  "len": 469
+ },
+ {
+  "entity": "4IAP_1",
+  "accs": [
+   "P00720",
+   "P38713"
+  ],
+  "desc": "Oxysterol-binding protein homolog 3,Endolysin,Oxysterol-binding protein homolog 3",
+  "len": 260
+ },
+ {
+  "entity": "4HTT_1",
+  "accs": [
+   "O67305",
+   "P00720"
+  ],
+  "desc": "Sec-independent protein translocase protein TatC, Lysozyme",
+  "len": 418
+ },
+ {
+  "entity": "4GRV_1",
+  "accs": [
+   "P00720",
+   "P20789"
+  ],
+  "desc": "Neurotensin receptor type 1, lysozyme chimera",
+  "len": 510
+ },
+ {
+  "entity": "4EXM_1",
+  "accs": [
+   "P00720",
+   "Q57159"
+  ],
+  "desc": "Pesticin, Lysozyme Chimera",
+  "len": 347
+ },
+ {
+  "entity": "4EPI_1",
+  "accs": [
+   "P00720",
+   "Q57159"
+  ],
+  "desc": "Pesticin, Lysozyme Chimera",
+  "len": 330
+ },
+ {
+  "entity": "4EJ4_1",
+  "accs": [
+   "P00720",
+   "P32300"
+  ],
+  "desc": "Delta-type opioid receptor, Lysozyme chimera",
+  "len": 461
+ },
+ {
+  "entity": "4DKL_1",
+  "accs": [
+   "P00720",
+   "P42866"
+  ],
+  "desc": "Mu-type opioid receptor, lysozyme chimera",
+  "len": 464
+ },
+ {
+  "entity": "4DJH_1",
+  "accs": [
+   "P00720",
+   "P41145"
+  ],
+  "desc": "Kappa-type opioid receptor, Lysozyme",
+  "len": 480
+ },
+ {
+  "entity": "4DAJ_1",
+  "accs": [
+   "P00720",
+   "P08483"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M3, Lysozyme",
+  "len": 479
+ },
+ {
+  "entity": "4ARJ_1",
+  "accs": [
+   "P00720",
+   "Q57159"
+  ],
+  "desc": "PESTICIN, LYSOZYME",
+  "len": 339
+ },
+ {
+  "entity": "3VW7_1",
+  "accs": [
+   "P00720",
+   "P25116"
+  ],
+  "desc": "Proteinase-activated receptor 1, Lysozyme",
+  "len": 484
+ },
+ {
+  "entity": "3V2Y_1",
+  "accs": [
+   "P00720",
+   "P21453"
+  ],
+  "desc": "Sphingosine 1-phosphate receptor 1, Lysozyme chimera (E.C.3.2.1.17)",
+  "len": 520
+ },
+ {
+  "entity": "3V2W_1",
+  "accs": [
+   "P00720",
+   "P21453"
+  ],
+  "desc": "Sphingosine 1-phosphate receptor 1, Lysozyme chimera",
+  "len": 520
+ },
+ {
+  "entity": "3UON_1",
+  "accs": [
+   "P00720",
+   "P08172"
+  ],
+  "desc": "Human M2 muscarinic acetylcholine, receptor T4 lysozyme fusion protein",
+  "len": 467
+ },
+ {
+  "entity": "3RZE_1",
+  "accs": [
+   "P00720",
+   "P35367"
+  ],
+  "desc": "Histamine H1 receptor, Lysozyme chimera",
+  "len": 452
+ },
+ {
+  "entity": "3QAK_1",
+  "accs": [
+   "P00720",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,lysozyme chimera",
+  "len": 488
+ },
+ {
+  "entity": "3PDS_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Fusion protein Beta-2 adrenergic receptor/Lysozyme",
+  "len": 458
+ },
+ {
+  "entity": "3P0G_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor, Lysozyme",
+  "len": 501
+ },
+ {
+  "entity": "3OE0_1",
+  "accs": [
+   "P00720",
+   "P61073"
+  ],
+  "desc": "C-X-C chemokine receptor type 4, Lysozyme Chimera",
+  "len": 499
+ },
+ {
+  "entity": "3NYA_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor, Lysozyme",
+  "len": 490
+ },
+ {
+  "entity": "3NY9_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor, Lysozyme",
+  "len": 490
+ },
+ {
+  "entity": "3NY8_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor, Lysozyme",
+  "len": 490
+ },
+ {
+  "entity": "3EML_1",
+  "accs": [
+   "P00720",
+   "P29274"
+  ],
+  "desc": "Human Adenosine A2A receptor/T4 lysozyme chimera",
+  "len": 488
+ },
+ {
+  "entity": "3D4S_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor/T4-lysozyme chimera",
+  "len": 490
+ },
+ {
+  "entity": "2RH1_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "beta-2-adrenergic receptor/T4-lysozyme chimera",
+  "len": 500
+ },
+ {
+  "entity": "5EE7_1",
+  "accs": [
+   "P00720",
+   "P47871"
+  ],
+  "desc": "Glucagon receptor,Endolysin,Glucagon receptor",
+  "len": 452
+ },
+ {
+  "entity": "5JQH_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Endolysin,Beta-2 adrenergic receptor",
+  "len": 471
+ },
+ {
+  "entity": "5VEW_1",
+  "accs": [
+   "P00720",
+   "P43220"
+  ],
+  "desc": "Glucagon-like peptide 1 receptor,Endolysin chimera",
+  "len": 455
+ },
+ {
+  "entity": "5VEX_1",
+  "accs": [
+   "P00720",
+   "P43220"
+  ],
+  "desc": "Glucagon-like peptide 1 receptor, Endolysin chimera",
+  "len": 455
+ },
+ {
+  "entity": "5XEZ_1",
+  "accs": [
+   "P00720",
+   "P47871"
+  ],
+  "desc": "Glucagon receptor,Endolysin,Glucagon receptor",
+  "len": 574
+ },
+ {
+  "entity": "5XF1_1",
+  "accs": [
+   "P00720",
+   "P47871"
+  ],
+  "desc": "Glucagon receptor,Endolysin,Glucagon receptor",
+  "len": 574
+ },
+ {
+  "entity": "5YQZ_1",
+  "accs": [
+   "P00720",
+   "P47871"
+  ],
+  "desc": "Glucagon receptor,Endolysin,Glucagon receptor",
+  "len": 575
+ },
+ {
+  "entity": "6CM4_1",
+  "accs": [
+   "P00720",
+   "P14416"
+  ],
+  "desc": "D(2) dopamine receptor, endolysin chimera",
+  "len": 430
+ },
+ {
+  "entity": "6D27_1",
+  "accs": [
+   "P00720",
+   "Q9Y5Y4"
+  ],
+  "desc": "Prostaglandin D2 receptor 2, Endolysin chimera",
+  "len": 470
+ },
+ {
+  "entity": "6D9M_1",
+  "accs": [
+   "P00720",
+   "Q39UD1"
+  ],
+  "desc": "Fusion protein of Endolysin,Response receiver sensor diguanylate cyclase, GAF domain-containing",
+  "len": 337
+ },
+ {
+  "entity": "6KJV_1",
+  "accs": [
+   "P00720",
+   "P43220"
+  ],
+  "desc": "Glucagon-like peptide 1 receptor,Endolysin,Glucagon-like peptide 1 receptor",
+  "len": 455
+ },
+ {
+  "entity": "6KK1_1",
+  "accs": [
+   "P00720",
+   "P43220"
+  ],
+  "desc": "Glucagon-like peptide 1 receptor,Endolysin,Glucagon-like peptide 1 receptor",
+  "len": 455
+ },
+ {
+  "entity": "6KK7_1",
+  "accs": [
+   "P00720",
+   "P43220"
+  ],
+  "desc": "Glucagon-like peptide 1 receptor,Endolysin,Glucagon-like peptide 1 receptor",
+  "len": 455
+ },
+ {
+  "entity": "7F8Y_1",
+  "accs": [
+   "P00720",
+   "P32238"
+  ],
+  "desc": "fusion protein of Cholecystokinin receptor type A and Endolysin",
+  "len": 534
+ },
+ {
+  "entity": "7F8X_1",
+  "accs": [
+   "P00720",
+   "P32238"
+  ],
+  "desc": "Cholecystokinin receptor type A,Endolysin",
+  "len": 534
+ },
+ {
+  "entity": "7F8U_1",
+  "accs": [
+   "P00720",
+   "P32238"
+  ],
+  "desc": "Fusion protein of Cholecystokinin receptor type A and Endolysin",
+  "len": 534
+ },
+ {
+  "entity": "6ZX9_3",
+  "accs": [
+   "A4UDG5",
+   "P00720"
+  ],
+  "desc": "Vpr protein fused to T4 lysozyme",
+  "len": 258
+ },
+ {
+  "entity": "6ZG9_1",
+  "accs": [
+   "P00720",
+   "P11229"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M1,Endolysin,Muscarinic acetylcholine receptor M1",
+  "len": 455
+ },
+ {
+  "entity": "6ZG4_1",
+  "accs": [
+   "P00720",
+   "P11229"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M1,Endolysin,Muscarinic acetylcholine receptor M1",
+  "len": 455
+ },
+ {
+  "entity": "6ZFZ_1",
+  "accs": [
+   "P00720",
+   "P11229"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M1,Endolysin,Muscarinic acetylcholine receptor M1",
+  "len": 455
+ },
+ {
+  "entity": "6XYR_1",
+  "accs": [
+   "P00720",
+   "P0DP23"
+  ],
+  "desc": "T4Lnano,Endolysin,Calmodulin,Endolysin,Calmodulin-1",
+  "len": 361
+ },
+ {
+  "entity": "6WSK_1",
+  "accs": [
+   "P00720",
+   "Q5M7A7"
+  ],
+  "desc": "Endolysin,CB1 cannabinoid receptor-interacting protein 1 fusion",
+  "len": 346
+ },
+ {
+  "entity": "6QAJ_1",
+  "accs": [
+   "P00720",
+   "Q13263"
+  ],
+  "desc": "Endolysin,Transcription intermediary factor 1-beta",
+  "len": 544
+ },
+ {
+  "entity": "6MXT_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Endolysin, Beta-2 adrenergic receptor chimera",
+  "len": 472
+ },
+ {
+  "entity": "6M9T_1",
+  "accs": [
+   "P00720",
+   "P43115"
+  ],
+  "desc": "Prostaglandin E2 receptor EP3 subtype, Endolysin chimera",
+  "len": 537
+ },
+ {
+  "entity": "6KPC_1",
+  "accs": [
+   "P00720",
+   "P34972"
+  ],
+  "desc": "Cannabinoid receptor 2,Endolysin",
+  "len": 500
+ },
+ {
+  "entity": "6K1Q_1",
+  "accs": [
+   "P00720",
+   "P24530"
+  ],
+  "desc": "Endothelin B receptor,Endolysin,Endothelin B receptor",
+  "len": 464
+ },
+ {
+  "entity": "6J21_1",
+  "accs": [
+   "P00720",
+   "P25103"
+  ],
+  "desc": "Substance-P receptor,Endolysin",
+  "len": 441
+ },
+ {
+  "entity": "6J20_1",
+  "accs": [
+   "P00720",
+   "P25103"
+  ],
+  "desc": "Substance-P receptor,Endolysin",
+  "len": 441
+ },
+ {
+  "entity": "6IIH_1",
+  "accs": [
+   "P00720",
+   "Q8IYU8"
+  ],
+  "desc": "Endolysin,Calcium uptake protein 2, mitochondrial",
+  "len": 493
+ },
+ {
+  "entity": "6FW2_1",
+  "accs": [
+   "P00720",
+   "Q5VT66"
+  ],
+  "desc": "Mitochondrial amidoxime-reducing component 1,Endolysin,Mitochondrial amidoxime-reducing component 1",
+  "len": 459
+ },
+ {
+  "entity": "6FFI_1",
+  "accs": [
+   "P00720",
+   "P41594"
+  ],
+  "desc": "Metabotropic glutamate receptor 5,Endolysin,Metabotropic glutamate receptor 5",
+  "len": 444
+ },
+ {
+  "entity": "6FFH_1",
+  "accs": [
+   "P00720",
+   "P41594"
+  ],
+  "desc": "Metabotropic glutamate receptor 5,Endolysin",
+  "len": 444
+ },
+ {
+  "entity": "6D26_1",
+  "accs": [
+   "P00720",
+   "Q9Y5Y4"
+  ],
+  "desc": "Prostaglandin D2 receptor 2, Endolysin chimera",
+  "len": 470
+ },
+ {
+  "entity": "6BG5_1",
+  "accs": [
+   "P00720",
+   "Q96GG9"
+  ],
+  "desc": "Endolysin, DCN1-like protein 1 chimera",
+  "len": 384
+ },
+ {
+  "entity": "6BG3_1",
+  "accs": [
+   "P00720",
+   "Q96GG9"
+  ],
+  "desc": "Endolysin, DCN1-like protein 1 chimera",
+  "len": 384
+ },
+ {
+  "entity": "6A9J_1",
+  "accs": [
+   "O94649",
+   "P00720"
+  ],
+  "desc": "Endolysin,Autophagy-related protein 2",
+  "len": 389
+ },
+ {
+  "entity": "6A9E_1",
+  "accs": [
+   "O94649",
+   "P00720"
+  ],
+  "desc": "Endolysin,Autophagy-related protein 2",
+  "len": 389
+ },
+ {
+  "entity": "6A73_1",
+  "accs": [
+   "P00720",
+   "P61201"
+  ],
+  "desc": "COP9 signalosome complex subunit 2,Endolysin",
+  "len": 304
+ },
+ {
+  "entity": "5ZKQ_1",
+  "accs": [
+   "P00720",
+   "P25105"
+  ],
+  "desc": "Platelet-activating factor receptor,Endolysin,Endolysin,Platelet-activating factor receptor",
+  "len": 438
+ },
+ {
+  "entity": "5ZHP_1",
+  "accs": [
+   "P00720",
+   "P08483"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M3,Endolysin,Endolysin,Muscarinic acetylcholine receptor M3",
+  "len": 418
+ },
+ {
+  "entity": "5ZBQ_1",
+  "accs": [
+   "P00720",
+   "P25929"
+  ],
+  "desc": "Neuropeptide Y receptor type 1,T4 Lysozyme",
+  "len": 525
+ },
+ {
+  "entity": "5ZBH_1",
+  "accs": [
+   "P00720",
+   "P25929"
+  ],
+  "desc": "Neuropeptide Y receptor type 1,T4 Lysozyme,Neuropeptide Y receptor type 1",
+  "len": 527
+ },
+ {
+  "entity": "5YQR_1",
+  "accs": [
+   "P00720",
+   "Q08001"
+  ],
+  "desc": "Endolysin/Membrane-anchored lipid-binding protein LAM6 fusion protein",
+  "len": 276
+ },
+ {
+  "entity": "5XSZ_1",
+  "accs": [
+   "P00720",
+   "Q08BG4"
+  ],
+  "desc": "Lysophosphatidic acid receptor 6a,Endolysin,Lysophosphatidic acid receptor 6a",
+  "len": 477
+ },
+ {
+  "entity": "5XPR_1",
+  "accs": [
+   "P00720",
+   "P24530"
+  ],
+  "desc": "Endothelin B receptor,Endolysin,Endothelin B receptor",
+  "len": 464
+ },
+ {
+  "entity": "5X93_1",
+  "accs": [
+   "P00720",
+   "P24530"
+  ],
+  "desc": "Endothelin B receptor,Endolysin,Endothelin B receptor",
+  "len": 464
+ },
+ {
+  "entity": "5X7D_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Chimera protein of Beta-2 adrenergic receptor and Lysozyme",
+  "len": 500
+ },
+ {
+  "entity": "5WF6_1",
+  "accs": [
+   "P00720",
+   "P29274"
+  ],
+  "desc": "Human A2a adenosine receptor T4L chimera",
+  "len": 504
+ },
+ {
+  "entity": "5WF5_1",
+  "accs": [
+   "P00720",
+   "P29274"
+  ],
+  "desc": "Human A2a adenosine receptor T4L chimera",
+  "len": 504
+ },
+ {
+  "entity": "5W0P_2",
+  "accs": [
+   "P00720",
+   "P08100",
+   "P20443"
+  ],
+  "desc": "Endolysin,Rhodopsin,S-arrestin",
+  "len": 906
+ },
+ {
+  "entity": "5W0P_1",
+  "accs": [
+   "P00720",
+   "P08100",
+   "P20443"
+  ],
+  "desc": "Endolysin,Rhodopsin,S-arrestin",
+  "len": 906
+ },
+ {
+  "entity": "5V88_1",
+  "accs": [
+   "P00720",
+   "Q96GG9"
+  ],
+  "desc": "Lysozyme,DCN1-like protein 1",
+  "len": 384
+ },
+ {
+  "entity": "5V86_1",
+  "accs": [
+   "P00720",
+   "Q96GG9"
+  ],
+  "desc": "Lysozyme,DCN1-like protein 1",
+  "len": 384
+ },
+ {
+  "entity": "5V83_1",
+  "accs": [
+   "P00720",
+   "Q96GG9"
+  ],
+  "desc": "Lysozyme,DCN1-like protein 1 chimera",
+  "len": 384
+ },
+ {
+  "entity": "5TZY_1",
+  "accs": [
+   "O14842",
+   "P00720"
+  ],
+  "desc": "Free fatty acid receptor 1,Endolysin,Free fatty acid receptor 1",
+  "len": 491
+ },
+ {
+  "entity": "5TZR_1",
+  "accs": [
+   "O14842",
+   "P00720"
+  ],
+  "desc": "Free fatty acid receptor 1,Endolysin,Free fatty acid receptor 1",
+  "len": 491
+ },
+ {
+  "entity": "5T1A_1",
+  "accs": [
+   "P00720",
+   "P41597"
+  ],
+  "desc": "Chimera protein of CC chemokine receptor type 2 isoform B and T4-lysozyme,Lysozyme",
+  "len": 508
+ },
+ {
+  "entity": "5T04_1",
+  "accs": [
+   "P00720",
+   "P20789"
+  ],
+  "desc": "Neurotensin receptor type 1,Endolysin,Neurotensin receptor type 1",
+  "len": 513
+ },
+ {
+  "entity": "5NDZ_1",
+  "accs": [
+   "P00720",
+   "P0ABE7",
+   "P55085"
+  ],
+  "desc": "Lysozyme,Proteinase-activated receptor 2,Soluble cytochrome b562,Proteinase-activated receptor 2",
+  "len": 619
+ },
+ {
+  "entity": "5NDD_1",
+  "accs": [
+   "P00720",
+   "P0ABE7",
+   "P55085"
+  ],
+  "desc": "Lysozyme,Proteinase-activated receptor 2,Soluble cytochrome b562,Proteinase-activated receptor 2",
+  "len": 619
+ },
+ {
+  "entity": "5KW2_1",
+  "accs": [
+   "O14842",
+   "P00720"
+  ],
+  "desc": "Free fatty acid receptor 1,Lysozyme,Free fatty acid receptor 1",
+  "len": 491
+ },
+ {
+  "entity": "5JEA_11",
+  "accs": [
+   "P00720",
+   "Q08491"
+  ],
+  "desc": "Superkiller protein 7,Endolysin",
+  "len": 279
+ },
+ {
+  "entity": "5GLI_1",
+  "accs": [
+   "P00720",
+   "P24530"
+  ],
+  "desc": "Endothelin Receptor Subtype-B",
+  "len": 464
+ },
+ {
+  "entity": "5GLH_1",
+  "accs": [
+   "P00720",
+   "P24530"
+  ],
+  "desc": "Endothelin Receptor Subtype-B",
+  "len": 498
+ },
+ {
+  "entity": "5EWX_1",
+  "accs": [
+   "P00720",
+   "P38507"
+  ],
+  "desc": "Endolysin,Immunoglobulin G-binding protein A,Endolysin",
+  "len": 227
+ },
+ {
+  "entity": "5EUT_1",
+  "accs": [
+   "P00720",
+   "Q9BTU6"
+  ],
+  "desc": "Phosphatidylinositol 4-kinase type 2-alpha,Endolysin,Phosphatidylinositol 4-kinase type 2-alpha",
+  "len": 556
+ },
+ {
+  "entity": "5DSG_1",
+  "accs": [
+   "P00720",
+   "P08173"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M4,Endolysin,Endolysin,Muscarinic acetylcholine receptor M4",
+  "len": 422
+ },
+ {
+  "entity": "5DGY_1",
+  "accs": [
+   "P00720",
+   "P08100",
+   "P20443"
+  ],
+  "desc": "Endolysin,Rhodopsin,S-arrestin",
+  "len": 906
+ },
+ {
+  "entity": "5D6L_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin,Beta-2 adrenergic receptor",
+  "len": 500
+ },
+ {
+  "entity": "5D5B_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin,Beta-2 adrenergic receptor",
+  "len": 500
+ },
+ {
+  "entity": "5D5A_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin,Beta-2 adrenergic receptor",
+  "len": 500
+ },
+ {
+  "entity": "5CXV_1",
+  "accs": [
+   "P00720",
+   "P11229"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M1,Endolysin,Muscarinic acetylcholine receptor M1",
+  "len": 515
+ },
+ {
+  "entity": "5CGD_1",
+  "accs": [
+   "P00720",
+   "P41594"
+  ],
+  "desc": "Metabotropic glutamate receptor 5,Endolysin,Metabotropic glutamate receptor 5",
+  "len": 444
+ },
+ {
+  "entity": "5CGC_1",
+  "accs": [
+   "P00720",
+   "P41594"
+  ],
+  "desc": "Metabotropic glutamate receptor 5,Endolysin,Metabotropic glutamate receptor 5",
+  "len": 444
+ },
+ {
+  "entity": "5B2G_1",
+  "accs": [
+   "O14493",
+   "P00720"
+  ],
+  "desc": "Endolysin,Claudin-4",
+  "len": 364
+ },
+ {
+  "entity": "4ZWJ_1",
+  "accs": [
+   "P00720",
+   "P08100",
+   "P20443"
+  ],
+  "desc": "Chimera protein of human Rhodopsin, mouse S-arrestin, and T4 Endolysin",
+  "len": 906
+ },
+ {
+  "entity": "4YXA_3",
+  "accs": [
+   "P00720",
+   "P0CL45"
+  ],
+  "desc": "Oxygen-regulated invasion protein OrgB,Endolysin",
+  "len": 197
+ },
+ {
+  "entity": "4YX7_3",
+  "accs": [
+   "P00720",
+   "P0CL45"
+  ],
+  "desc": "Oxygen-regulated invasion protein OrgB,Endolysin",
+  "len": 197
+ },
+ {
+  "entity": "4XES_1",
+  "accs": [
+   "P00720",
+   "P20789"
+  ],
+  "desc": "Neurotensin receptor type 1, Endolysin chimera",
+  "len": 541
+ },
+ {
+  "entity": "4XEE_1",
+  "accs": [
+   "P00720",
+   "P20789"
+  ],
+  "desc": "Neurotensin receptor type 1, Endolysin chimera",
+  "len": 541
+ },
+ {
+  "entity": "4WTV_1",
+  "accs": [
+   "P00720",
+   "Q8TCG2"
+  ],
+  "desc": "Phosphatidylinositol 4-kinase type 2-beta,Endolysin,Phosphatidylinositol 4-kinase type 2-beta",
+  "len": 514
+ },
+ {
+  "entity": "4W8F_1",
+  "accs": [
+   "P00720",
+   "P36022"
+  ],
+  "desc": "Dynein heavy chain lysozyme chimera",
+  "len": 2661
+ },
+ {
+  "entity": "8W1V_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin",
+  "len": 549
+ },
+ {
+  "entity": "9W3F_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin",
+  "len": 517
+ },
+ {
+  "entity": "9RKI_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin",
+  "len": 442
+ },
+ {
+  "entity": "9RKH_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin",
+  "len": 442
+ },
+ {
+  "entity": "9RKG_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin",
+  "len": 443
+ },
+ {
+  "entity": "9RKF_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Endolysin",
+  "len": 443
+ },
+ {
+  "entity": "9HHM_1",
+  "accs": [
+   "P00720",
+   "Q8TCG2"
+  ],
+  "desc": "Phosphatidylinositol 4-kinase type 2-beta,Endolysin",
+  "len": 517
+ },
+ {
+  "entity": "9HC3_1",
+  "accs": [
+   "P00720",
+   "P41594"
+  ],
+  "desc": "Metabotropic glutamate receptor 5,Endolysin",
+  "len": 444
+ },
+ {
+  "entity": "9HC0_1",
+  "accs": [
+   "P00720",
+   "P41594"
+  ],
+  "desc": "Metabotropic glutamate receptor 5,Endolysin",
+  "len": 444
+ },
+ {
+  "entity": "9CBM_4",
+  "accs": [
+   "P00720",
+   "P08913"
+  ],
+  "desc": "Endolysin,Alpha-2A adrenergic receptor",
+  "len": 484
+ },
+ {
+  "entity": "9CBL_4",
+  "accs": [
+   "P00720",
+   "P08913"
+  ],
+  "desc": "Endolysin,Alpha-2A adrenergic receptor",
+  "len": 484
+ },
+ {
+  "entity": "8YIC_4",
+  "accs": [
+   "P00720",
+   "P21453"
+  ],
+  "desc": "Endolysin,Sphingosine 1-phosphate receptor 1",
+  "len": 515
+ },
+ {
+  "entity": "8UGW_1",
+  "accs": [
+   "P00720",
+   "P29274"
+  ],
+  "desc": "Endolysin,Adenosine receptor A2a",
+  "len": 472
+ },
+ {
+  "entity": "8THL_5",
+  "accs": [
+   "P00720",
+   "P35348"
+  ],
+  "desc": "Endolysin,Alpha-1A adrenergic receptor",
+  "len": 503
+ },
+ {
+  "entity": "8THK_5",
+  "accs": [
+   "P00720",
+   "P35348"
+  ],
+  "desc": "Endolysin,Alpha-1A adrenergic receptor",
+  "len": 503
+ },
+ {
+  "entity": "8EIT_5",
+  "accs": [
+   "O14842",
+   "P00720"
+  ],
+  "desc": "Free fatty acid receptor 1",
+  "len": 501
+ },
+ {
+  "entity": "8DCS_5",
+  "accs": [
+   "P00720",
+   "P07700"
+  ],
+  "desc": "Endolysin,Endolysin,Beta-1 adrenergic receptor chimera",
+  "len": 508
+ },
+ {
+  "entity": "8DCR_5",
+  "accs": [
+   "P00720",
+   "P07700"
+  ],
+  "desc": "Endolysin,Endolysin,Beta-1 adrenergic receptor chimera",
+  "len": 508
+ },
+ {
+  "entity": "8A5X_1",
+  "accs": [
+   "P00720",
+   "Q8TCG2"
+  ],
+  "desc": "Phosphatidylinositol 4-kinase type 2-beta,Endolysin",
+  "len": 514
+ },
+ {
+  "entity": "7Z36_1",
+  "accs": [
+   "P00720",
+   "Q13263"
+  ],
+  "desc": "Endolysin,Transcription intermediary factor 1-beta,Isoform 2 of Transcription intermediary factor 1-beta",
+  "len": 482
+ },
+ {
+  "entity": "7XKA_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Endolysin,Beta-2 adrenergic receptor",
+  "len": 469
+ },
+ {
+  "entity": "7XK9_1",
+  "accs": [
+   "P00720",
+   "P07550"
+  ],
+  "desc": "Endolysin,Beta-2 adrenergic receptor",
+  "len": 469
+ },
+ {
+  "entity": "7XB5_1",
+  "accs": [
+   "P00720",
+   "Q12151"
+  ],
+  "desc": "fusion protein of Sterol uptake control protein 2 and Endolysin",
+  "len": 465
+ },
+ {
+  "entity": "7RX9_1",
+  "accs": [
+   "P00720",
+   "Q8TCU6"
+  ],
+  "desc": "Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 1 protein, Endolysin chimera",
+  "len": 606
+ },
+ {
+  "entity": "7P2L_1",
+  "accs": [
+   "P00720",
+   "P41594"
+  ],
+  "desc": "Metabotropic glutamate receptor 5,Endolysin,Metabotropic glutamate receptor 5",
+  "len": 464
+ },
+ {
+  "entity": "7MI8_1",
+  "accs": [
+   "P00720",
+   "P36022"
+  ],
+  "desc": "Fusion protein of Dynein and Endolysin",
+  "len": 2661
+ },
+ {
+  "entity": "7MI6_1",
+  "accs": [
+   "P00720",
+   "P36022"
+  ],
+  "desc": "Fusion protein of Dynein and Endolysin",
+  "len": 2661
+ },
+ {
+  "entity": "7MI3_1",
+  "accs": [
+   "P00720",
+   "P36022"
+  ],
+  "desc": "Fusion protein of Dynein and Endolysin",
+  "len": 2661
+ }
+]

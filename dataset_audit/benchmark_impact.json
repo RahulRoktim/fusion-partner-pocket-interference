@@ -1,0 +1,49 @@
+{
+ "note": "Tier-1 datasets contain exactly one recognised-partner chimeric member; n = 1 supports description only.",
+ "cases": [
+  {
+   "case": "1DUG",
+   "dataset": "JOINED",
+   "role": "DEVELOPMENT/VALIDATION",
+   "ground_truth_on": "FUSION",
+   "gt_site_size": 10,
+   "gt_site_composition": {
+    "FUSION": 72
+   },
+   "detectors": {
+    "p2rank": {
+     "n_pockets": 3,
+     "gt_rank": 1,
+     "gt_overlap": 0.4,
+     "gt_pocket_composition": {
+      "TARGET": 0,
+      "FUSION": 15,
+      "UNMAPPED": 0
+     },
+     "rank1_composition": {
+      "TARGET": 0,
+      "FUSION": 15,
+      "UNMAPPED": 0
+     },
+     "top1_success": true,
+     "top3_success": true,
+     "topn_plus2_success": true
+    },
+    "fpocket": {
+     "n_pockets": 15,
+     "gt_rank": null,
+     "gt_overlap": null,
+     "gt_pocket_composition": null,
+     "rank1_composition": {
+      "TARGET": 0,
+      "FUSION": 13,
+      "UNMAPPED": 0
+     },
+     "top1_success": false,
+     "top3_success": false,
+     "topn_plus2_success": false
+    }
+   }
+  }
+ ]
+}

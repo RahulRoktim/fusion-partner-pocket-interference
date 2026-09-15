@@ -1,0 +1,4730 @@
+[
+ {
+  "entity": "4L6R_1",
+  "accs": [
+   "P0ABE7",
+   "P47871"
+  ],
+  "desc": "Soluble cytochrome b562 and Glucagon receptor chimera",
+  "len": 425
+ },
+ {
+  "entity": "4QIM_1",
+  "accs": [
+   "P0ABE7",
+   "Q99835"
+  ],
+  "desc": "Smoothened homolog/Soluble cytochrome b562 chimeric protein",
+  "len": 468
+ },
+ {
+  "entity": "5IU7_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5L7D_1",
+  "accs": [
+   "P0ABE7",
+   "Q99835"
+  ],
+  "desc": "Smoothened homolog,Soluble cytochrome b562,Smoothened homolog",
+  "len": 638
+ },
+ {
+  "entity": "5L7I_1",
+  "accs": [
+   "P0ABE7",
+   "Q99835"
+  ],
+  "desc": "Smoothened homolog,Soluble cytochrome b562,Smoothened homolog",
+  "len": 638
+ },
+ {
+  "entity": "5N2R_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,ADENOSINE RECEPTOR A2A SOLUBLE CYTOCHROME B562 ADENOSINE RECEPTOR A2A,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5ZKC_1",
+  "accs": [
+   "P08172",
+   "P0ABE7"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M2,Apo-cytochrome b562,Muscarinic acetylcholine receptor M2",
+  "len": 421
+ },
+ {
+  "entity": "6A93_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "6A94_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "6DO1_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "Type-1 angiotensin II receptor,Soluble cytochrome b562 BRIL fusion protein",
+  "len": 425
+ },
+ {
+  "entity": "6DS0_1",
+  "accs": [
+   "P0ABE7",
+   "P41595"
+  ],
+  "desc": "5HT2B receptor, BRIL chimera",
+  "len": 410
+ },
+ {
+  "entity": "6DRZ_1",
+  "accs": [
+   "P0ABE7",
+   "P41595"
+  ],
+  "desc": "5HT2B receptor, BRIL chimera",
+  "len": 411
+ },
+ {
+  "entity": "6DRY_1",
+  "accs": [
+   "P0ABE7",
+   "P41595"
+  ],
+  "desc": "5HT2B receptor, BRIL chimera",
+  "len": 411
+ },
+ {
+  "entity": "6DRX_1",
+  "accs": [
+   "P0ABE7",
+   "P41595"
+  ],
+  "desc": "5HT2B receptor, BRIL chimera",
+  "len": 410
+ },
+ {
+  "entity": "6CMO_1",
+  "accs": [
+   "P08100",
+   "P0ABE7"
+  ],
+  "desc": "chimera protein of Soluble cytochrome b562 and Rhodopsin",
+  "len": 463
+ },
+ {
+  "entity": "6CC4_1",
+  "accs": [
+   "P0ABE7",
+   "P0AF16"
+  ],
+  "desc": "soluble cytochrome b562, lipid II flippase MurJ chimera",
+  "len": 614
+ },
+ {
+  "entity": "6C1R_1",
+  "accs": [
+   "P0ABE7",
+   "P21730"
+  ],
+  "desc": "Soluble cytochrome b562, C5a anaphylatoxin chemotactic receptor 1 chimera",
+  "len": 422
+ },
+ {
+  "entity": "6C1Q_1",
+  "accs": [
+   "P0ABE7",
+   "P21730"
+  ],
+  "desc": "Soluble cytochrome b562, C5a anaphylatoxin chemotactic receptor 1 chimera",
+  "len": 422
+ },
+ {
+  "entity": "6BQH_1",
+  "accs": [
+   "P0ABE7",
+   "P28335"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2C,Soluble cytochrome b562",
+  "len": 452
+ },
+ {
+  "entity": "6BQG_1",
+  "accs": [
+   "P0ABE7",
+   "P28335"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2C,Soluble cytochrome b562",
+  "len": 452
+ },
+ {
+  "entity": "6B73_1",
+  "accs": [
+   "P0ABE7",
+   "P41145"
+  ],
+  "desc": "Soluble cytochrome b562, kappa-type opioid receptor",
+  "len": 418
+ },
+ {
+  "entity": "6AQF_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 432
+ },
+ {
+  "entity": "6AK3_1",
+  "accs": [
+   "P0ABE7",
+   "P43115"
+  ],
+  "desc": "Prostaglandin E2 receptor EP3 subtype,Soluble cytochrome b562",
+  "len": 418
+ },
+ {
+  "entity": "5ZKB_1",
+  "accs": [
+   "P08172",
+   "P0ABE7"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M2,Apo-cytochrome b562,Muscarinic acetylcholine receptor M2",
+  "len": 421
+ },
+ {
+  "entity": "5ZK8_1",
+  "accs": [
+   "P08172",
+   "P0ABE7"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M2,Redesigned apo-cytochrome b562,Muscarinic acetylcholine receptor M2",
+  "len": 421
+ },
+ {
+  "entity": "5ZK3_1",
+  "accs": [
+   "P08172",
+   "P0ABE7"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M2,Apo-cytochrome b562,Muscarinic acetylcholine receptor M2",
+  "len": 421
+ },
+ {
+  "entity": "5YC8_1",
+  "accs": [
+   "P08172",
+   "P0ABE7"
+  ],
+  "desc": "Muscarinic acetylcholine receptor M2,Redesigned apo-cytochrome b562,Muscarinic acetylcholine receptor M2",
+  "len": 421
+ },
+ {
+  "entity": "5XJM_1",
+  "accs": [
+   "P0ABE7",
+   "P50052"
+  ],
+  "desc": "Type-2 angiotensin II receptor,Soluble cytochrome b562,Type-2 angiotensin II receptor",
+  "len": 422
+ },
+ {
+  "entity": "5WIV_1",
+  "accs": [
+   "P0ABE7",
+   "P21917"
+  ],
+  "desc": "D(4) dopamine receptor, soluble cytochrome b562 chimera",
+  "len": 422
+ },
+ {
+  "entity": "5WIU_1",
+  "accs": [
+   "P0ABE7",
+   "P21917"
+  ],
+  "desc": "D(4) dopamine receptor, soluble cytochrome b562 chimera",
+  "len": 422
+ },
+ {
+  "entity": "5VRA_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562 chimera",
+  "len": 447
+ },
+ {
+  "entity": "5UVI_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "5UNH_1",
+  "accs": [
+   "P0ABE7",
+   "P50052"
+  ],
+  "desc": "Soluble cytochrome b562,Type-2 angiotensin II receptor",
+  "len": 411
+ },
+ {
+  "entity": "5UNG_1",
+  "accs": [
+   "P0ABE7",
+   "P50052"
+  ],
+  "desc": "Chimera protein of Type-2 angiotensin II receptor and Soluble cytochrome b562",
+  "len": 411
+ },
+ {
+  "entity": "5UNF_1",
+  "accs": [
+   "P0ABE7",
+   "P50052"
+  ],
+  "desc": "Chimera protein of Type-2 angiotensin II receptor and Soluble cytochrome b562",
+  "len": 411
+ },
+ {
+  "entity": "5UIG_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 444
+ },
+ {
+  "entity": "5UEN_1",
+  "accs": [
+   "P0ABE7",
+   "P30542"
+  ],
+  "desc": "Adenosine receptor A1,Soluble cytochrome b562,Adenosine receptor A1",
+  "len": 416
+ },
+ {
+  "entity": "5TVN_1",
+  "accs": [
+   "P0ABE7",
+   "P41595"
+  ],
+  "desc": "Chimera protein of human 5-hydroxytryptamine receptor 2B and E. Coli soluble cytochrome b562",
+  "len": 402
+ },
+ {
+  "entity": "5TUD_1",
+  "accs": [
+   "P0ABE7",
+   "P41595"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2B,Soluble cytochrome b562 chimera",
+  "len": 457
+ },
+ {
+  "entity": "5OM4_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 434
+ },
+ {
+  "entity": "5OM1_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 434
+ },
+ {
+  "entity": "5OLZ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 434
+ },
+ {
+  "entity": "5OLV_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 434
+ },
+ {
+  "entity": "5OLO_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 434
+ },
+ {
+  "entity": "5OLH_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 434
+ },
+ {
+  "entity": "5OLG_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 434
+ },
+ {
+  "entity": "5NM4_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5NM2_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5NLX_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5NJ6_1",
+  "accs": [
+   "P0ABE7",
+   "P55085"
+  ],
+  "desc": "Proteinase-activated receptor 2,Soluble cytochrome b562,Proteinase-activated receptor 2",
+  "len": 437
+ },
+ {
+  "entity": "5NDZ_1",
+  "accs": [
+   "P00720",
+   "P0ABE7",
+   "P55085"
+  ],
+  "desc": "Lysozyme,Proteinase-activated receptor 2,Soluble cytochrome b562,Proteinase-activated receptor 2",
+  "len": 619
+ },
+ {
+  "entity": "5NDD_1",
+  "accs": [
+   "P00720",
+   "P0ABE7",
+   "P55085"
+  ],
+  "desc": "Lysozyme,Proteinase-activated receptor 2,Soluble cytochrome b562,Proteinase-activated receptor 2",
+  "len": 619
+ },
+ {
+  "entity": "5N2S_1",
+  "accs": [
+   "P0ABE7",
+   "P30542"
+  ],
+  "desc": "Soluble cytochrome b562,Adenosine receptor A1",
+  "len": 436
+ },
+ {
+  "entity": "5MZP_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5MZJ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 434
+ },
+ {
+  "entity": "5K2D_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562 chimera",
+  "len": 447
+ },
+ {
+  "entity": "5K2C_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562 chimera",
+  "len": 447
+ },
+ {
+  "entity": "5K2B_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562 chimera",
+  "len": 447
+ },
+ {
+  "entity": "5K2A_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562 chimera",
+  "len": 447
+ },
+ {
+  "entity": "5JTB_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "5IUB_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5IUA_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5IU8_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5IU4_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "5DHH_1",
+  "accs": [
+   "P0ABE7",
+   "P41146"
+  ],
+  "desc": "Soluble cytochrome b562,Nociceptin receptor",
+  "len": 424
+ },
+ {
+  "entity": "5DHG_1",
+  "accs": [
+   "P0ABE7",
+   "P41146"
+  ],
+  "desc": "Soluble cytochrome b562,Nociceptin receptor",
+  "len": 424
+ },
+ {
+  "entity": "4ZUD_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "Chimera protein of Soluble cytochrome b562 and Type-1 angiotensin II receptor",
+  "len": 410
+ },
+ {
+  "entity": "4Z36_1",
+  "accs": [
+   "P0ABE7",
+   "Q92633"
+  ],
+  "desc": "Lysophosphatidic acid receptor 1,Soluble cytochrome b562",
+  "len": 459
+ },
+ {
+  "entity": "4Z35_1",
+  "accs": [
+   "P0ABE7",
+   "Q92633"
+  ],
+  "desc": "Lysophosphatidic acid receptor 1,Soluble cytochrome b562",
+  "len": 464
+ },
+ {
+  "entity": "4Z34_1",
+  "accs": [
+   "P0ABE7",
+   "Q92633"
+  ],
+  "desc": "Lysophosphatidic acid receptor 1, Soluble cytochrome b562",
+  "len": 464
+ },
+ {
+  "entity": "4YAY_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "Soluble cytochrome b562,Type-1 angiotensin II receptor",
+  "len": 414
+ },
+ {
+  "entity": "4RWD_1",
+  "accs": [
+   "P0ABE7",
+   "P41143"
+  ],
+  "desc": "Soluble cytochrome b562,Delta-type opioid receptor",
+  "len": 411
+ },
+ {
+  "entity": "4RWA_1",
+  "accs": [
+   "P0ABE7",
+   "P41143"
+  ],
+  "desc": "Soluble cytochrome b562,Delta-type opioid receptor",
+  "len": 411
+ },
+ {
+  "entity": "4QIN_1",
+  "accs": [
+   "P0ABE7",
+   "Q99835"
+  ],
+  "desc": "Smoothened homolog/Soluble cytochrome b562 chimeric protein",
+  "len": 468
+ },
+ {
+  "entity": "4PY0_1",
+  "accs": [
+   "P0ABE7",
+   "Q9H244"
+  ],
+  "desc": "P2Y purinoceptor 12, Soluble cytochrome b562",
+  "len": 466
+ },
+ {
+  "entity": "4PXZ_1",
+  "accs": [
+   "P0ABE7",
+   "Q9H244"
+  ],
+  "desc": "P2Y purinoceptor 12, Soluble cytochrome b562",
+  "len": 466
+ },
+ {
+  "entity": "4OR2_1",
+  "accs": [
+   "P0ABE7",
+   "Q13255"
+  ],
+  "desc": "Soluble cytochrome b562, Metabotropic glutamate receptor 1",
+  "len": 389
+ },
+ {
+  "entity": "4O9R_1",
+  "accs": [
+   "P0ABE7",
+   "Q99835"
+  ],
+  "desc": "Smoothened homolog/Soluble cytochrome b562 chimeric protein",
+  "len": 468
+ },
+ {
+  "entity": "4NTJ_1",
+  "accs": [
+   "P0ABE7",
+   "Q9H244"
+  ],
+  "desc": "P2Y purinoceptor 12,Soluble cytochrome b562,P2Y purinoceptor 12",
+  "len": 466
+ },
+ {
+  "entity": "4NC3_1",
+  "accs": [
+   "P0ABE7",
+   "P41595"
+  ],
+  "desc": "Chimera protein of human 5-hydroxytryptamine receptor 2B and E. Coli soluble cytochrome b562",
+  "len": 430
+ },
+ {
+  "entity": "4N6H_1",
+  "accs": [
+   "P0ABE7",
+   "P41143"
+  ],
+  "desc": "Soluble cytochrome b562, Delta-type opioid receptor chimeric protein",
+  "len": 414
+ },
+ {
+  "entity": "4JKV_1",
+  "accs": [
+   "P0ABE7",
+   "Q99835"
+  ],
+  "desc": "Soluble cytochrome b562, Smoothened homolog",
+  "len": 475
+ },
+ {
+  "entity": "4IB4_1",
+  "accs": [
+   "P0ABE7",
+   "P41595"
+  ],
+  "desc": "Chimera protein of human 5-hydroxytryptamine receptor 2B and E. Coli soluble cytochrome b562",
+  "len": 430
+ },
+ {
+  "entity": "4IAR_1",
+  "accs": [
+   "P0ABE7",
+   "P28222"
+  ],
+  "desc": "Chimera protein of human 5-hydroxytryptamine receptor 1B and E. Coli soluble cytochrome b562",
+  "len": 401
+ },
+ {
+  "entity": "4IAQ_1",
+  "accs": [
+   "P0ABE7",
+   "P28222"
+  ],
+  "desc": "Chimera protein of human 5-hydroxytryptamine receptor 1B and E. Coli soluble cytochrome b562",
+  "len": 403
+ },
+ {
+  "entity": "4EIY_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562 chimera",
+  "len": 447
+ },
+ {
+  "entity": "4EA3_1",
+  "accs": [
+   "P0ABE7",
+   "P41146"
+  ],
+  "desc": "Fusion protein of Nociceptin receptor and cytochrome b562",
+  "len": 434
+ },
+ {
+  "entity": "3U8P_1",
+  "accs": [
+   "P0ABE7",
+   "P42212"
+  ],
+  "desc": "Cytochrome b562 integral fusion with enhanced green fluorescent protein",
+  "len": 347
+ },
+ {
+  "entity": "28VJ_2",
+  "accs": [
+   "P0ABE7",
+   "Q5HHX4"
+  ],
+  "desc": "Quinolone resistance protein NorA,Soluble cytochrome b562",
+  "len": 489
+ },
+ {
+  "entity": "22EM_4",
+  "accs": [
+   "P0ABE7",
+   "P41145"
+  ],
+  "desc": "Soluble cytochrome b562,Kappa-type opioid receptor",
+  "len": 624
+ },
+ {
+  "entity": "11TL_1",
+  "accs": [
+   "P0ABE7",
+   "P51679"
+  ],
+  "desc": "C-C chemokine receptor type 4,Soluble cytochrome b562",
+  "len": 475
+ },
+ {
+  "entity": "11TK_1",
+  "accs": [
+   "P0ABE7",
+   "P51679"
+  ],
+  "desc": "C-C chemokine receptor type 4,Soluble cytochrome b562",
+  "len": 475
+ },
+ {
+  "entity": "11TH_3",
+  "accs": [
+   "P0ABE7",
+   "P51679"
+  ],
+  "desc": "C-C chemokine receptor type 4,Soluble cytochrome b562",
+  "len": 475
+ },
+ {
+  "entity": "11TF_1",
+  "accs": [
+   "P0ABE7",
+   "P51679"
+  ],
+  "desc": "C-C chemokine receptor type 4,Soluble cytochrome b562",
+  "len": 475
+ },
+ {
+  "entity": "11TD_1",
+  "accs": [
+   "P0ABE7",
+   "P51679"
+  ],
+  "desc": "C-C chemokine receptor type 4,Soluble cytochrome b562",
+  "len": 475
+ },
+ {
+  "entity": "6IIU_1",
+  "accs": [
+   "P00268",
+   "P0ABE7",
+   "P21731"
+  ],
+  "desc": "Soluble cytochrome b562,Thromboxane A2 receptor,Rubredoxin,Thromboxane A2 receptor",
+  "len": 484
+ },
+ {
+  "entity": "6IIV_1",
+  "accs": [
+   "P00268",
+   "P0ABE7",
+   "P21731"
+  ],
+  "desc": "Soluble cytochrome b562,Thromboxane A2 receptor,Rubredoxin,Thromboxane A2 receptor",
+  "len": 484
+ },
+ {
+  "entity": "6IQL_1",
+  "accs": [
+   "P0ABE7",
+   "P51436"
+  ],
+  "desc": "D(4) dopamine receptor,Soluble cytochrome b562,D(4) dopamine receptor",
+  "len": 396
+ },
+ {
+  "entity": "6JZH_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "6KO5_1",
+  "accs": [
+   "P0ABE7",
+   "Q92847"
+  ],
+  "desc": "Chimera of Soluble cytochrome b562 and Growth hormone secretagogue receptor type 1",
+  "len": 424
+ },
+ {
+  "entity": "6LW5_1",
+  "accs": [
+   "P0ABE7",
+   "P25090"
+  ],
+  "desc": "Soluble cytochrome b562,N-formyl peptide receptor 2",
+  "len": 427
+ },
+ {
+  "entity": "6M97_1",
+  "accs": [
+   "C0HAK2",
+   "P0ABE7"
+  ],
+  "desc": "Chimera protein of High affinity copper uptake protein 1 and Soluble cytochrome b562",
+  "len": 234
+ },
+ {
+  "entity": "6S0Q_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "6USF_1",
+  "accs": [
+   "P0ABE7",
+   "P43681"
+  ],
+  "desc": "chimera of soluble cytochrome b562 (BRIL) and neuronal acetylcholine receptor subunit alpha-4",
+  "len": 486
+ },
+ {
+  "entity": "7INX_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "7IOY_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOZ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IPA_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP9_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP8_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP7_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP5_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP4_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP3_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP2_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP1_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IP0_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOX_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOW_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOV_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOU_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOT_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOS_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOR_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOQ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOP_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOO_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7ION_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOM_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOL_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOK_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOJ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOI_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOH_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOG_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOF_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOE_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOD_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOC_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOB_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IOA_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO9_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "7IO8_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO7_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO6_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO5_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO4_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO3_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO2_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO1_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IO0_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INZ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INY_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INW_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INU_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INT_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INO_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INN_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INL_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INK_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INJ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INI_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INH_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INF_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IND_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "7INC_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7INA_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IN9_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7F9Z_7",
+  "accs": [
+   "P0ABE7",
+   "Q92847"
+  ],
+  "desc": "human ghrelin receptor",
+  "len": 661
+ },
+ {
+  "entity": "7F9Y_6",
+  "accs": [
+   "P0ABE7",
+   "Q92847"
+  ],
+  "desc": "Soluble cytochrome b562",
+  "len": 661
+ },
+ {
+  "entity": "7F4I_5",
+  "accs": [
+   "P0ABE7",
+   "Q01726"
+  ],
+  "desc": "Melanocortin-1 receptor",
+  "len": 621
+ },
+ {
+  "entity": "7F4H_5",
+  "accs": [
+   "P0ABE7",
+   "Q01726"
+  ],
+  "desc": "Melanocortin-1 receptor",
+  "len": 621
+ },
+ {
+  "entity": "7F4F_2",
+  "accs": [
+   "P0ABE7",
+   "Q01726"
+  ],
+  "desc": "Melanocortin-1 receptor",
+  "len": 621
+ },
+ {
+  "entity": "7F4D_5",
+  "accs": [
+   "P0ABE7",
+   "Q01726"
+  ],
+  "desc": "melanocortin-1 receptor",
+  "len": 621
+ },
+ {
+  "entity": "7EZC_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 431
+ },
+ {
+  "entity": "7EXD_5",
+  "accs": [
+   "P0ABE7",
+   "P30939"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1F",
+  "len": 506
+ },
+ {
+  "entity": "7E33_5",
+  "accs": [
+   "P0ABE7",
+   "P28566"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1E",
+  "len": 504
+ },
+ {
+  "entity": "7E32_5",
+  "accs": [
+   "P0ABE7",
+   "P28221"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1D",
+  "len": 516
+ },
+ {
+  "entity": "7E2Z_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 543
+ },
+ {
+  "entity": "7E2Y_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 543
+ },
+ {
+  "entity": "7E2X_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 543
+ },
+ {
+  "entity": "7DFP_1",
+  "accs": [
+   "P0ABE7",
+   "P14416"
+  ],
+  "desc": "D(2) dopamine receptor,Soluble cytochrome b562",
+  "len": 360
+ },
+ {
+  "entity": "7CMV_5",
+  "accs": [
+   "P0ABE7",
+   "P35462"
+  ],
+  "desc": "Soluble cytochrome b562,D(3) dopamine receptor",
+  "len": 545
+ },
+ {
+  "entity": "7CMU_5",
+  "accs": [
+   "P0ABE7",
+   "P35462"
+  ],
+  "desc": "Soluble cytochrome b562,D(3) dopamine receptor",
+  "len": 545
+ },
+ {
+  "entity": "7C6A_3",
+  "accs": [
+   "P0ABE7",
+   "P50052"
+  ],
+  "desc": "Type-2 angiotensin II receptor,Soluble cytochrome b562,Type-2 angiotensin II receptor",
+  "len": 422
+ },
+ {
+  "entity": "7C61_3",
+  "accs": [
+   "P0ABE7",
+   "P28222"
+  ],
+  "desc": "5-hydroxytryptamine receptor 1B,Soluble cytochrome b562,5-hydroxytryptamine receptor 1B",
+  "len": 399
+ },
+ {
+  "entity": "7BW0_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDU6"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled bile acid receptor 1",
+  "len": 427
+ },
+ {
+  "entity": "7ARO_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "6ZDV_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "6ZDR_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "6WWZ_6",
+  "accs": [
+   "P0ABE7",
+   "P51684"
+  ],
+  "desc": "C-C chemokine receptor type 6,C-C chemokine receptor type 6",
+  "len": 529
+ },
+ {
+  "entity": "6WW2_4",
+  "accs": [
+   "P0ABE7",
+   "Q13467"
+  ],
+  "desc": "Frizzled-5,Soluble cytochrome b562",
+  "len": 667
+ },
+ {
+  "entity": "6WQA_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562 chimera",
+  "len": 447
+ },
+ {
+  "entity": "6WHA_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 2A chimera",
+  "len": 497
+ },
+ {
+  "entity": "6WH4_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562 fusion",
+  "len": 448
+ },
+ {
+  "entity": "6WGT_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562 fusion",
+  "len": 448
+ },
+ {
+  "entity": "6UR8_1",
+  "accs": [
+   "P0ABE7",
+   "P43681"
+  ],
+  "desc": "Chimera of soluble cytochrome b562 (BRIL) and neuronal acetylcholine receptor subunit alpha-4",
+  "len": 487
+ },
+ {
+  "entity": "6RZ9_1",
+  "accs": [
+   "P0ABE7",
+   "Q9NS75"
+  ],
+  "desc": "Cysteinyl leukotriene receptor 2,Soluble cytochrome b562,Cysteinyl leukotriene receptor 2",
+  "len": 405
+ },
+ {
+  "entity": "6RZ8_1",
+  "accs": [
+   "P0ABE7",
+   "Q9NS75"
+  ],
+  "desc": "Cysteinyl leukotriene receptor 2,Soluble cytochrome b562,Cysteinyl leukotriene receptor 2",
+  "len": 405
+ },
+ {
+  "entity": "6RZ7_1",
+  "accs": [
+   "P0ABE7",
+   "Q9NS75"
+  ],
+  "desc": "Cysteinyl leukotriene receptor 2,Soluble cytochrome b562,Cysteinyl leukotriene receptor 2",
+  "len": 405
+ },
+ {
+  "entity": "6RZ6_1",
+  "accs": [
+   "P0ABE7",
+   "Q9NS75"
+  ],
+  "desc": "Cysteinyl leukotriene receptor 2,Soluble cytochrome b562,Cysteinyl leukotriene receptor 2",
+  "len": 405
+ },
+ {
+  "entity": "6RZ5_1",
+  "accs": [
+   "P0ABE7",
+   "Q9Y271"
+  ],
+  "desc": "Cysteinyl leukotriene receptor 1,Soluble cytochrome b562,Cysteinyl leukotriene receptor 1",
+  "len": 423
+ },
+ {
+  "entity": "6RZ4_1",
+  "accs": [
+   "P0ABE7",
+   "Q9Y271"
+  ],
+  "desc": "Cysteinyl leukotriene receptor 1,Soluble cytochrome b562,Cysteinyl leukotriene receptor 1",
+  "len": 423
+ },
+ {
+  "entity": "6PS7_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 442
+ },
+ {
+  "entity": "6OS2_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "Type-1 angiotensin II receptor,Soluble cytochrome b562 BRIL fusion protein",
+  "len": 425
+ },
+ {
+  "entity": "6OS1_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "Type-1 angiotensin II receptor,Soluble cytochrome b562 BRIL fusion protein",
+  "len": 425
+ },
+ {
+  "entity": "6OS0_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "Type-1 angiotensin II receptor,Soluble cytochrome b562 BRIL fusion protein",
+  "len": 425
+ },
+ {
+  "entity": "6MH8_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a, Soluble cytochrome b562 chimeric construct",
+  "len": 447
+ },
+ {
+  "entity": "6ME9_1",
+  "accs": [
+   "P00268",
+   "P0ABE7",
+   "P49286"
+  ],
+  "desc": "Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin",
+  "len": 460
+ },
+ {
+  "entity": "6ME8_1",
+  "accs": [
+   "P00268",
+   "P0ABE7",
+   "P49286"
+  ],
+  "desc": "Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin",
+  "len": 460
+ },
+ {
+  "entity": "6ME7_1",
+  "accs": [
+   "P00268",
+   "P0ABE7",
+   "P49286"
+  ],
+  "desc": "Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin",
+  "len": 460
+ },
+ {
+  "entity": "6ME6_1",
+  "accs": [
+   "P00268",
+   "P0ABE7",
+   "P49286"
+  ],
+  "desc": "Soluble cytochrome b562,Melatonin receptor type 1B,Rubredoxin",
+  "len": 460
+ },
+ {
+  "entity": "6M98_1",
+  "accs": [
+   "C0HAK2",
+   "P0ABE7"
+  ],
+  "desc": "Chimera protein of High affinity copper uptake protein 1 and Soluble cytochrome b562",
+  "len": 234
+ },
+ {
+  "entity": "6LPL_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "6LPK_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "6LPJ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "6GT3_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "6G7O_1",
+  "accs": [
+   "P0ABE7",
+   "Q9NUN7"
+  ],
+  "desc": "Alkaline ceramidase 3,Soluble cytochrome b562",
+  "len": 350
+ },
+ {
+  "entity": "8HSC_6",
+  "accs": [
+   "P0ABE7",
+   "Q99678"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled receptor 20",
+  "len": 511
+ },
+ {
+  "entity": "8HS3_4",
+  "accs": [
+   "P0ABE7",
+   "Q99678"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled receptor 20",
+  "len": 511
+ },
+ {
+  "entity": "8HS2_3",
+  "accs": [
+   "P0ABE7",
+   "Q99678"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled receptor 20",
+  "len": 459
+ },
+ {
+  "entity": "8HQN_4",
+  "accs": [
+   "P0ABE7",
+   "Q9UNW8"
+  ],
+  "desc": "Soluble cytochrome b562,Probable G-protein coupled receptor 132",
+  "len": 510
+ },
+ {
+  "entity": "8HQM_4",
+  "accs": [
+   "P0ABE7",
+   "Q9UNW8"
+  ],
+  "desc": "Soluble cytochrome b562,Probable G-protein coupled receptor 132",
+  "len": 510
+ },
+ {
+  "entity": "8HQE_4",
+  "accs": [
+   "P0ABE7",
+   "Q9UNW8"
+  ],
+  "desc": "Soluble cytochrome b562,Probable G-protein coupled receptor 132",
+  "len": 510
+ },
+ {
+  "entity": "8HOC_4",
+  "accs": [
+   "P0ABE7",
+   "Q9H3N8"
+  ],
+  "desc": "Soluble cytochrome b562, Histamine H4 receptor fusion",
+  "len": 549
+ },
+ {
+  "entity": "8HNN_2",
+  "accs": [
+   "P0ABE7",
+   "P41145",
+   "P49682"
+  ],
+  "desc": "Soluble cytochrome b562,C-X-C chemokine receptor type 3,Kappa-type opioid receptor",
+  "len": 507
+ },
+ {
+  "entity": "8HNM_4",
+  "accs": [
+   "P0ABE7",
+   "P49682",
+   "Q9GV45"
+  ],
+  "desc": "Soluble cytochrome b562,C-X-C chemokine receptor type 3,Oplophorus-luciferin 2-monooxygenase catalytic subunit",
+  "len": 657
+ },
+ {
+  "entity": "8HNL_4",
+  "accs": [
+   "P0ABE7",
+   "P49682",
+   "Q9GV45"
+  ],
+  "desc": "Soluble cytochrome b562,C-X-C chemokine receptor type 3,Oplophorus-luciferin 2-monooxygenase catalytic subunit",
+  "len": 657
+ },
+ {
+  "entity": "8HNK_4",
+  "accs": [
+   "P0ABE7",
+   "P49682",
+   "Q9GV45"
+  ],
+  "desc": "Soluble cytochrome b562,C-X-C chemokine receptor type 3,Oplophorus-luciferin 2-monooxygenase catalytic subunit",
+  "len": 657
+ },
+ {
+  "entity": "8HN8_4",
+  "accs": [
+   "P0ABE7",
+   "Q9H3N8"
+  ],
+  "desc": "Soluble cytochrome b562, Histamine H4 receptor fusion",
+  "len": 549
+ },
+ {
+  "entity": "8HJ5_5",
+  "accs": [
+   "P0ABE7",
+   "Q96LB2"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X1,LgBit",
+  "len": 637
+ },
+ {
+  "entity": "8HIK_1",
+  "accs": [
+   "P0ABE7",
+   "P41440"
+  ],
+  "desc": "BRIL-SLC19A1 chimera",
+  "len": 683
+ },
+ {
+  "entity": "8HIJ_1",
+  "accs": [
+   "P0ABE7",
+   "P41440"
+  ],
+  "desc": "BRIL-SLC19A1 chimera",
+  "len": 683
+ },
+ {
+  "entity": "8HII_1",
+  "accs": [
+   "P0ABE7",
+   "P41440"
+  ],
+  "desc": "BRIL-SLC19A1 chimera",
+  "len": 683
+ },
+ {
+  "entity": "8H2G_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Hydroxy-carboxylic acid receptor 2",
+  "len": 476
+ },
+ {
+  "entity": "8GY7_6",
+  "accs": [
+   "P0ABE7",
+   "Q01718"
+  ],
+  "desc": "Soluble cytochrome b562,Adrenocorticotropic hormone receptor,melanocortin-2 receptor,Adrenocorticotropic hormone receptor,Adrenocorticotropic hormone receptor",
+  "len": 601
+ },
+ {
+  "entity": "8GNE_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 431
+ },
+ {
+  "entity": "8FYX_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A,5-hydroxytryptamine receptor 1A",
+  "len": 552
+ },
+ {
+  "entity": "8FYT_1",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A,5-hydroxytryptamine receptor 1A",
+  "len": 552
+ },
+ {
+  "entity": "8FYN_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 447
+ },
+ {
+  "entity": "8FYL_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A,5-hydroxytryptamine receptor 1A",
+  "len": 552
+ },
+ {
+  "entity": "8FYE_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A,5-hydroxytryptamine receptor 1A",
+  "len": 552
+ },
+ {
+  "entity": "8FY8_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A,5-hydroxytryptamine receptor 1A",
+  "len": 552
+ },
+ {
+  "entity": "8F7J_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8F7E_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8F7D_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8F7C_1",
+  "accs": [
+   "P0ABE7",
+   "Q96RD6"
+  ],
+  "desc": "Pannexin-2, Soluble cytochrome b562 fusion",
+  "len": 487
+ },
+ {
+  "entity": "8F7B_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8F79_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8F77_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8F74_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DU3_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a, soluble cytochrome b562 chimera,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "8DSA_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DS9_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DS3_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DRQ_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DRO_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DRN_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DRK_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DRE_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DRA_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DR8_1",
+  "accs": [
+   "P0ABE7",
+   "Q80WG5"
+  ],
+  "desc": "Volume-regulated anion channel subunit LRRC8A,Soluble cytochrome b562",
+  "len": 911
+ },
+ {
+  "entity": "8DEP_1",
+  "accs": [
+   "P0ABE7",
+   "P41440"
+  ],
+  "desc": "Reduced folate transporter,Soluble cytochrome b562",
+  "len": 678
+ },
+ {
+  "entity": "8CU7_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 447
+ },
+ {
+  "entity": "8CU6_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 447
+ },
+ {
+  "entity": "8CIC_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 433
+ },
+ {
+  "entity": "8C9W_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 431
+ },
+ {
+  "entity": "8A2P_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 423
+ },
+ {
+  "entity": "8A2O_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 423
+ },
+ {
+  "entity": "7ZLY_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Hydroxycarboxylic acid receptor 2,Soluble cytochrome b562",
+  "len": 431
+ },
+ {
+  "entity": "7ZL9_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Hydroxycarboxylic acid receptor 2,Soluble cytochrome b562",
+  "len": 431
+ },
+ {
+  "entity": "7ZI0_1",
+  "accs": [
+   "P0ABE7",
+   "Q99835"
+  ],
+  "desc": "Smoothened homolog,Soluble cytochrome b562",
+  "len": 638
+ },
+ {
+  "entity": "7YXA_1",
+  "accs": [
+   "P0ABE7",
+   "Q9H228"
+  ],
+  "desc": "Sphingosine 1-phosphate receptor 5,Soluble cytochrome b562",
+  "len": 458
+ },
+ {
+  "entity": "7Y15_4",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS7"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member D",
+  "len": 446
+ },
+ {
+  "entity": "7Y14_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS7"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member D",
+  "len": 446
+ },
+ {
+  "entity": "7Y13_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS7"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member D",
+  "len": 446
+ },
+ {
+  "entity": "7Y12_4",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS7"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member D",
+  "len": 446
+ },
+ {
+  "entity": "7XZ6_5",
+  "accs": [
+   "P0ABE7",
+   "Q8TDV5"
+  ],
+  "desc": "Soluble cytochrome b562,Glucose-dependent insulinotropic receptor",
+  "len": 485
+ },
+ {
+  "entity": "7XZ5_5",
+  "accs": [
+   "P0ABE7",
+   "Q8TDV5"
+  ],
+  "desc": "Soluble cytochrome b562,Glucose-dependent insulinotropic receptor",
+  "len": 485
+ },
+ {
+  "entity": "7XY7_4",
+  "accs": [
+   "P0ABE7",
+   "P29275"
+  ],
+  "desc": "Soluble cytochrome b562,Adenosine receptor A2b,LgBiT",
+  "len": 628
+ },
+ {
+  "entity": "7XY6_4",
+  "accs": [
+   "P0ABE7",
+   "P29275"
+  ],
+  "desc": "Soluble cytochrome b562,Adenosine receptor A2b,LgBiT",
+  "len": 628
+ },
+ {
+  "entity": "7XWO_1",
+  "accs": [
+   "P0ABE7",
+   "P21452"
+  ],
+  "desc": "Soluble cytochrome b562,Substance-K receptor",
+  "len": 505
+ },
+ {
+  "entity": "7XTC_5",
+  "accs": [
+   "P0ABE7",
+   "P34969"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 7",
+  "len": 576
+ },
+ {
+  "entity": "7XTB_5",
+  "accs": [
+   "P0ABE7",
+   "P50406"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 6",
+  "len": 584
+ },
+ {
+  "entity": "7XTA_5",
+  "accs": [
+   "P0ABE7",
+   "Q13639"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 4",
+  "len": 527
+ },
+ {
+  "entity": "7XT9_4",
+  "accs": [
+   "P0ABE7",
+   "Q13639"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 4",
+  "len": 527
+ },
+ {
+  "entity": "7XT8_5",
+  "accs": [
+   "P0ABE7",
+   "Q13639"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 4",
+  "len": 527
+ },
+ {
+  "entity": "7XKT_1",
+  "accs": [
+   "P0ABE7",
+   "Q9UKL4"
+  ],
+  "desc": "Gap junction delta-2 protein,Soluble cytochrome b562",
+  "len": 358
+ },
+ {
+  "entity": "7XKI_1",
+  "accs": [
+   "P0ABE7",
+   "Q9UKL4"
+  ],
+  "desc": "Gap junction delta-2 protein,Soluble cytochrome b562",
+  "len": 343
+ },
+ {
+  "entity": "7XAY_1",
+  "accs": [
+   "P0ABE7",
+   "Q12341"
+  ],
+  "desc": "Soluble cytochrome b562,Histone acetyltransferase type B catalytic subunit",
+  "len": 416
+ },
+ {
+  "entity": "7X5H_5",
+  "accs": [
+   "P0ABE7",
+   "P47898"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 5A,hydroxytryptamine receptor 5A",
+  "len": 690
+ },
+ {
+  "entity": "7WVY_2",
+  "accs": [
+   "P0ABE7",
+   "P25090"
+  ],
+  "desc": "Soluble cytochrome b562,N-formyl peptide receptor 2",
+  "len": 513
+ },
+ {
+  "entity": "7WVX_2",
+  "accs": [
+   "P0ABE7",
+   "P25090"
+  ],
+  "desc": "Soluble cytochrome b562,N-formyl peptide receptor 2",
+  "len": 513
+ },
+ {
+  "entity": "7WVW_2",
+  "accs": [
+   "P0ABE7",
+   "P25090"
+  ],
+  "desc": "Soluble cytochrome b562,N-formyl peptide receptor 2",
+  "len": 513
+ },
+ {
+  "entity": "7WVV_2",
+  "accs": [
+   "P0ABE7",
+   "P25090"
+  ],
+  "desc": "Soluble cytochrome b562,N-formyl peptide receptor 2",
+  "len": 513
+ },
+ {
+  "entity": "7WJ5_5",
+  "accs": [
+   "P0ABE7",
+   "P30874"
+  ],
+  "desc": "Soluble cytochrome b562,Somatostatin receptor type 2",
+  "len": 518
+ },
+ {
+  "entity": "7WC9_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "7WC8_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "7WC7_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "7WC6_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "7W57_6",
+  "accs": [
+   "P0ABE7",
+   "Q9GZQ4"
+  ],
+  "desc": "Neuromedin-U receptor 2",
+  "len": 571
+ },
+ {
+  "entity": "7W56_6",
+  "accs": [
+   "P0ABE7",
+   "Q9HB89"
+  ],
+  "desc": "Neuromedin U Receptor 1",
+  "len": 755
+ },
+ {
+  "entity": "7W55_6",
+  "accs": [
+   "P0ABE7",
+   "Q9GZQ4"
+  ],
+  "desc": "Neuromedin-U receptor 2",
+  "len": 571
+ },
+ {
+  "entity": "7W53_6",
+  "accs": [
+   "P0ABE7",
+   "Q9HB89"
+  ],
+  "desc": "Neuromedin-U receptor 1",
+  "len": 755
+ },
+ {
+  "entity": "7W0P_4",
+  "accs": [
+   "P0ABE7",
+   "P35414"
+  ],
+  "desc": "Soluble cytochrome b562,Apelin receptor",
+  "len": 477
+ },
+ {
+  "entity": "7W0O_5",
+  "accs": [
+   "P0ABE7",
+   "P35414"
+  ],
+  "desc": "Soluble cytochrome b562,Apelin receptor",
+  "len": 477
+ },
+ {
+  "entity": "7W0N_4",
+  "accs": [
+   "P0ABE7",
+   "P35414"
+  ],
+  "desc": "Soluble cytochrome b562,Apelin receptor",
+  "len": 477
+ },
+ {
+  "entity": "7W0M_4",
+  "accs": [
+   "P0ABE7",
+   "P35414"
+  ],
+  "desc": "Soluble cytochrome b562,Apelin receptor",
+  "len": 477
+ },
+ {
+  "entity": "7W0L_4",
+  "accs": [
+   "P0ABE7",
+   "P35414"
+  ],
+  "desc": "Soluble cytochrome b562,Apelin receptor",
+  "len": 477
+ },
+ {
+  "entity": "7VOE_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "7VOD_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "7TX7_1",
+  "accs": [
+   "P0ABE7",
+   "P41440"
+  ],
+  "desc": "Reduced folate transporter,Soluble cytochrome b562",
+  "len": 678
+ },
+ {
+  "entity": "7TX6_1",
+  "accs": [
+   "P0ABE7",
+   "P41440"
+  ],
+  "desc": "Reduced folate transporter,Soluble cytochrome b562",
+  "len": 678
+ },
+ {
+  "entity": "7T32_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562 Fusion Protein",
+  "len": 391
+ },
+ {
+  "entity": "7T2G_4",
+  "accs": [
+   "P0ABE7",
+   "P42866"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor",
+  "len": 488
+ },
+ {
+  "entity": "7SQ0_2",
+  "accs": [
+   "P0ABE7",
+   "P25385"
+  ],
+  "desc": "TMD of the tail-anchored protein Bos1",
+  "len": 139
+ },
+ {
+  "entity": "7SBF_5",
+  "accs": [
+   "P0ABE7",
+   "P42866"
+  ],
+  "desc": "Soluble cytochrome b562, Mu-type opioid receptor chimera,Mu-type opioid receptor",
+  "len": 488
+ },
+ {
+  "entity": "7S8P_5",
+  "accs": [
+   "P0ABE7",
+   "Q96LA9"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X4 chimera",
+  "len": 472
+ },
+ {
+  "entity": "7S8O_1",
+  "accs": [
+   "P0ABE7",
+   "Q96LB1"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X2 chimera",
+  "len": 480
+ },
+ {
+  "entity": "7S8M_5",
+  "accs": [
+   "P0ABE7",
+   "Q96LB1"
+  ],
+  "desc": "Soluble cytochrome b562, Mas-related G-protein coupled receptor member X2 chimera",
+  "len": 480
+ },
+ {
+  "entity": "7RM5_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562 chimera",
+  "len": 447
+ },
+ {
+  "entity": "7PYR_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "7PX4_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 447
+ },
+ {
+  "entity": "7PP1_1",
+  "accs": [
+   "P0ABE7",
+   "Q9H244"
+  ],
+  "desc": "P2Y purinoceptor 12,Soluble cytochrome b562,P2Y purinoceptor 12",
+  "len": 466
+ },
+ {
+  "entity": "7MYZ_1",
+  "accs": [
+   "P0ABE7",
+   "Q08722"
+  ],
+  "desc": "Fusion protein of Leukocyte surface antigen CD47 an Soluble cytochrome b562",
+  "len": 421
+ },
+ {
+  "entity": "7KOX_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562 fusion",
+  "len": 562
+ },
+ {
+  "entity": "7KOQ_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562 fusion",
+  "len": 562
+ },
+ {
+  "entity": "7KOO_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562 fusion",
+  "len": 562
+ },
+ {
+  "entity": "7JVR_1",
+  "accs": [
+   "P0ABE7",
+   "P14416"
+  ],
+  "desc": "Soluble cytochrome b562,D(2) dopamine receptor",
+  "len": 588
+ },
+ {
+  "entity": "7JNI_1",
+  "accs": [
+   "P0ABE7",
+   "P50052"
+  ],
+  "desc": "Soluble cytochrome b562,Type-2 angiotensin II receptor",
+  "len": 412
+ },
+ {
+  "entity": "7IPG_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera,Soluble cytochrome b562,Adenosine receptor A2a",
+  "len": 433
+ },
+ {
+  "entity": "7IPF_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IPE_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IPD_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IPC_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "7IPB_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a/Soluble cytochrome b562/Adenosine receptor A2a chimera",
+  "len": 433
+ },
+ {
+  "entity": "8JH7_4",
+  "accs": [
+   "O60353",
+   "P0ABE7"
+  ],
+  "desc": "Frizzled-6,Soluble cytochrome b562",
+  "len": 641
+ },
+ {
+  "entity": "8JHC_1",
+  "accs": [
+   "P0ABE7",
+   "Q9NPG1"
+  ],
+  "desc": "Frizzled-3,Soluble cytochrome b562",
+  "len": 643
+ },
+ {
+  "entity": "8JJ8_1",
+  "accs": [
+   "P07550",
+   "P0ABE7"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Soluble cytochrome b562",
+  "len": 453
+ },
+ {
+  "entity": "8JLO_3",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 470
+ },
+ {
+  "entity": "8JLP_3",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 470
+ },
+ {
+  "entity": "8JSO_3",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 470
+ },
+ {
+  "entity": "8KEX_1",
+  "accs": [
+   "P0ABE7",
+   "P42212",
+   "Q96LA9"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X4,Green fluorescent protein",
+  "len": 710
+ },
+ {
+  "entity": "8UT1_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562 fusion",
+  "len": 599
+ },
+ {
+  "entity": "8UTB_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562 fusion",
+  "len": 599
+ },
+ {
+  "entity": "8XML_1",
+  "accs": [
+   "P0ABE7",
+   "P51685"
+  ],
+  "desc": "Soluble cytochrome b562,C-C chemokine receptor type 8",
+  "len": 461
+ },
+ {
+  "entity": "8XVK_4",
+  "accs": [
+   "P0ABE7",
+   "P16218",
+   "P25101"
+  ],
+  "desc": "Endoglucanase H,Endothelin-1 receptor,Soluble cytochrome b562",
+  "len": 783
+ },
+ {
+  "entity": "8Y6J_1",
+  "accs": [
+   "P0ABE7",
+   "Q7XPF8"
+  ],
+  "desc": "Cation transporter HKT1;1,Soluble cytochrome b562",
+  "len": 662
+ },
+ {
+  "entity": "8Y6L_1",
+  "accs": [
+   "P0ABE7",
+   "Q0JNB6"
+  ],
+  "desc": "Cation transporter HKT1;5,Soluble cytochrome b562",
+  "len": 647
+ },
+ {
+  "entity": "8Y6M_1",
+  "accs": [
+   "A2YGP9",
+   "P0ABE7"
+  ],
+  "desc": "Cation transporter HKT2;1,Soluble cytochrome b562",
+  "len": 628
+ },
+ {
+  "entity": "8Y6N_1",
+  "accs": [
+   "M1G2X2",
+   "P0ABE7"
+  ],
+  "desc": "Sodium transporter HKT1.5,Soluble cytochrome b562",
+  "len": 640
+ },
+ {
+  "entity": "9JG0_1",
+  "accs": [
+   "P0ABE7",
+   "Q9Y5X5"
+  ],
+  "desc": "Isoform 2 of Neuropeptide FF receptor 2,Soluble cytochrome b562",
+  "len": 526
+ },
+ {
+  "entity": "9JRT_1",
+  "accs": [
+   "P0ABE7",
+   "P43116"
+  ],
+  "desc": "GFP-like fluorescent chromoprotein,Prostaglandin E2 receptor EP2 subtype,Soluble cytochrome b562,Prostaglandin E2 receptor EP2 subtype,Soluble cytochrome b562",
+  "len": 684
+ },
+ {
+  "entity": "9PXY_1",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor,Soluble cytochrome b562,Mu-type opioid receptor,Mu opioid receptor",
+  "len": 622
+ },
+ {
+  "entity": "9PXX_4",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor",
+  "len": 622
+ },
+ {
+  "entity": "9PXW_4",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor",
+  "len": 622
+ },
+ {
+  "entity": "9PXV_5",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor",
+  "len": 622
+ },
+ {
+  "entity": "9PXU_1",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor",
+  "len": 622
+ },
+ {
+  "entity": "9PV0_1",
+  "accs": [
+   "P0ABE7",
+   "Q5HHX4"
+  ],
+  "desc": "Quinolone resistance protein NorA, Soluble cytochrome b562 chimera",
+  "len": 495
+ },
+ {
+  "entity": "9OXA_1",
+  "accs": [
+   "P0ABE7",
+   "P59537"
+  ],
+  "desc": "Soluble cytochrome b562,Taste receptor type 2 member 43",
+  "len": 645
+ },
+ {
+  "entity": "9M8V_1",
+  "accs": [
+   "P0ABE7",
+   "P46089"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled receptor 3",
+  "len": 466
+ },
+ {
+  "entity": "9M8P_1",
+  "accs": [
+   "P0ABE7",
+   "P46089"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled receptor 3",
+  "len": 466
+ },
+ {
+  "entity": "9LRS_1",
+  "accs": [
+   "P0ABE7",
+   "Q96LA9"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X4",
+  "len": 472
+ },
+ {
+  "entity": "9KQM_1",
+  "accs": [
+   "P0ABE7",
+   "Q16572"
+  ],
+  "desc": "Soluble cytochrome b562,Vesicular acetylcholine transporter",
+  "len": 637
+ },
+ {
+  "entity": "9JRO_4",
+  "accs": [
+   "P0ABE7",
+   "P43116"
+  ],
+  "desc": "GFP-like fluorescent chromoprotein,Prostaglandin E2 receptor EP2 subtype,Soluble cytochrome b562,Prostaglandin E2 receptor EP2 subtype,Soluble cytochrome b562",
+  "len": 684
+ },
+ {
+  "entity": "9JKQ_5",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 510
+ },
+ {
+  "entity": "9JG1_1",
+  "accs": [
+   "P0ABE7",
+   "Q9H3N8"
+  ],
+  "desc": "Histamine H4 receptor,Soluble cytochrome b562",
+  "len": 427
+ },
+ {
+  "entity": "9IZH_1",
+  "accs": [
+   "P0ABE7",
+   "Q92633"
+  ],
+  "desc": "Soluble cytochrome b562,Lysophosphatidic acid receptor 1,LgBiT tag",
+  "len": 651
+ },
+ {
+  "entity": "9IZG_3",
+  "accs": [
+   "P0ABE7",
+   "Q92633"
+  ],
+  "desc": "Soluble cytochrome b562,Lysophosphatidic acid receptor 1,LgBiT tag",
+  "len": 651
+ },
+ {
+  "entity": "9IZF_1",
+  "accs": [
+   "P0ABE7",
+   "Q92633"
+  ],
+  "desc": "Soluble cytochrome b562,Lysophosphatidic acid receptor 1,LgBiT tag",
+  "len": 651
+ },
+ {
+  "entity": "9IYA_1",
+  "accs": [
+   "P0ABE7",
+   "Q9Y2T6"
+  ],
+  "desc": "G-protein coupled receptor 55,Soluble cytochrome b562",
+  "len": 412
+ },
+ {
+  "entity": "9ISI_1",
+  "accs": [
+   "P0ABE7",
+   "Q16581"
+  ],
+  "desc": "C3a anaphylatoxin chemotactic receptor,Soluble cytochrome b562",
+  "len": 613
+ },
+ {
+  "entity": "9IPO_1",
+  "accs": [
+   "P0ABE7",
+   "Q9UKL4"
+  ],
+  "desc": "Gap junction delta-2 protein,Soluble cytochrome b562",
+  "len": 359
+ },
+ {
+  "entity": "9IPN_1",
+  "accs": [
+   "P0ABE7",
+   "Q9UKL4"
+  ],
+  "desc": "Gap junction delta-2 protein,Soluble cytochrome b562",
+  "len": 359
+ },
+ {
+  "entity": "9IPM_1",
+  "accs": [
+   "P0ABE7",
+   "Q9UKL4"
+  ],
+  "desc": "Gap junction delta-2 protein,Soluble cytochrome b562",
+  "len": 359
+ },
+ {
+  "entity": "9IP5_1",
+  "accs": [
+   "P0ABE7",
+   "Q9UKL4"
+  ],
+  "desc": "Gap junction delta-2 protein,Soluble cytochrome b562",
+  "len": 359
+ },
+ {
+  "entity": "9IBW_1",
+  "accs": [
+   "P03999",
+   "P0ABE7"
+  ],
+  "desc": "Short-wave-sensitive opsin 1,Soluble cytochrome b562",
+  "len": 488
+ },
+ {
+  "entity": "9I3T_1",
+  "accs": [
+   "P04001",
+   "P0ABE7"
+  ],
+  "desc": "Medium-wave-sensitive opsin 1,Soluble cytochrome b562",
+  "len": 492
+ },
+ {
+  "entity": "9GYO_5",
+  "accs": [
+   "P0ABE7",
+   "Q8TDU6"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled bile acid receptor 1",
+  "len": 470
+ },
+ {
+  "entity": "9DYF_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 552
+ },
+ {
+  "entity": "9DYD_4",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 552
+ },
+ {
+  "entity": "9CUG_1",
+  "accs": [
+   "P0ABE7",
+   "Q15306"
+  ],
+  "desc": "Soluble cytochrome b562,Interferon regulatory factor 4",
+  "len": 286
+ },
+ {
+  "entity": "9C3F_1",
+  "accs": [
+   "P0ABE7",
+   "P0AE16"
+  ],
+  "desc": "Anhydromuropeptide permease,Soluble cytochrome b562",
+  "len": 600
+ },
+ {
+  "entity": "8ZSV_5",
+  "accs": [
+   "P0ABE7",
+   "Q923Y8"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 488
+ },
+ {
+  "entity": "8ZSS_5",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 495
+ },
+ {
+  "entity": "8ZSP_5",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 495
+ },
+ {
+  "entity": "8ZSJ_5",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 495
+ },
+ {
+  "entity": "8ZQE_5",
+  "accs": [
+   "P0ABE7",
+   "P0AEX9",
+   "P49685"
+  ],
+  "desc": "GPR15",
+  "len": 881
+ },
+ {
+  "entity": "8ZMG_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 414
+ },
+ {
+  "entity": "8ZMF_1",
+  "accs": [
+   "P0ABE7",
+   "P28335"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2C,Soluble cytochrome b562",
+  "len": 439
+ },
+ {
+  "entity": "8ZFM_1",
+  "accs": [
+   "G5EG88",
+   "P0ABE7"
+  ],
+  "desc": "Betaine receptor acr-23,Soluble cytochrome b562",
+  "len": 620
+ },
+ {
+  "entity": "8ZFL_1",
+  "accs": [
+   "G5EG88",
+   "P0ABE7"
+  ],
+  "desc": "Betaine receptor acr-23,Soluble cytochrome b562",
+  "len": 620
+ },
+ {
+  "entity": "8ZFK_1",
+  "accs": [
+   "G5EG88",
+   "P0ABE7"
+  ],
+  "desc": "Betaine receptor acr-23,Soluble cytochrome b562",
+  "len": 620
+ },
+ {
+  "entity": "8YZK_1",
+  "accs": [
+   "P0ABE7",
+   "Q9NZD1"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled receptor family C group 5 member D",
+  "len": 421
+ },
+ {
+  "entity": "8YRG_5",
+  "accs": [
+   "P0ABE7",
+   "Q96LA9"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X4",
+  "len": 472
+ },
+ {
+  "entity": "8YNT_4",
+  "accs": [
+   "A0A2R9AFP0",
+   "P0ABE7"
+  ],
+  "desc": "Melanin-concentrating hormone receptor 1,Soluble cytochrome b562",
+  "len": 585
+ },
+ {
+  "entity": "8YNS_4",
+  "accs": [
+   "A0A2R9AFP0",
+   "P0ABE7",
+   "Q99705"
+  ],
+  "desc": "Melanin-concentrating hormone receptor 1,Soluble cytochrome b562",
+  "len": 585
+ },
+ {
+  "entity": "8XVL_4",
+  "accs": [
+   "P0ABE7",
+   "P16218",
+   "P25101"
+  ],
+  "desc": "Endoglucanase H,Endothelin-1 receptor,Soluble cytochrome b562",
+  "len": 783
+ },
+ {
+  "entity": "8XVJ_4",
+  "accs": [
+   "P0ABE7",
+   "P16218",
+   "P25101"
+  ],
+  "desc": "Endoglucanase H,Endothelin-1 receptor,Soluble cytochrome b562",
+  "len": 783
+ },
+ {
+  "entity": "8XV9_1",
+  "accs": [
+   "P0ABE7",
+   "Q9BZV2"
+  ],
+  "desc": "Soluble cytochrome b562,Thiamine transporter 2",
+  "len": 607
+ },
+ {
+  "entity": "8XV5_1",
+  "accs": [
+   "P0ABE7",
+   "Q9BZV2"
+  ],
+  "desc": "Soluble cytochrome b562,Thiamine transporter 2",
+  "len": 607
+ },
+ {
+  "entity": "8XV2_1",
+  "accs": [
+   "P0ABE7",
+   "Q9BZV2"
+  ],
+  "desc": "Soluble cytochrome b562,Thiamine transporter 2",
+  "len": 607
+ },
+ {
+  "entity": "8X64_1",
+  "accs": [
+   "P0ABE7",
+   "P35367"
+  ],
+  "desc": "Histamine H1 receptor,Soluble cytochrome b562",
+  "len": 438
+ },
+ {
+  "entity": "8X63_1",
+  "accs": [
+   "P0ABE7",
+   "P35367"
+  ],
+  "desc": "Histamine H1 receptor,Soluble cytochrome b562",
+  "len": 438
+ },
+ {
+  "entity": "8X5Y_1",
+  "accs": [
+   "P0ABE7",
+   "P35367"
+  ],
+  "desc": "Histamine H1 receptor,Soluble cytochrome b562",
+  "len": 438
+ },
+ {
+  "entity": "8X5X_1",
+  "accs": [
+   "P0ABE7",
+   "P35367"
+  ],
+  "desc": "Histamine H1 receptor,Soluble cytochrome b562",
+  "len": 438
+ },
+ {
+  "entity": "8X2K_1",
+  "accs": [
+   "P0ABE7",
+   "P46089"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled receptor 3",
+  "len": 466
+ },
+ {
+  "entity": "8WRZ_3",
+  "accs": [
+   "P0ABE7",
+   "P21554"
+  ],
+  "desc": "Soluble cytochrome b562,Cannabinoid receptor 1",
+  "len": 476
+ },
+ {
+  "entity": "8WJX_5",
+  "accs": [
+   "P0ABE7",
+   "P47900",
+   "Q9GV45"
+  ],
+  "desc": "Soluble cytochrome b562,P2Y purinoceptor 1",
+  "len": 680
+ },
+ {
+  "entity": "8W8Q_1",
+  "accs": [
+   "P0ABE7",
+   "Q96P66"
+  ],
+  "desc": "Soluble cytochrome b562,Probable G-protein coupled receptor 101",
+  "len": 655
+ },
+ {
+  "entity": "8W8B_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 543
+ },
+ {
+  "entity": "8VHF_5",
+  "accs": [
+   "P0ABE7",
+   "Q8TDV5"
+  ],
+  "desc": "Soluble cytochrome b562,Glucose-dependent insulinotropic receptor,LgBiT",
+  "len": 615
+ },
+ {
+  "entity": "8V8D_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8V8C_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8V8A_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8V89_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8V88_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8V86_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8V82_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8V80_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8UZJ_1",
+  "accs": [
+   "P0ABE7",
+   "P36544"
+  ],
+  "desc": "Neuronal acetylcholine receptor subunit alpha-7,Soluble cytochrome b562",
+  "len": 599
+ },
+ {
+  "entity": "8UHB_1",
+  "accs": [
+   "P07550",
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Beta-2 adrenergic receptor,Trace amine-associated receptor 1",
+  "len": 524
+ },
+ {
+  "entity": "8TS3_1",
+  "accs": [
+   "P0ABE7",
+   "Q9HD23"
+  ],
+  "desc": "Magnesium transporter MRS2 homolog, mitochondrial, Soluble cytochrome b562 fusion protein",
+  "len": 486
+ },
+ {
+  "entity": "8TS2_1",
+  "accs": [
+   "P0ABE7",
+   "Q9HD23"
+  ],
+  "desc": "Magnesium transporter MRS2 homolog, mitochondrial, Soluble cytochrome b562 fusion protein",
+  "len": 486
+ },
+ {
+  "entity": "8TS1_1",
+  "accs": [
+   "P0ABE7",
+   "Q9HD23"
+  ],
+  "desc": "Magnesium transporter MRS2 homolog, mitochondrial, Soluble cytochrome b562 fusion protein",
+  "len": 486
+ },
+ {
+  "entity": "8TH4_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "Type-1 angiotensin II receptor Soluble cytochrome b562 complex",
+  "len": 433
+ },
+ {
+  "entity": "8TH3_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "AT118-H nanobody, Type-1 angiotensin II receptor, Soluble cytochrome b562 complex",
+  "len": 582
+ },
+ {
+  "entity": "8TF5_1",
+  "accs": [
+   "P0ABE7",
+   "P46095"
+  ],
+  "desc": "G-protein coupled receptor 6,Soluble cytochrome b562 chimera,Soluble cytochrome b562,G-protein coupled receptor 6",
+  "len": 436
+ },
+ {
+  "entity": "8TB7_1",
+  "accs": [
+   "P0ABE7",
+   "Q9BZJ8"
+  ],
+  "desc": "G-protein coupled receptor 61,Soluble cytochrome b562",
+  "len": 543
+ },
+ {
+  "entity": "8TB0_2",
+  "accs": [
+   "P0ABE7",
+   "P63092",
+   "Q9BZJ8"
+  ],
+  "desc": "GPR61 fused to dominant negative G alpha S/I N18 chimera",
+  "len": 995
+ },
+ {
+  "entity": "8T1W_1",
+  "accs": [
+   "P0ABE7",
+   "P46095"
+  ],
+  "desc": "G-protein coupled receptor 6, Soluble cytochrome b562 chimera",
+  "len": 455
+ },
+ {
+  "entity": "8T1V_1",
+  "accs": [
+   "P0ABE7",
+   "P46095"
+  ],
+  "desc": "G-protein coupled receptor 6, Soluble cytochrome b562 chimera",
+  "len": 455
+ },
+ {
+  "entity": "8S4D_1",
+  "accs": [
+   "P0ABE7",
+   "P35414"
+  ],
+  "desc": "Apelin receptor,Soluble cytochrome b562",
+  "len": 497
+ },
+ {
+  "entity": "8RQQ_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 447
+ },
+ {
+  "entity": "8RLN_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 431
+ },
+ {
+  "entity": "8QJ2_5",
+  "accs": [
+   "P0ABE7",
+   "P32245",
+   "Q9U6Y8"
+  ],
+  "desc": "Soluble cytochrome b562,Melanocortin receptor 4,Red fluorescent protein drFP583",
+  "len": 729
+ },
+ {
+  "entity": "8PWN_1",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Adenosine receptor A2a,Soluble cytochrome b562",
+  "len": 433
+ },
+ {
+  "entity": "8K9L_1",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor,Mu-type opioid receptor",
+  "len": 453
+ },
+ {
+  "entity": "8K9K_1",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor",
+  "len": 453
+ },
+ {
+  "entity": "8K8J_5",
+  "accs": [
+   "P0ABE7",
+   "P21554"
+  ],
+  "desc": "Soluble cytochrome b562,Cannabinoid receptor 1",
+  "len": 525
+ },
+ {
+  "entity": "8K4S_1",
+  "accs": [
+   "P0ABE7",
+   "P42212",
+   "Q96LA9"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X4,Green fluorescent protein",
+  "len": 710
+ },
+ {
+  "entity": "8K2X_4",
+  "accs": [
+   "P0ABE7",
+   "P49682",
+   "Q9GV45"
+  ],
+  "desc": "Soluble cytochrome b562,C-X-C chemokine receptor type 3,Oplophorus-luciferin 2-monooxygenase catalytic subunit",
+  "len": 657
+ },
+ {
+  "entity": "8K2W_2",
+  "accs": [
+   "P0ABE7",
+   "P41145",
+   "P49682"
+  ],
+  "desc": "Soluble cytochrome b562,C-X-C chemokine receptor type 3,Kappa-type opioid receptor",
+  "len": 507
+ },
+ {
+  "entity": "8JT8_1",
+  "accs": [
+   "P0ABE7",
+   "P28223"
+  ],
+  "desc": "5-hydroxytryptamine receptor 2A,Soluble cytochrome b562",
+  "len": 376
+ },
+ {
+  "entity": "8JT6_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 544
+ },
+ {
+  "entity": "8JPP_4",
+  "accs": [
+   "P0ABE7",
+   "Q9BXA5"
+  ],
+  "desc": "Soluble cytochrome b562,Succinate receptor 1,Oplophorus-luciferin 2-monooxygenase catalytic subunit",
+  "len": 658
+ },
+ {
+  "entity": "8JPN_4",
+  "accs": [
+   "P0ABE7",
+   "Q9BXA5",
+   "Q9GV45"
+  ],
+  "desc": "Soluble cytochrome b562,Succinate receptor 1,Oplophorus-luciferin 2-monooxygenase catalytic subunit",
+  "len": 658
+ },
+ {
+  "entity": "8JLR_3",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 470
+ },
+ {
+  "entity": "8JLQ_3",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 470
+ },
+ {
+  "entity": "8JLN_3",
+  "accs": [
+   "P0ABE7",
+   "Q96RJ0"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 470
+ },
+ {
+  "entity": "8JLK_3",
+  "accs": [
+   "P0ABE7",
+   "Q923Y8"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 446
+ },
+ {
+  "entity": "8JLJ_3",
+  "accs": [
+   "P0ABE7",
+   "Q923Y8"
+  ],
+  "desc": "Soluble cytochrome b562,Trace amine-associated receptor 1",
+  "len": 446
+ },
+ {
+  "entity": "8JJO_1",
+  "accs": [
+   "P07550",
+   "P0ABE7"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Beta-2 adrenergic receptor,Soluble cytochrome b562",
+  "len": 453
+ },
+ {
+  "entity": "8JJL_1",
+  "accs": [
+   "P07550",
+   "P0ABE7"
+  ],
+  "desc": "Beta-2 adrenergic receptor,Soluble cytochrome b562",
+  "len": 453
+ },
+ {
+  "entity": "8J9O_1",
+  "accs": [
+   "P0ABE7",
+   "Q9UP38"
+  ],
+  "desc": "Frizzled-1,Soluble cytochrome b562",
+  "len": 677
+ },
+ {
+  "entity": "8IRV_4",
+  "accs": [
+   "P0ABE7",
+   "P21918"
+  ],
+  "desc": "Soluble cytochrome b562,D(1B) dopamine receptor",
+  "len": 617
+ },
+ {
+  "entity": "8IRT_5",
+  "accs": [
+   "P0ABE7",
+   "P35462"
+  ],
+  "desc": "Soluble cytochrome b562,D(3) dopamine receptor",
+  "len": 545
+ },
+ {
+  "entity": "8IRS_5",
+  "accs": [
+   "P0ABE7",
+   "P14416"
+  ],
+  "desc": "Soluble cytochrome b562,D(2) dopamine receptor",
+  "len": 588
+ },
+ {
+  "entity": "8IKJ_1",
+  "accs": [
+   "P0ABE7",
+   "P48960"
+  ],
+  "desc": "Adhesion G protein-coupled receptor E5,Soluble cytochrome b562,Adhesion G protein-coupled receptor E5 subunit beta",
+  "len": 655
+ },
+ {
+  "entity": "8IHK_1",
+  "accs": [
+   "P0ABE7",
+   "P49019"
+  ],
+  "desc": "Soluble cytochrome b562,Hydroxycarboxylic acid receptor 3",
+  "len": 530
+ },
+ {
+  "entity": "8IHJ_1",
+  "accs": [
+   "P0ABE7",
+   "P49019"
+  ],
+  "desc": "Soluble cytochrome b562,Hydroxycarboxylic acid receptor 3",
+  "len": 530
+ },
+ {
+  "entity": "8IHI_5",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Soluble cytochrome b562,Hydroxycarboxylic acid receptor 2",
+  "len": 658
+ },
+ {
+  "entity": "8IHH_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Soluble cytochrome b562,Hydroxycarboxylic acid receptor 2",
+  "len": 658
+ },
+ {
+  "entity": "8IHF_5",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Soluble cytochrome b562,Hydroxycarboxylic acid receptor 2",
+  "len": 658
+ },
+ {
+  "entity": "8IHB_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Soluble cytochrome b562,Hydroxycarboxylic acid receptor 2",
+  "len": 658
+ },
+ {
+  "entity": "8IBV_1",
+  "accs": [
+   "O43193",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,Motilin receptor,Soluble cytochrome b562, motilin receptor",
+  "len": 741
+ },
+ {
+  "entity": "8IBU_5",
+  "accs": [
+   "O43193",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,Motilin receptor,Fusion tag",
+  "len": 741
+ },
+ {
+  "entity": "8I7W_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Human hydroxycarboxylic acid receptor 2,Hydroxycarboxylic acid receptor 2",
+  "len": 476
+ },
+ {
+  "entity": "8I7V_1",
+  "accs": [
+   "P0ABE7",
+   "Q8TDS4"
+  ],
+  "desc": "Human hydroxycarboxylic acid receptor 2,Hydroxycarboxylic acid receptor 2,Hydroxycarboxylic acid receptor 2",
+  "len": 476
+ },
+ {
+  "entity": "8HVI_1",
+  "accs": [
+   "P0ABE7",
+   "Q9UNW8"
+  ],
+  "desc": "Soluble cytochrome b562,Probable G-protein coupled receptor 132",
+  "len": 510
+ },
+ {
+  "entity": "9QJS_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9QJV_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9QJX_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9QJY_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9QK0_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9QK1_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9SL1_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9SLD_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9UPU_6",
+  "accs": [
+   "P0ABE7",
+   "P61073",
+   "Q9GV45"
+  ],
+  "desc": "Soluble cytochrome b562,C-X-C chemokine receptor type 4,Oplophorus-luciferin 2-monooxygenase catalytic subunit",
+  "len": 648
+ },
+ {
+  "entity": "9VJ5_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 549
+ },
+ {
+  "entity": "9VNF_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 549
+ },
+ {
+  "entity": "9VO1_4",
+  "accs": [
+   "P0ABE7",
+   "P21453"
+  ],
+  "desc": "Soluble cytochrome b562,Sphingosine 1-phosphate receptor 1",
+  "len": 534
+ },
+ {
+  "entity": "9WIJ_1",
+  "accs": [
+   "P0ABE7",
+   "Q9NQS5"
+  ],
+  "desc": "G-protein coupled receptor 84,Soluble cytochrome b562",
+  "len": 447
+ },
+ {
+  "entity": "9ZXC_1",
+  "accs": [
+   "P0ABE7",
+   "P30556"
+  ],
+  "desc": "Nanobody AT118-R,Type-1 angiotensin II receptor with Soluble cytochrome b562 insertion",
+  "len": 582
+ },
+ {
+  "entity": "9XZN_1",
+  "accs": [
+   "P0ABE7",
+   "Q8DPI1"
+  ],
+  "desc": "Soluble cytochrome b562,Teichoic acid subunit flippase",
+  "len": 594
+ },
+ {
+  "entity": "9WIK_4",
+  "accs": [
+   "P0ABE7",
+   "Q9NQS5"
+  ],
+  "desc": "Soluble cytochrome b562,G-protein coupled receptor 84,LgBiT tag",
+  "len": 691
+ },
+ {
+  "entity": "9W6W_5",
+  "accs": [
+   "P0ABE7",
+   "P47898"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 5A",
+  "len": 481
+ },
+ {
+  "entity": "9W41_5",
+  "accs": [
+   "P0ABE7",
+   "P29274"
+  ],
+  "desc": "Soluble cytochrome b562,Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a,LgBiT",
+  "len": 607
+ },
+ {
+  "entity": "9W40_4",
+  "accs": [
+   "P0ABE7",
+   "P29275"
+  ],
+  "desc": "Soluble cytochrome b562,Adenosine receptor A2b,LgBiT",
+  "len": 607
+ },
+ {
+  "entity": "9W33_1",
+  "accs": [
+   "P0ABE7",
+   "P35346"
+  ],
+  "desc": "Somatostatin receptor type 5,Soluble cytochrome b562",
+  "len": 389
+ },
+ {
+  "entity": "9W32_1",
+  "accs": [
+   "P0ABE7",
+   "P35346"
+  ],
+  "desc": "Somatostatin receptor type 5,Soluble cytochrome b562",
+  "len": 389
+ },
+ {
+  "entity": "9W1Q_1",
+  "accs": [
+   "O43826",
+   "P0ABE7"
+  ],
+  "desc": "Glucose-6-phosphate exchanger SLC37A4,Soluble cytochrome b562",
+  "len": 551
+ },
+ {
+  "entity": "9W1P_1",
+  "accs": [
+   "O43826",
+   "P0ABE7"
+  ],
+  "desc": "Glucose-6-phosphate exchanger SLC37A4,Soluble cytochrome b562",
+  "len": 551
+ },
+ {
+  "entity": "9W0P_4",
+  "accs": [
+   "P0ABE7",
+   "Q9NYV8"
+  ],
+  "desc": "Soluble cytochrome b562,Taste receptor type 2 member 14",
+  "len": 483
+ },
+ {
+  "entity": "9VV6_1",
+  "accs": [
+   "P0ABE7",
+   "P0AEX9",
+   "Q96P68"
+  ],
+  "desc": "Soluble cytochrome b562,2-oxoglutarate receptor 1,Soluble cytochrome b562,2-oxoglutarate receptor 1,Soluble cytochrome b562,2-oxoglutarate receptor 1,Fusion protein,Maltose/maltodextrin-binding periplasmic protein,Maltose/maltodextrin-binding periplasmic protein,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1398
+ },
+ {
+  "entity": "9VUS_5",
+  "accs": [
+   "P0ABE7",
+   "P0AEX9",
+   "Q96P68"
+  ],
+  "desc": "Soluble cytochrome b562,2-oxoglutarate receptor 1,Soluble cytochrome b562,2-oxoglutarate receptor 1,Soluble cytochrome b562,2-oxoglutarate receptor 1,Fusion protein,Maltose/maltodextrin-binding periplasmic protein,Maltose/maltodextrin-binding periplasmic protein,Maltose/maltodextrin-binding periplasmic protein",
+  "len": 1398
+ },
+ {
+  "entity": "9VO0_5",
+  "accs": [
+   "P0ABE7",
+   "P21453"
+  ],
+  "desc": "Soluble cytochrome b562,Sphingosine 1-phosphate receptor 1",
+  "len": 534
+ },
+ {
+  "entity": "9VNZ_5",
+  "accs": [
+   "P0ABE7",
+   "P21453"
+  ],
+  "desc": "Soluble cytochrome b562,Sphingosine 1-phosphate receptor 1",
+  "len": 534
+ },
+ {
+  "entity": "9VNY_5",
+  "accs": [
+   "P0ABE7",
+   "P21453"
+  ],
+  "desc": "Soluble cytochrome b562,Sphingosine 1-phosphate receptor 1",
+  "len": 534
+ },
+ {
+  "entity": "9VMY_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 549
+ },
+ {
+  "entity": "9VJG_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 549
+ },
+ {
+  "entity": "9VJF_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 549
+ },
+ {
+  "entity": "9VJE_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 549
+ },
+ {
+  "entity": "9VJ6_5",
+  "accs": [
+   "P08908",
+   "P0ABE7"
+  ],
+  "desc": "Soluble cytochrome b562,5-hydroxytryptamine receptor 1A",
+  "len": 549
+ },
+ {
+  "entity": "9V82_1",
+  "accs": [
+   "P0ABE7",
+   "Q96LA9"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X4",
+  "len": 472
+ },
+ {
+  "entity": "9V81_5",
+  "accs": [
+   "P0ABE7",
+   "Q96LA9"
+  ],
+  "desc": "Soluble cytochrome b562,Mas-related G-protein coupled receptor member X4",
+  "len": 472
+ },
+ {
+  "entity": "9UVX_1",
+  "accs": [
+   "P0ABE7",
+   "P30518"
+  ],
+  "desc": "Vasopressin V2 receptor,Soluble cytochrome b562",
+  "len": 486
+ },
+ {
+  "entity": "9UVW_1",
+  "accs": [
+   "P0ABE7",
+   "P30518"
+  ],
+  "desc": "Vasopressin V2 receptor,Soluble cytochrome b562",
+  "len": 486
+ },
+ {
+  "entity": "9UVV_1",
+  "accs": [
+   "P0ABE7",
+   "P30518"
+  ],
+  "desc": "Vasopressin V2 receptor,Soluble cytochrome b562",
+  "len": 486
+ },
+ {
+  "entity": "9UVU_2",
+  "accs": [
+   "P0ABE7",
+   "P30411"
+  ],
+  "desc": "B2 bradykinin receptor,Soluble cytochrome b562",
+  "len": 487
+ },
+ {
+  "entity": "9UVT_3",
+  "accs": [
+   "P0ABE7",
+   "P30411"
+  ],
+  "desc": "B2 bradykinin receptor,Soluble cytochrome b562",
+  "len": 487
+ },
+ {
+  "entity": "9UPV_4",
+  "accs": [
+   "P0ABE7",
+   "P61073",
+   "Q9GV45"
+  ],
+  "desc": "Soluble cytochrome b562,C-X-C chemokine receptor type 4,Oplophorus-luciferin 2-monooxygenase catalytic subunit",
+  "len": 648
+ },
+ {
+  "entity": "9UPO_1",
+  "accs": [
+   "P0ABE7",
+   "Q9XSX2"
+  ],
+  "desc": "MW opsin,Soluble cytochrome b562",
+  "len": 434
+ },
+ {
+  "entity": "9UPN_1",
+  "accs": [
+   "P0ABE7",
+   "Q9XSX2"
+  ],
+  "desc": "MW opsin,Soluble cytochrome b562",
+  "len": 434
+ },
+ {
+  "entity": "9UPM_1",
+  "accs": [
+   "P0ABE7",
+   "Q9XSX4"
+  ],
+  "desc": "LW opsin,Soluble cytochrome b562",
+  "len": 452
+ },
+ {
+  "entity": "9TPQ_2",
+  "accs": [
+   "P0ABE7",
+   "P28472"
+  ],
+  "desc": "Gamma-aminobutyric acid receptor subunit beta-3,Soluble cytochrome b562",
+  "len": 451
+ },
+ {
+  "entity": "9T8D_1",
+  "accs": [
+   "P0ABE7",
+   "P35462"
+  ],
+  "desc": "D(3) dopamine receptor,Soluble cytochrome b562",
+  "len": 432
+ },
+ {
+  "entity": "9R42_4",
+  "accs": [
+   "P0ABE7",
+   "P35462"
+  ],
+  "desc": "Soluble cytochrome b562,D(3) dopamine receptor",
+  "len": 561
+ },
+ {
+  "entity": "9QP4_1",
+  "accs": [
+   "P03999",
+   "P0ABE7"
+  ],
+  "desc": "Short-wave-sensitive opsin 1,Soluble cytochrome b562",
+  "len": 488
+ },
+ {
+  "entity": "9PY4_4",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Cytochrome b-562/Mu-type opioid receptor chimera protein,Mu-type opioid receptor",
+  "len": 622
+ },
+ {
+  "entity": "9PY3_3",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor",
+  "len": 622
+ },
+ {
+  "entity": "9PY2_1",
+  "accs": [
+   "P0ABE7",
+   "P35372"
+  ],
+  "desc": "Soluble cytochrome b562,Mu-type opioid receptor",
+  "len": 622
+ }
+]

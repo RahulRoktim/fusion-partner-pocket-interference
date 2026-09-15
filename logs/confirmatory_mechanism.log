@@ -1,0 +1,28 @@
+rank-1 fusion-associated results: 126 over 71 structures
+  isolated-partner runs 15/71
+  isolated-partner runs 30/71
+  isolated-partner runs 45/71
+  isolated-partner runs 60/71
+
+============================================================================================
+SECONDARY AIM D — MECHANISM (confirmatory)
+============================================================================================
+
+probe states, per detector:
+  p2rank  : {'MATCHED_INTRINSIC_CAVITY': 63, 'AMBIGUOUS': 1, 'NO_MATCHING_CAVITY': 2}
+  fpocket : {'MATCHED_INTRINSIC_CAVITY': 56, 'NO_MATCHING_CAVITY': 4}
+
+mechanism, per detector:
+  p2rank  : {'FUSION_INTRINSIC_CAVITY': 63, 'TARGET_FUSION_INTERFACE': 3}
+  fpocket : {'FUSION_INTRINSIC_CAVITY': 50, 'TARGET_FUSION_INTERFACE': 8, 'CHIMERA_SPECIFIC_FUSION_CAVITY': 2}
+
+mechanism, per detector x partner:
+  p2rank   BRIL : {'FUSION_INTRINSIC_CAVITY': 2}
+  p2rank   T4L  : {'TARGET_FUSION_INTERFACE': 3, 'FUSION_INTRINSIC_CAVITY': 4}
+  p2rank   MBP  : {'FUSION_INTRINSIC_CAVITY': 57}
+  fpocket  BRIL : {'FUSION_INTRINSIC_CAVITY': 2, 'TARGET_FUSION_INTERFACE': 1}
+  fpocket  T4L  : {'TARGET_FUSION_INTERFACE': 3, 'FUSION_INTRINSIC_CAVITY': 2}
+  fpocket  MBP  : {'FUSION_INTRINSIC_CAVITY': 46, 'TARGET_FUSION_INTERFACE': 4, 'CHIMERA_SPECIFIC_FUSION_CAVITY': 2}
+
+isolated-partner rank of the matched intrinsic cavity:
+  101/119 matched cavities are the isolated partner's OWN rank-1 pocket

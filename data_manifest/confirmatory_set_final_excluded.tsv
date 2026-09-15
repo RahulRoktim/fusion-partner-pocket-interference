@@ -1,0 +1,2 @@
+entity_id	pdb_id	fusion_partner	fusion_accession	target_accession	topology	method	resolution	representative_chain	entity_length	target_modelled	fusion_modelled	target_disorder	fusion_disorder	align_coverage_of_modelled	n_alternative_entries	drop_reason
+7DFP_1	7DFP	BRIL	P0ABE7	P14416	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.1	A	360	254	79	0.0487	0.0125	0.994		F1_target_accession_in_development_set

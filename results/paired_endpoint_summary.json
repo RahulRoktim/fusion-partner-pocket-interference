@@ -1,0 +1,248 @@
+{
+ "p2rank": {
+  "displacement": {
+   "k": 5,
+   "n": 18,
+   "ci": [
+    0.12499569146355474,
+    0.5087307754619452
+   ],
+   "pdb_ids": [
+    "5AZA",
+    "5K94",
+    "6A73",
+    "6WSK",
+    "7UAJ"
+   ]
+  },
+  "displacement_by_partner": {
+   "BRIL": {
+    "k": 0,
+    "n": 8
+   },
+   "T4L": {
+    "k": 2,
+    "n": 7
+   },
+   "MBP": {
+    "k": 3,
+    "n": 3
+   }
+  },
+  "rank_change": {
+   "n": 86,
+   "improved": 42,
+   "worsened": 1,
+   "unchanged": 43,
+   "median": 0,
+   "mean": 0.813953488372093,
+   "wilcoxon_p_descriptive": 5.2837671933772493e-08
+  },
+  "rank_change_displaced": {
+   "n": 43,
+   "median": 1,
+   "improved": 42,
+   "worsened": 1
+  },
+  "reference_site": {
+   "coverage": 13,
+   "matched": 13,
+   "displaced": 1,
+   "rank_changes": [
+    [
+     "3ODU",
+     1,
+     1
+    ],
+    [
+     "4DJH",
+     1,
+     1
+    ],
+    [
+     "4JKV",
+     1,
+     1
+    ],
+    [
+     "4N6H",
+     1,
+     1
+    ],
+    [
+     "4Z35",
+     1,
+     1
+    ],
+    [
+     "5ZBQ",
+     1,
+     1
+    ],
+    [
+     "6A73",
+     3,
+     1
+    ],
+    [
+     "6BG3",
+     1,
+     1
+    ],
+    [
+     "6CM4",
+     1,
+     1
+    ],
+    [
+     "6RZ4",
+     1,
+     1
+    ],
+    [
+     "6RZ7",
+     1,
+     1
+    ],
+    [
+     "7YXA",
+     1,
+     1
+    ],
+    [
+     "9JRT",
+     1,
+     1
+    ]
+   ]
+  }
+ },
+ "fpocket": {
+  "displacement": {
+   "k": 15,
+   "n": 24,
+   "ci": [
+    0.42709619037907065,
+    0.7884086656636855
+   ],
+   "pdb_ids": [
+    "3OAI",
+    "4Z35",
+    "5AZA",
+    "5GPP",
+    "5H7Q",
+    "5JQE",
+    "5K94",
+    "5YQR",
+    "5ZBQ",
+    "6A73",
+    "6RZ4",
+    "6RZ7",
+    "7UAJ",
+    "7YXA",
+    "7ZL9"
+   ]
+  },
+  "displacement_by_partner": {
+   "BRIL": {
+    "k": 5,
+    "n": 8
+   },
+   "T4L": {
+    "k": 3,
+    "n": 8
+   },
+   "MBP": {
+    "k": 7,
+    "n": 8
+   }
+  },
+  "rank_change": {
+   "n": 364,
+   "improved": 313,
+   "worsened": 32,
+   "unchanged": 19,
+   "median": 5,
+   "mean": 5.5989010989010985,
+   "wilcoxon_p_descriptive": 3.9768667809854346e-47
+  },
+  "rank_change_displaced": {
+   "n": 327,
+   "median": 5,
+   "improved": 309,
+   "worsened": 17
+  },
+  "reference_site": {
+   "coverage": 13,
+   "matched": 13,
+   "displaced": 6,
+   "rank_changes": [
+    [
+     "3ODU",
+     1,
+     1
+    ],
+    [
+     "4DJH",
+     1,
+     1
+    ],
+    [
+     "4JKV",
+     1,
+     1
+    ],
+    [
+     "4N6H",
+     1,
+     1
+    ],
+    [
+     "4Z35",
+     4,
+     2
+    ],
+    [
+     "5ZBQ",
+     13,
+     12
+    ],
+    [
+     "6A73",
+     9,
+     4
+    ],
+    [
+     "6BG3",
+     1,
+     1
+    ],
+    [
+     "6CM4",
+     1,
+     1
+    ],
+    [
+     "6RZ4",
+     24,
+     18
+    ],
+    [
+     "6RZ7",
+     10,
+     9
+    ],
+    [
+     "7YXA",
+     2,
+     1
+    ],
+    [
+     "9JRT",
+     1,
+     1
+    ]
+   ]
+  }
+ }
+}

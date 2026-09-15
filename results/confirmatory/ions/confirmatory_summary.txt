@@ -1,0 +1,163 @@
+========================================================================================================
+CONFIRMATORY ANALYSIS — protocol v1.3, variant 'ions'
+freeze sha256(PROTOCOL.md) = 6000af5dfa1662e93bc7d243e1156e84...
+n_structures = 128   n_independent_target_clusters = 123
+[F2] every CI and test below uses n = STRUCTURES, clustered on target accession
+========================================================================================================
+
+TECHNICAL SUCCESS
+  p2rank   ORIGINAL : 128/128
+  p2rank   REMOVED  : 128/128
+  fpocket  ORIGINAL : 128/128
+  fpocket  REMOVED  : 128/128
+  technical failures: 0
+
+========================================================================================================
+PRIMARY AIM A — FUSION-POCKET EXPOSURE (ORIGINAL deposited construct)
+========================================================================================================
+
+P2RANK  (evaluable structures 127)
+  rank-1  : 66/127 =  52.0%  Wilson[43.3-60.5]  boot[43.2-61.1]
+  top-3   : 89/127 =  70.1%  Wilson[61.6-77.4]  boot[61.8-78.1]
+  top-5   : 104/127 =  81.9%  Wilson[74.3-87.6]  boot[74.6-88.8]
+  partner strata (reported before any pooled interpretation):
+    BRIL  rank-1 : 2/28 =   7.1%  Wilson[2.0-22.6]  boot[0.0-17.9]
+          top-3 : 8/28 =  28.6%  Wilson[15.3-47.1]
+          top-5 : 14/28 =  50.0%  Wilson[32.6-67.4]
+    T4L   rank-1 : 7/38 =  18.4%  Wilson[9.2-33.4]  boot[7.9-31.6]
+          top-3 : 20/38 =  52.6%  Wilson[37.3-67.5]
+          top-5 : 29/38 =  76.3%  Wilson[60.8-87.0]
+    MBP   rank-1 : 57/61 =  93.4%  Wilson[84.3-97.4]  boot[86.9-98.4]
+          top-3 : 61/61 = 100.0%  Wilson[94.1-100.0]
+          top-5 : 61/61 = 100.0%  Wilson[94.1-100.0]
+  RAW POOLED rank-1          : 52.0%
+  PARTNER-STANDARDISED (1/3) : 39.7%   (difference +12.3 points)
+  standardised cluster-bootstrap 95% CI: [34.4-45.6]
+  rank-1 class breakdown: {'TARGET_DOMINATED': 60, 'FUSION_DOMINATED': 63, 'INTERFACE': 3, 'MIXED': 1}
+
+FPOCKET  (evaluable structures 128)
+  rank-1  : 61/128 =  47.7%  Wilson[39.2-56.3]  boot[38.9-56.2]
+  top-3   : 91/128 =  71.1%  Wilson[62.7-78.2]  boot[63.1-78.9]
+  top-5   : 108/128 =  84.4%  Wilson[77.1-89.7]  boot[77.5-90.6]
+  partner strata (reported before any pooled interpretation):
+    BRIL  rank-1 : 3/29 =  10.3%  Wilson[3.6-26.4]  boot[0.0-24.1]
+          top-3 : 14/29 =  48.3%  Wilson[31.4-65.6]
+          top-5 : 20/29 =  69.0%  Wilson[50.8-82.7]
+    T4L   rank-1 : 7/38 =  18.4%  Wilson[9.2-33.4]  boot[7.9-31.6]
+          top-3 : 17/38 =  44.7%  Wilson[30.1-60.3]
+          top-5 : 28/38 =  73.7%  Wilson[58.0-85.0]
+    MBP   rank-1 : 51/61 =  83.6%  Wilson[72.4-90.8]  boot[73.8-91.8]
+          top-3 : 60/61 =  98.4%  Wilson[91.3-99.7]
+          top-5 : 60/61 =  98.4%  Wilson[91.3-99.7]
+  RAW POOLED rank-1          : 47.7%
+  PARTNER-STANDARDISED (1/3) : 37.5%   (difference +10.2 points)
+  standardised cluster-bootstrap 95% CI: [31.3-43.8]
+  rank-1 class breakdown: {'TARGET_DOMINATED': 66, 'FUSION_DOMINATED': 52, 'INTERFACE': 9, 'MIXED': 1}
+
+========================================================================================================
+PRIMARY AIM B — TARGET-CAVITY RANK DISPLACEMENT  [F3, structure-level]
+========================================================================================================
+
+P2RANK
+  evaluable                            103
+  DETECTOR_ABSTENTION                  22  ['2VGQ', '3A3C', '3H4Z', '3MP6', '3OB4', '4EGC', '4EXK', '4IFP']
+  TARGET_CAVITY_NOT_RECOVERED_IN_ORIG  3  ['3PY7', '4DXB', '5W0R']
+  median displacement                  0   cluster-boot 95% CI [0, 1]
+  mean displacement                    +0.78  cluster-boot 95% CI [+0.55, +1.02]
+  range                                [0, 6]
+  displacement >0                      42/103 =  40.8%  Wilson[31.8-50.4]  boot[31.1-50.5]
+  displacement >=2                     19/103 =  18.4%  Wilson[12.1-27.0]  boot[11.2-26.2]
+  displacement >=5                     2/103 =   1.9%  Wilson[0.5-6.8]  boot[0.0-4.9]
+  displacement < 0 (fusion HELPED)     0/103
+  displacement == 0 (no displacement)  61/103
+  structure-level sign test on 42 non-zero structures: 42 up / 0 down, exact p = 4.55e-13
+  partner-stratified displacement:
+    BRIL  n= 28  median 0  mean +0.07  >0 in 2/28 =   7.1%  Wilson[2.0-22.6]
+    T4L   n= 37  median 0  mean +0.43  >0 in 6/37 =  16.2%  Wilson[7.7-31.1]
+    MBP   n= 38  median 1  mean +1.63  >0 in 34/38 =  89.5%  Wilson[75.9-95.8]
+
+FPOCKET
+  evaluable                            128
+  DETECTOR_ABSTENTION                  0
+  TARGET_CAVITY_NOT_RECOVERED_IN_ORIG  0
+  median displacement                  1   cluster-boot 95% CI [0, 1]
+  mean displacement                    +3.97  cluster-boot 95% CI [+2.83, +5.22]
+  range                                [0, 27]
+  displacement >0                      66/128 =  51.6%  Wilson[43.0-60.0]  boot[42.7-60.2]
+  displacement >=2                     46/128 =  35.9%  Wilson[28.1-44.5]  boot[27.7-44.4]
+  displacement >=5                     32/128 =  25.0%  Wilson[18.3-33.2]  boot[17.6-32.5]
+  displacement < 0 (fusion HELPED)     0/128
+  displacement == 0 (no displacement)  62/128
+  structure-level sign test on 66 non-zero structures: 66 up / 0 down, exact p = 2.71e-20
+  partner-stratified displacement:
+    BRIL  n= 29  median 0  mean +0.62  >0 in 4/29 =  13.8%  Wilson[5.5-30.6]
+    T4L   n= 38  median 0  mean +0.34  >0 in 10/38 =  26.3%  Wilson[15.0-42.0]
+    MBP   n= 61  median 4  mean +7.82  >0 in 52/61 =  85.2%  Wilson[74.3-92.0]
+
+========================================================================================================
+SECONDARY AIM C — BIOLOGICAL REFERENCE SITE
+========================================================================================================
+  coverage overall: 60/128 = 46.9%  -> <60%: remains a restricted-subset SECONDARY analysis
+    BRIL : 23/29
+    T4L  : 27/38
+    MBP  : 10/61
+
+  P2RANK
+    site-corresponding pocket found in ORIGINAL: 58/60
+    outranked by a fusion-associated pocket: 9/58 =  15.5%  Wilson[8.4-26.9]  boot[6.9-25.5]
+    rank change (orig->removed): improved 9, worsened 0, unchanged 49 (median 0)
+    recovery in ORIGINAL top1: 47/58 =  81.0%  Wilson[69.1-89.1]
+    recovery in ORIGINAL top3: 56/58 =  96.6%  Wilson[88.3-99.0]
+    recovery in ORIGINAL top5: 57/58 =  98.3%  Wilson[90.9-99.7]
+
+  FPOCKET
+    site-corresponding pocket found in ORIGINAL: 60/60
+    outranked by a fusion-associated pocket: 26/60 =  43.3%  Wilson[31.6-55.9]  boot[30.6-56.7]
+    rank change (orig->removed): improved 27, worsened 2, unchanged 30 (median 0)
+    recovery in ORIGINAL top1: 25/60 =  41.7%  Wilson[30.1-54.3]
+    recovery in ORIGINAL top3: 35/60 =  58.3%  Wilson[45.7-69.9]
+    recovery in ORIGINAL top5: 42/60 =  70.0%  Wilson[57.5-80.1]
+
+========================================================================================================
+SECONDARY AIM E — DETECTOR DEPENDENCE
+========================================================================================================
+  structures scored by both: 127
+  agreement on rank-1 fusion-associated: 109/127 = 85.8%
+  Cohen's kappa: 0.717
+  both 54 | P2Rank only 12 | fpocket only 6 | neither 55
+  score margin (best fusion-associated / best target-dominated), ORIGINAL:
+    p2rank   BRIL : n= 21 median 0.12
+    p2rank   T4L  : n= 35 median 0.14
+    p2rank   MBP  : n= 43 median 5.04
+    p2rank   ALL  : n= 99 median 0.96
+    fpocket  BRIL : n= 29 median 0.30
+    fpocket  T4L  : n= 38 median 0.39
+    fpocket  MBP  : n= 61 median 1.51
+    fpocket  ALL  : n=128 median 0.79
+  abstention pattern (REMOVED condition, zero predictions):
+    p2rank  : 22/128  {'MBP': 20, 'T4L': 1, 'BRIL': 1}
+    fpocket : 0/128  {}
+
+========================================================================================================
+PRE-SPECIFIED SENSITIVITY ANALYSES (this variant)
+========================================================================================================
+
+  Pocket dominance threshold — Aim A rank-1 exposure:
+    p2rank   dominance 0.50: 65/127 =  51.2%  Wilson[42.6-59.7]
+    p2rank   dominance 0.70: 66/127 =  52.0%  Wilson[43.3-60.5]
+    p2rank   dominance 0.90: 65/127 =  51.2%  Wilson[42.6-59.7]
+    fpocket  dominance 0.50: 58/128 =  45.3%  Wilson[37.0-53.9]
+    fpocket  dominance 0.70: 61/128 =  47.7%  Wilson[39.2-56.3]
+    fpocket  dominance 0.90: 61/128 =  47.7%  Wilson[39.2-56.3]
+
+  Correspondence rule — Aim B displacement:
+    p2rank   J0.25/12A   : evaluable 103  median 0  >0 42/103 =  40.8%  Wilson[31.8-50.4]
+    p2rank   J0.40/8A    : evaluable 103  median 0  >0 42/103 =  40.8%  Wilson[31.8-50.4]
+    p2rank   J0.60/5A    : evaluable 102  median 0  >0 42/102 =  41.2%  Wilson[32.1-50.9]
+    fpocket  J0.25/12A   : evaluable 128  median 1  >0 66/128 =  51.6%  Wilson[43.0-60.0]
+    fpocket  J0.40/8A    : evaluable 128  median 1  >0 66/128 =  51.6%  Wilson[43.0-60.0]
+    fpocket  J0.60/5A    : evaluable 128  median 1  >0 66/128 =  51.6%  Wilson[43.0-60.0]
+
+  Deletion-boundary 8 A control (REMOVED-condition rank-1 cavities near a cut):
+    p2rank  : 2 structures have a rank-1 REMOVED cavity within 8 A of a cut; excluding them, displacement >0 in 41/102 =  40.2%  Wilson[31.2-49.9] (median 0)
+    fpocket : 2 structures have a rank-1 REMOVED cavity within 8 A of a cut; excluding them, displacement >0 in 65/126 =  51.6%  Wilson[42.9-60.1] (median 1)

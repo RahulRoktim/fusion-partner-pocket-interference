@@ -1,0 +1,27 @@
+using cached prepared manifest
+staged 252 condition-instances
+fpocket batch done in 373s
+  fpocket ok 252/252
+  p2rank 25/252 rc=0 4.82s ok=True
+  p2rank 50/252 rc=0 4.96s ok=True
+  p2rank 75/252 rc=0 5.5s ok=True
+  p2rank 100/252 rc=0 6.11s ok=True
+  p2rank 125/252 rc=0 5.15s ok=True
+  p2rank 150/252 rc=0 4.26s ok=True
+  p2rank 175/252 rc=0 5.72s ok=True
+  p2rank 200/252 rc=0 4.51s ok=True
+  p2rank 225/252 rc=0 5.83s ok=True
+  p2rank 250/252 rc=0 4.52s ok=True
+  p2rank ok 252/252
+protocol freeze: v1.3 CONFIRMATORY FREEZE  sha256(PROTOCOL.md)=6000af5dfa1662e9...  variant=assembly1
+confirmatory structures: 128
+prepared 126/128
+  PREPARATION FAILURE (retained in manifest): 5W0R RuntimeError: 5W0R: designated chain A absent after assembly build
+  PREPARATION FAILURE (retained in manifest): 5EDU RuntimeError: 5EDU: designated chain A absent after assembly build
+runs 504 (expected 504)
+  p2rank   ORIGINAL : 126/126
+  p2rank   REMOVED  : 126/126
+  fpocket  ORIGINAL : 126/126
+  fpocket  REMOVED  : 126/126
+classified 10206 pockets
+reference-site coverage: 59/126 = 46.8%

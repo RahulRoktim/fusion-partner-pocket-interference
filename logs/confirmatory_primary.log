@@ -1,0 +1,30 @@
+  prepared 20/128
+  prepared 40/128
+  prepared 60/128
+  prepared 80/128
+  prepared 100/128
+  prepared 120/128
+staged 256 condition-instances
+fpocket batch done in 246s
+  fpocket ok 256/256
+  p2rank 25/256 rc=0 5.26s ok=True
+  p2rank 50/256 rc=0 4.7s ok=True
+  p2rank 75/256 rc=0 5.97s ok=True
+  p2rank 100/256 rc=0 4.62s ok=True
+  p2rank 125/256 rc=0 4.93s ok=True
+  p2rank 150/256 rc=0 4.41s ok=True
+  p2rank 175/256 rc=0 5.12s ok=True
+  p2rank 200/256 rc=0 4.6s ok=True
+  p2rank 225/256 rc=0 4.7s ok=True
+  p2rank 250/256 rc=0 4.88s ok=True
+  p2rank ok 256/256
+protocol freeze: v1.3 CONFIRMATORY FREEZE  sha256(PROTOCOL.md)=6000af5dfa1662e9...  variant=primary
+confirmatory structures: 128
+prepared 128/128
+runs 512 (expected 512)
+  p2rank   ORIGINAL : 128/128
+  p2rank   REMOVED  : 128/128
+  fpocket  ORIGINAL : 128/128
+  fpocket  REMOVED  : 128/128
+classified 7656 pockets
+reference-site coverage: 60/128 = 46.9%

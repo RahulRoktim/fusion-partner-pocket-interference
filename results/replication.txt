@@ -1,0 +1,63 @@
+================================================================================================================
+DEVELOPMENT vs CONFIRMATORY REPLICATION
+development n = 24 (exploratory, never pooled)   confirmatory n = 128   target overlap = 0
+================================================================================================================
+
+PRIMARY AIM A — RANK-1 / TOP-3 / TOP-5 EXPOSURE
+signal                                        development           confirmatory  verdict
+p2rank rank-1                       11/ 24= 45.8%   66/127= 52.0%   REPLICATED
+                                   [27.9-64.9]        [43.3-60.5]
+p2rank top-3                        17/ 24= 70.8%   89/127= 70.1%   REPLICATED
+                                   [50.8-85.1]        [61.6-77.4]
+p2rank top-5                        20/ 24= 83.3%  104/127= 81.9%   REPLICATED
+                                   [64.1-93.3]        [74.3-87.6]
+fpocket rank-1                      15/ 24= 62.5%   60/128= 46.9%   REPLICATED
+                                   [42.7-78.8]        [38.4-55.5]
+fpocket top-3                       20/ 24= 83.3%   91/128= 71.1%   REPLICATED
+                                   [64.1-93.3]        [62.7-78.2]
+fpocket top-5                       22/ 24= 91.7%  105/128= 82.0%   REPLICATED
+                                   [74.2-97.7]        [74.5-87.7]
+
+AIM A BY PARTNER (rank-1)
+signal                                        development           confirmatory  verdict
+p2rank BRIL                          0/  8=  0.0%    2/ 28=  7.1%   REPLICATED
+p2rank T4L                           3/  8= 37.5%    7/ 38= 18.4%   REPLICATED
+p2rank MBP                           8/  8=100.0%   57/ 61= 93.4%   REPLICATED
+fpocket BRIL                         5/  8= 62.5%    3/ 29= 10.3%   NOT REPLICATED
+fpocket T4L                          3/  8= 37.5%    5/ 38= 13.2%   PARTIALLY REPLICATED
+fpocket MBP                          7/  8= 87.5%   52/ 61= 85.2%   REPLICATED
+
+PRIMARY AIM B — F3 RANK DISPLACEMENT (development re-described with the frozen endpoint)
+
+  P2RANK
+    development : evaluable  18/24  abstention  6  unmatched  0  median 0  >0 in 5/18 = 27.8%
+    confirmatory: evaluable 103/128  abstention 22  unmatched  3  median 0  >0 in 42/103 = 40.8%
+    confirmatory cluster-bootstrap CI for '>0': [31.1-50.5]  excludes zero: True
+    VERDICT: REPLICATED
+    by partner (displacement > 0):
+      BRIL  dev 0/8  conf 2/28   REPLICATED
+      T4L   dev 2/7  conf 6/37   REPLICATED
+      MBP   dev 3/3  conf 34/38   REPLICATED
+
+  FPOCKET
+    development : evaluable  24/24  abstention  0  unmatched  0  median 1  >0 in 16/24 = 66.7%
+    confirmatory: evaluable 128/128  abstention  0  unmatched  0  median 1  >0 in 65/128 = 50.8%
+    confirmatory cluster-bootstrap CI for '>0': [42.2-59.4]  excludes zero: True
+    VERDICT: REPLICATED
+    by partner (displacement > 0):
+      BRIL  dev 5/8  conf 4/29   NOT REPLICATED
+      T4L   dev 3/8  conf 8/38   REPLICATED
+      MBP   dev 8/8  conf 53/61   REPLICATED
+
+================================================================================================================
+REPLICATION SUMMARY
+================================================================================================================
+  REPLICATED             17
+  NOT REPLICATED         2
+  PARTIALLY REPLICATED   1
+
+  headline signals:
+    A_p2rank_rank-1        REPLICATED
+    A_fpocket_rank-1       REPLICATED
+    B_p2rank               REPLICATED
+    B_fpocket              REPLICATED

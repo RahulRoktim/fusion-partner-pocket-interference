@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Partner-dependent interference by crystallization fusion partners in ligand-binding-site prediction"
+abstract: >-
+  Analysis code, protocol, cohort manifests and canonical results for a
+  target-disjoint confirmatory study of how crystallization fusion partners
+  (MBP, T4 lysozyme, BRIL) affect the ranking of predicted ligand-binding
+  sites by P2Rank and fpocket.
+type: software
+authors:
+  - family-names: "Roktim"
+    given-names: "Md. Rahul Reza"
+    orcid: "https://orcid.org/0009-0003-6518-0495"
+    affiliation: "Department of Pharmacy, Daffodil International University, Dhaka, Bangladesh"
+    email: "roktim2311091058@diu.edu.bd"
+repository-code: "REPOSITORY_URL_PLACEHOLDER"
+license: MIT
+keywords:
+  - ligand-binding-site prediction
+  - crystallization fusion partner
+  - maltose-binding protein
+  - BRIL
+  - T4 lysozyme
+  - P2Rank
+  - fpocket
+  - structure provenance
+  - reproducible research
+version: "VERSION_PLACEHOLDER"
+date-released: "DATE_PLACEHOLDER"

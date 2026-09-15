@@ -1,0 +1,13 @@
+# Raw PDB coordinates: fetched from RCSB, never redistributed (DATA_LICENSES.md)
+.structure_cache/
+# Detector distributions: installed, not vendored (environment/ENVIRONMENT.md)
+tools/
+# Prepared detector inputs: regenerable from the manifests; hashed in the manifests
+prepared/
+prepared_confirmatory/
+# Raw detector output trees: ~900 MB, regenerable; SHA-256 of every run is recorded in
+# results/**/detector_runs.json and results/RAW_OUTPUT_HASHES.tsv
+results/raw_detector/
+results/confirmatory/*/raw_detector/
+__pycache__/
+*.pyc

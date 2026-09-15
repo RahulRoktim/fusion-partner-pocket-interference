@@ -1,0 +1,2 @@
+dataset	role	pdb_id	benchmark_chain	subset	entity_id	entity_chains	benchmarked_chain_is_chimeric	fusion_partner	fusion_accession	target_accession	topology	label_source	labelled_ligands	n_labelled_ligand_instances	site_classes	n_on_target	n_on_fusion	n_on_interface	n_ambiguous	CASE_B_fusion_is_ground_truth	CASE_A_unlabelled_fusion_decoy	ligand_detail
+JOINED	DEVELOPMENT/VALIDATION	1DUG		dt198	1DUG_1	A,B		GST-Sj26	P08515	P02679	TERMINAL_N	MLIG	GSH	2	FUSION_PARTNER_SITE	0	2	0	0	True	False	GSH/A1239:FUSION_PARTNER_SITE(T0/F78);GSH/B1587:FUSION_PARTNER_SITE(T0/F76)

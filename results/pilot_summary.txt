@@ -1,0 +1,103 @@
+================================================================================================
+PILOT ANALYSIS — protocol v1.1 — signal detection only, no confirmatory inference
+================================================================================================
+
+DETECTOR RUN ACCOUNTING
+  p2rank  : 48/48 successful runs
+  fpocket : 48/48 successful runs
+
+TARGET REFERENCE-SITE COVERAGE: 13/24 = 54%  (A2 threshold 60% -> fusion-capture endpoint REMAINS primary)
+
+================================================================================================
+DETECTOR: P2RANK
+================================================================================================
+
+  rank-1 fusion-associated : 11/24 = 45.8%  [95% CI 27.9-64.9]
+  top-3  fusion-associated : 17/24 = 70.8%  [95% CI 50.8-85.1]
+  top-5  fusion-associated : 20/24 = 83.3%  [95% CI 64.1-93.3]
+  rank-1 class breakdown   : {'FUSION_DOMINATED': 10, 'TARGET_DOMINATED': 13, 'INTERFACE': 1}
+
+  partner-stratified rank-1 fusion-associated:
+    BRIL : 0/8 =  0.0%  [95% CI 0.0-32.4]
+    T4L  : 3/8 = 37.5%  [95% CI 13.7-69.4]
+    MBP  : 8/8 = 100.0%  [95% CI 67.6-100.0]
+
+  first fusion-associated pocket present in 22/24 structures; median rank among those = 1.5
+  score margin (best fusion-assoc / best target-dominated): n=16 median=0.24
+
+  PAIRED REMOVAL (original -> fusion-removed):
+    pairs evaluable: 24 (of which 6 produced NO pocket at all after removal)
+    [C1] PRIMARY (non-degenerate), outcome = 'rank-1 is TARGET_DOMINATED':
+      not-target -> target  (improved): 5
+      target -> not-target  (worsened): 0
+      exact McNemar on discordant pairs (DESCRIPTIVE ONLY): p = 0.0625
+    [C1] degenerate version, outcome = 'rank-1 is fusion-associated':
+      fusion-assoc -> not: 11;  not -> fusion-assoc: 0 (structurally fixed at 0 — no fusion residues exist in REMOVED)
+    best target-dominated pocket rank: improved in 5, worsened in 0, unchanged in 13 of 18
+    reference-site recovery at rank1: lost 0, gained 1 (of 13 with a site)
+
+  [A3] DELETION-BOUNDARY SENSITIVITY (cutoff 8.0 A):
+    apparent rank-1 rescues, all predictions            : 5
+    rank-1 rescues surviving the 8.0 A filter        : 4
+    rescues discounted as cut-adjacent: [('5K94', 7.8)]
+    REMOVED-condition pockets within 8.0 A of a cut: 1 of 86
+
+  CLASSIFICATION SENSITIVITY (rank-1 fusion-associated rate):
+    dominance 0.50: 11/24 = 45.8%  [95% CI 27.9-64.9]
+    dominance 0.70: 11/24 = 45.8%  [95% CI 27.9-64.9]
+    dominance 0.90: 11/24 = 45.8%  [95% CI 27.9-64.9]
+
+================================================================================================
+DETECTOR: FPOCKET
+================================================================================================
+
+  rank-1 fusion-associated : 15/24 = 62.5%  [95% CI 42.7-78.8]
+  top-3  fusion-associated : 20/24 = 83.3%  [95% CI 64.1-93.3]
+  top-5  fusion-associated : 22/24 = 91.7%  [95% CI 74.2-97.7]
+  rank-1 class breakdown   : {'TARGET_DOMINATED': 9, 'FUSION_DOMINATED': 12, 'INTERFACE': 3}
+
+  partner-stratified rank-1 fusion-associated:
+    BRIL : 5/8 = 62.5%  [95% CI 30.6-86.3]
+    T4L  : 3/8 = 37.5%  [95% CI 13.7-69.4]
+    MBP  : 7/8 = 87.5%  [95% CI 52.9-97.8]
+
+  first fusion-associated pocket present in 24/24 structures; median rank among those = 1.0
+  score margin (best fusion-assoc / best target-dominated): n=24 median=1.31
+
+  PAIRED REMOVAL (original -> fusion-removed):
+    pairs evaluable: 24 (of which 0 produced NO pocket at all after removal)
+    [C1] PRIMARY (non-degenerate), outcome = 'rank-1 is TARGET_DOMINATED':
+      not-target -> target  (improved): 15
+      target -> not-target  (worsened): 0
+      exact McNemar on discordant pairs (DESCRIPTIVE ONLY): p = 0.0001
+    [C1] degenerate version, outcome = 'rank-1 is fusion-associated':
+      fusion-assoc -> not: 15;  not -> fusion-assoc: 0 (structurally fixed at 0 — no fusion residues exist in REMOVED)
+    best target-dominated pocket rank: improved in 15, worsened in 0, unchanged in 9 of 24
+    reference-site recovery at rank1: lost 0, gained 1 (of 13 with a site)
+
+  [A3] DELETION-BOUNDARY SENSITIVITY (cutoff 8.0 A):
+    apparent rank-1 rescues, all predictions            : 15
+    rank-1 rescues surviving the 8.0 A filter        : 15
+    REMOVED-condition pockets within 8.0 A of a cut: 10 of 373
+
+  CLASSIFICATION SENSITIVITY (rank-1 fusion-associated rate):
+    dominance 0.50: 13/24 = 54.2%  [95% CI 35.1-72.1]
+    dominance 0.70: 15/24 = 62.5%  [95% CI 42.7-78.8]
+    dominance 0.90: 15/24 = 62.5%  [95% CI 42.7-78.8]
+
+================================================================================================
+BETWEEN-DETECTOR AGREEMENT (rank-1, ORIGINAL condition)
+  structures scored by both: 24
+  agreement on 'rank-1 is fusion-associated': 16/24 = 67%
+  Cohen's kappa: 0.347
+  both call fusion-associated: 9; P2Rank only: 2; fpocket only: 6; neither: 7
+
+================================================================================================
+GO / NO-GO GATES (protocol v1.1 section 10; thresholds are decision thresholds,
+not statistical rejection regions — see amendment A4)
+================================================================================================
+  G1  >=6/24 in one detector AND >=4/24 in the other: P2Rank=11, fpocket=15  ->  PASS
+  G2  any partner >=50% in BOTH detectors: ['MBP']  ->  PASS
+  G3  paired removal makes rank-1 TARGET_DOMINATED in >=5/24 with <=1 reverse [C1 non-degenerate reading]: {'p2rank': (5, 0), 'fpocket': (15, 0)}  ->  PASS
+
+  OVERALL: GO

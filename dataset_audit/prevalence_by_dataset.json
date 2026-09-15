@@ -1,0 +1,128 @@
+{
+ "CHEN11": {
+  "n_members": 251,
+  "n_resolved": 251,
+  "chimeric": [],
+  "other_chimera": [],
+  "standalone": [
+   "1LWG"
+  ],
+  "prevalence": 0.0,
+  "ci": [
+   0,
+   0.015074461940279765
+  ]
+ },
+ "JOINED": {
+  "n_members": 537,
+  "n_resolved": 534,
+  "chimeric": [
+   "1DUG"
+  ],
+  "other_chimera": [],
+  "standalone": [
+   "1AKE",
+   "1ANF",
+   "1L82",
+   "2SNS",
+   "4MBP",
+   "1HEL",
+   "1HEW",
+   "1SNC",
+   "1STN",
+   "1GTB",
+   "2F2Q",
+   "2NVU",
+   "2OF1"
+  ],
+  "prevalence": 0.0018726591760299626,
+  "ci": [
+   0.000330638342463962,
+   0.010530552015440672
+  ]
+ },
+ "COACH420": {
+  "n_members": 420,
+  "n_resolved": 418,
+  "chimeric": [],
+  "other_chimera": [
+   "3HP8",
+   "3HVL"
+  ],
+  "standalone": [
+   "148L",
+   "1STH",
+   "3HPI"
+  ],
+  "prevalence": 0.0,
+  "ci": [
+   0,
+   0.009106735798460844
+  ]
+ },
+ "HOLO4K": {
+  "n_members": 4009,
+  "n_resolved": 4004,
+  "chimeric": [],
+  "other_chimera": [
+   "1E9F",
+   "1FQJ",
+   "1FQK",
+   "1HUV",
+   "1JWY",
+   "1JX2"
+  ],
+  "standalone": [
+   "182L",
+   "183L",
+   "185L",
+   "186L",
+   "187L",
+   "1ANK",
+   "1E4V",
+   "1E4Y",
+   "1FQC",
+   "1FQD",
+   "1H6M",
+   "1JVX",
+   "1JVY",
+   "1LGW",
+   "1LGX",
+   "1LI3",
+   "1MDP",
+   "1MDQ",
+   "1MG1",
+   "1MPD",
+   "1NHB",
+   "1NL5",
+   "1NMU",
+   "1NUC",
+   "210L",
+   "225L",
+   "5NUC"
+  ],
+  "prevalence": 0.0,
+  "ci": [
+   0,
+   0.0009585209155970634
+  ]
+ },
+ "FPTRAIN": {
+  "n_members": 222,
+  "n_resolved": 222,
+  "chimeric": [],
+  "other_chimera": [
+   "1GUZ"
+  ],
+  "standalone": [
+   "184L",
+   "1A2T",
+   "1JJ0"
+  ],
+  "prevalence": 0.0,
+  "ci": [
+   0,
+   0.017010152248301463
+  ]
+ }
+}

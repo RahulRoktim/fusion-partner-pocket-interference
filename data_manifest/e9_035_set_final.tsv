@@ -1,0 +1,142 @@
+entity_id	pdb_id	fusion_partner	target_accession	topology	method	resolution	representative_chain	target_modelled	fusion_modelled	target_disorder	fusion_disorder	align_coverage_of_modelled	description
+8YNT_4	8YNT	BRIL	A0A2R9AFP0	INTERNAL_INSERTION	ELECTRON MICROSCOPY	3.43	R	271	90	0.2961	0.0	0.9139	Melanin-concentrating hormone receptor 1,Soluble cytochrome b562
+6M97_1	6M97	BRIL	C0HAK2	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.03	A	115	93	0.0336	0.1226	1.0	Chimera protein of High affinity copper uptake protein 1 and Soluble cytochrome b562
+8JH7_4	8JH7	BRIL	O60353	INTERNAL_INSERTION	ELECTRON MICROSCOPY	3.2	D	326	92	0.3237	0.1238	0.9698	Frizzled-6,Soluble cytochrome b562
+9QP4_1	9QP4	BRIL	P03999	INTERNAL_INSERTION	ELECTRON MICROSCOPY	3.06	A	299	92	0.1308	0.1238	0.9874	Short-wave-sensitive opsin 1,Soluble cytochrome b562
+8JJ8_1	8JJ8	BRIL	P07550	INTERNAL_INSERTION	ELECTRON MICROSCOPY	3.2	F	280	95	0.0	0.0	1.0	Beta-2 adrenergic receptor,Soluble cytochrome b562
+5ZKC_1	5ZKC	BRIL	P08172	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.3	A	278	105	0.0671	0.0	0.9974	Muscarinic acetylcholine receptor M2,Apo-cytochrome b562,Muscarinic acetylcholine receptor M2
+6CC4_1	6CC4	BRIL	P0AF16	TERMINAL_N	X-RAY DIFFRACTION	3.5	A	504	104	0.0079	0.0095	1.0	soluble cytochrome b562, lipid II flippase MurJ chimera
+6C1R_1	6C1R	BRIL	P21730	TERMINAL_N	X-RAY DIFFRACTION	2.2	B	290	81	0.0397	0.2358	1.0	Soluble cytochrome b562, C5a anaphylatoxin chemotactic receptor 1 chimera
+5WIU_1	5WIU	BRIL	P21917	INTERNAL_INSERTION	X-RAY DIFFRACTION	1.962	A	270	103	0.1374	0.019	1.0	D(4) dopamine receptor, soluble cytochrome b562 chimera
+6LW5_1	6LW5	BRIL	P25090	TERMINAL_N	X-RAY DIFFRACTION	2.8	A	320	106	0.0	0.0	0.9977	Soluble cytochrome b562,N-formyl peptide receptor 2
+4IAR_1	4IAR	BRIL	P28222	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.7	A	273	106	0.0651	0.0	1.0	Chimera protein of human 5-hydroxytryptamine receptor 1B and E. Coli soluble cytochrome b562
+7WC8_1	7WC8	BRIL	P28223	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.45	A	280	80	0.0444	0.0361	1.0	5-hydroxytryptamine receptor 2A,5-hydroxytryptamine receptor 2A,Soluble cytochrome b562
+6BQG_1	6BQG	BRIL	P28335	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.0	A	286	92	0.0435	0.1321	1.0	5-hydroxytryptamine receptor 2C,Soluble cytochrome b562
+5NM4_1	5NM4	BRIL	P29274	INTERNAL_INSERTION	X-RAY DIFFRACTION	1.7	A	293	86	0.0425	0.181	0.9921	Adenosine receptor A2a,Soluble cytochrome b562,Adenosine receptor A2a
+9UVT_3	9UVT	BRIL	P30411	INTERNAL_INSERTION	ELECTRON MICROSCOPY	3.29	A	246	89	0.3405	0.1604	1.0	B2 bradykinin receptor,Soluble cytochrome b562
+9UVV_1	9UVV	BRIL	P30518	INTERNAL_INSERTION	ELECTRON MICROSCOPY	3.02	A	266	93	0.2245	0.1226	1.0	Vasopressin V2 receptor,Soluble cytochrome b562
+5UEN_1	5UEN	BRIL	P30542	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.2	A	292	78	0.0068	0.2571	0.9635	Adenosine receptor A1,Soluble cytochrome b562,Adenosine receptor A1
+6OS2_1	6OS2	BRIL	P30556	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.7	A	305	75	0.0409	0.2424	1.0	Type-1 angiotensin II receptor,Soluble cytochrome b562 BRIL fusion protein
+9W32_1	9W32	BRIL	P35346	INTERNAL_INSERTION	ELECTRON MICROSCOPY	2.59	A	278	98	0.0	0.0	0.9666	Somatostatin receptor type 5,Soluble cytochrome b562
+8S4D_1	8S4D	BRIL	P35414	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.584	A	280	96	0.1054	0.04	0.9869	Apelin receptor,Soluble cytochrome b562
+4IB4_1	4IB4	BRIL	P41595	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.7	A	285	90	0.0656	0.1509	1.0	Chimera protein of human 5-hydroxytryptamine receptor 2B and E. Coli soluble cytochrome b562
+3U8P_1	3U8P	BRIL	P42212	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.75	A	226	106	0.0342	0.0	0.9852	Cytochrome b562 integral fusion with enhanced green fluorescent protein
+8TF5_1	8TF5	BRIL	P46095	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.1	A	265	98	0.1225	0.0755	0.9973	G-protein coupled receptor 6,Soluble cytochrome b562 chimera,Soluble cytochrome b562,G-protein coupled receptor 6
+4L6R_1	4L6R	BRIL	P47871	TERMINAL_N	X-RAY DIFFRACTION	3.3	A	292	106	0.0641	0.0	1.0	Soluble cytochrome b562 and Glucagon receptor chimera
+5UNF_1	5UNF	BRIL	P50052	TERMINAL_N	X-RAY DIFFRACTION	2.8	A	286	100	0.0498	0.0566	1.0	Chimera protein of Type-2 angiotensin II receptor and Soluble cytochrome b562
+6IQL_1	6IQL	BRIL	P51436	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.5	A	251	89	0.1068	0.1442	0.9971	D(4) dopamine receptor,Soluble cytochrome b562,D(4) dopamine receptor
+11TF_1	11TF	BRIL	P51679	INTERNAL_INSERTION	ELECTRON MICROSCOPY	3.4	R	285	95	0.1949	0.0952	0.9596	C-C chemokine receptor type 4,Soluble cytochrome b562
+4OR2_1	4OR2	BRIL	Q13255	TERMINAL_N	X-RAY DIFFRACTION	2.8	A	255	105	0.0893	0.0094	1.0	Soluble cytochrome b562, Metabotropic glutamate receptor 1
+9CUG_1	9CUG	BRIL	Q15306	TERMINAL_N	X-RAY DIFFRACTION	2.49	A	177	98	0.0112	0.0755	1.0	Soluble cytochrome b562,Interferon regulatory factor 4
+6KO5_1	6KO5	BRIL	Q92847	TERMINAL_N	X-RAY DIFFRACTION	3.3	A	293	105	0.0786	0.0094	1.0	Chimera of Soluble cytochrome b562 and Growth hormone secretagogue receptor type 1
+4PXZ_1	4PXZ	BRIL	Q9H244	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.5	A	286	106	0.1613	0.0	1.0	P2Y purinoceptor 12, Soluble cytochrome b562
+8JHC_1	8JHC	BRIL	Q9NPG1	INTERNAL_INSERTION	ELECTRON MICROSCOPY	3.3	R	324	92	0.3292	0.1238	0.9697	Frizzled-3,Soluble cytochrome b562
+6G7O_1	6G7O	BRIL	Q9NUN7	TERMINAL_C	X-RAY DIFFRACTION	2.7	A	243	105	0.0	0.0	0.9943	Alkaline ceramidase 3,Soluble cytochrome b562
+9IYA_1	9IYA	BRIL	Q9Y2T6	TERMINAL_C	ELECTRON MICROSCOPY	3.04	A	274	89	0.0552	0.1524	0.9732	G-protein coupled receptor 55,Soluble cytochrome b562
+9JG0_1	9JG0	BRIL	Q9Y5X5	INTERNAL_INSERTION	ELECTRON MICROSCOPY	2.91	R	297	90	0.2404	0.1429	0.9675	Isoform 2 of Neuropeptide FF receptor 2,Soluble cytochrome b562
+5VAW_1	5VAW	MBP	A0A0D5YCX7	TERMINAL_N	X-RAY DIFFRACTION	1.69	A	130	354	0.0152	0.0328	1.0	Maltose-binding periplasmic protein,Type IV pilin PilA
+4EXK_1	4EXK	MBP	A0A0F6B1U8	TERMINAL_N	X-RAY DIFFRACTION	1.28	A	104	367	0.0	0.0	0.9916	Maltose-binding periplasmic protein, uncharacterized protein chimera
+7WR3_1	7WR3	MBP	A0A0H2US87	TERMINAL_N	X-RAY DIFFRACTION	1.87	A	424	358	0.0208	0.0	0.9849	MBP-fused OspC3
+8DX4_1	8DX4	MBP	A0A0H3N4W9	TERMINAL_N	X-RAY DIFFRACTION	2.487	A	130	366	0.0441	0.0	0.998	Maltodextrin-binding protein,Putative pilin protein
+7CY6_1	7CY6	MBP	A0A2K3D5Z7	TERMINAL_N	X-RAY DIFFRACTION	2.1	A	500	365	0.0602	0.0027	0.992	Maltodextrin-binding protein,5-methylcytosine-modifying enzyme 1
+3OB4_1	3OB4	MBP	A5Z1Q8	TERMINAL_N	X-RAY DIFFRACTION	2.706	A	104	366	0.2	0.0	0.9916	Maltose ABC transporter periplasmic protein,Arah 2
+4IRL_1	4IRL	MBP	B0V1H4	TERMINAL_N	X-RAY DIFFRACTION	1.47	A	87	358	0.0645	0.0	0.9632	Maltose-binding periplasmic protein, Novel protein similar to vertebrate guanylate binding protein family
+4PQK_1	4PQK	MBP	B1B3N6	TERMINAL_N	X-RAY DIFFRACTION	3.401	A	112	366	0.0667	0.0	1.0	Maltose ABC transporter periplasmic protein, Truncated replication protein RepA
+4H1G_1	4H1G	MBP	C4YKK8	COMPLEX	X-RAY DIFFRACTION	2.15	A	300	360	0.1279	0.0	0.9851	Maltose binding protein-CaKar3 motor domain fusion protein
+5TTD_1	5TTD	MBP	D2KPJ6	TERMINAL_N	X-RAY DIFFRACTION	2.0	A	122	359	0.0	0.0028	0.9796	Maltose-binding periplasmic protein,Pilin isopeptide linkage domain protein
+6DD5_1	6DD5	MBP	F2K1V9	TERMINAL_N	X-RAY DIFFRACTION	2.85	A	279	358	0.0822	0.0	0.977	MMB-1 Cas6 Fused to Maltose Binding Protein,CRISPR-associated endonuclease Cas1
+3DM0_1	3DM0	MBP	O24456	TERMINAL_N	X-RAY DIFFRACTION	2.4	A	307	366	0.0583	0.0	0.997	Maltose-binding periplasmic protein fused with RACK1
+3WAI_1	3WAI	MBP	O29867	TERMINAL_N	X-RAY DIFFRACTION	1.897	A	352	357	0.0461	0.0246	0.9972	Maltose-binding periplasmic protein, Transmembrane oligosaccharyl transferase
+4QVH_1	4QVH	MBP	O33336	TERMINAL_N	X-RAY DIFFRACTION	1.75	A	227	365	0.0	0.0027	0.9933	Maltose-binding periplasmic protein, 4'-phosphopantetheinyl transferase chimera
+4EDQ_1	4EDQ	MBP	O70468	TERMINAL_N	X-RAY DIFFRACTION	1.641	A	114	357	0.0579	0.0028	0.9752	Maltose-binding periplasmic protein,Myosin-binding protein C, cardiac-type chimeric protein
+8IIZ_1	8IIZ	MBP	O95619	TERMINAL_N	X-RAY DIFFRACTION	2.1	A	136	366	0.0355	0.0	0.9921	Maltodextrin-binding protein,YEATS domain-containing protein 4
+5FSG_1	5FSG	MBP	P05133	TERMINAL_N	X-RAY DIFFRACTION	3.209	A	287	358	0.0946	0.0	0.9758	MALTOSE-BINDING PERIPLASMIC PROTEIN, HANTAVIRUS NUCLEOPROTEIN
+3PY7_1	3PY7	MBP	P06931	TERMINAL_N	X-RAY DIFFRACTION	2.288	A	120	365	0.1241	0.0027	0.97	maltose-binding periplasmic protein,paxillin LD1,protein E6 chimera
+5Y2G_1	5Y2G	MBP	P09879	TERMINAL_N	X-RAY DIFFRACTION	3.0	A	210	364	0.0	0.0055	0.988	Maltose-binding periplasmic protein,Protein B
+4QSZ_1	4QSZ	MBP	P0C872	TERMINAL_N	X-RAY DIFFRACTION	2.86	A	314	361	0.0032	0.0	0.984	Maltose-binding periplasmic protein, JmjC domain-containing protein 7 chimera
+8C5L_1	8C5L	MBP	P10588	COMPLEX	X-RAY DIFFRACTION	2.6	A	187	363	0.0556	0.0	0.9892	Maltose/maltodextrin-binding periplasmic protein,Nuclear receptor subfamily 2 group F member 6
+5OSQ_1	5OSQ	MBP	P10761	TERMINAL_N	X-RAY DIFFRACTION	2.05	A	102	366	0.0	0.0027	0.9915	Maltose-binding periplasmic protein,Zona pellucida sperm-binding protein 3
+5I04_1	5I04	MBP	P17813	TERMINAL_N	X-RAY DIFFRACTION	2.42	A	296	367	0.0513	0.0	0.9925	Maltose-binding periplasmic protein,Endoglin
+3MP6_1	3MP6	MBP	P25554	TERMINAL_N	X-RAY DIFFRACTION	1.48	A	141	366	0.0903	0.0	0.998	Maltose-binding periplasmic protein,LINKER,SAGA-associated factor 29
+6D66_1	6D66	MBP	P28562	TERMINAL_N	X-RAY DIFFRACTION	2.226	A	143	364	0.0	0.0027	0.9807	Maltose-binding periplasmic protein,Dual specificity protein phosphatase 1
+3EHS_1	3EHS	MBP	P34998	TERMINAL_N	X-RAY DIFFRACTION	2.76	A	85	366	0.1146	0.0027	0.9869	fusion protein of CRFR1 extracellular domain and MBP
+3A3C_1	3A3C	MBP	P36046	TERMINAL_N	X-RAY DIFFRACTION	2.5	A	87	364	0.0	0.0	1.0	Maltose-binding periplasmic protein, LINKER, Mitochondrial intermembrane space import and assembly protein 40
+3H4Z_1	3H4Z	MBP	P49273	COMPLEX	X-RAY DIFFRACTION	2.35	A	205	363	0.0	0.0	1.0	Maltose-binding periplasmic protein fused with Allergen DERP7
+6EG3_1	6EG3	MBP	P51531	TERMINAL_N	X-RAY DIFFRACTION	2.84	A	251	359	0.0	0.0191	0.9935	Maltose/maltodextrin-binding periplasmic protein,Probable global transcription activator SNF2L2
+6K7E_1	6K7E	MBP	P53220	TERMINAL_N	X-RAY DIFFRACTION	1.534	A	113	367	0.0	0.0027	0.9639	Maltose/maltodextrin-binding periplasmic protein,Mitochondrial import inner membrane translocase subunit TIM21
+5H7N_1	5H7N	MBP	P59046	TERMINAL_N	X-RAY DIFFRACTION	1.849	A	85	370	0.1327	0.0	0.9956	NLRP12-PYD with MBP tag
+4DXB_1	4DXB	MBP	P62593	TERMINAL_N	X-RAY DIFFRACTION	2.29	A	244	358	0.0	0.0	0.9451	Maltose-binding periplasmic protein, Beta-lactamase TEM chimera
+6DM8_1	6DM8	MBP	P97287	TERMINAL_N	X-RAY DIFFRACTION	2.7	A	144	366	0.0336	0.0	0.9942	Induced myeloid leukemia cell differentiation protein Mcl-1 homolog - MBP chimera
+4R0Y_1	4R0Y	MBP	P97836	TERMINAL_N	X-RAY DIFFRACTION	2.0	A	106	361	0.2206	0.0	0.9957	Maltose-binding periplasmic protein, Disks large-associated protein 1
+3L2J_1	3L2J	MBP	Q03431	TERMINAL_N	X-RAY DIFFRACTION	3.24	A	112	364	0.2956	0.0	0.9835	Fusion protein of Maltose-binding periplasmic protein and Parathyroid hormone/parathyroid hormone-related peptide receptor
+7E29_1	7E29	MBP	Q04213	TERMINAL_N	X-RAY DIFFRACTION	2.303	A	124	366	0.3034	0.0	0.9879	Maltose/maltodextrin-binding periplasmic protein,ISWI one complex protein 4
+8SVY_1	8SVY	MBP	Q07820	TERMINAL_N	X-RAY DIFFRACTION	1.47	A	149	365	0.0	0.0027	0.9942	Maltose/maltodextrin-binding periplasmic protein, Induced myeloid leukemia cell differentiation protein Mcl-1 chimera
+4B3N_1	4B3N	MBP	Q0PF16	TERMINAL_N	X-RAY DIFFRACTION	3.3	A	192	365	0.1233	0.0108	1.0	MALTOSE-BINDING PERIPLASMIC PROTEIN, TRIPARTITE MOTIF-CONTAINING PROTEIN 5
+8DEI_1	8DEI	MBP	Q12495	TERMINAL_N	X-RAY DIFFRACTION	2.81	A	87	364	0.0333	0.0055	0.9495	Maltodextrin-binding protein,Chromatin assembly factor 1 subunit p90 fusion
+3N93_1	3N93	MBP	Q13324	TERMINAL_N	X-RAY DIFFRACTION	2.5	A	99	366	0.0748	0.0054	0.9873	Maltose binding protein-CRFR2 alpha
+3O3U_1	3O3U	MBP	Q15109	TERMINAL_N	X-RAY DIFFRACTION	1.497	N	209	357	0.0	0.0	0.9759	Maltose-binding periplasmic protein, Advanced glycosylation end product-specific receptor
+4EGC_1	4EGC	MBP	Q15475	TERMINAL_N	X-RAY DIFFRACTION	1.994	A	169	366	0.1058	0.0	0.9926	Maltose-binding periplasmic protein, Homeobox protein SIX1 chimera
+7T31_1	7T31	MBP	Q185H8	TERMINAL_N	X-RAY DIFFRACTION	2.3	A	120	367	0.0977	0.0	0.9939	Maltose/maltodextrin-binding periplasmic protein,Putative pilin protein chimera
+7MHW_1	7MHW	MBP	Q2YLR6	TERMINAL_N	X-RAY DIFFRACTION	2.55	A	98	363	0.0297	0.0082	0.9788	Maltose/maltodextrin-binding periplasmic protein,Outer membrane lipoprotein omp19
+8SBU_1	8SBU	MBP	Q59028	TERMINAL_N	X-RAY DIFFRACTION	2.2	A	218	367	0.0954	0.0027	1.0	Maltose/maltodextrin-binding periplasmic protein,6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase
+4NUF_1	4NUF	MBP	Q62227	TERMINAL_N	X-RAY DIFFRACTION	2.8	A	179	366	0.1311	0.0054	0.9927	Maltose ABC transporter periplasmic protein, Nuclear receptor subfamily 0 group B member 2 chimeric construct
+3F5F_1	3F5F	MBP	Q76KB1	TERMINAL_N	X-RAY DIFFRACTION	2.65	A	286	361	0.0069	0.0	0.9863	Maltose-binding periplasmic protein, Heparan sulfate 2-O-sulfotransferase 1
+7B01_1	7B01	MBP	Q76LX8	TERMINAL_N	X-RAY DIFFRACTION	2.8	A	222	366	0.0826	0.0	1.0	Maltodextrin-binding protein,Maltodextrin-binding protein,Maltodextrin-binding protein,ADAMTS13 CUB12,A disintegrin and metalloproteinase with thrombospondin motifs 13,A disintegrin and metalloproteinase with thrombospondin motifs 13,A disintegrin and metalloproteinase with thrombospondin motifs 13
+8JYX_1	8JYX	MBP	Q7SBA0	TERMINAL_N	X-RAY DIFFRACTION	2.35	A	191	366	0.2568	0.0	0.9858	Maltodextrin-binding protein,Gasdermin-like protein rcd-1-1
+2VGQ_1	2VGQ	MBP	Q7Z434	TERMINAL_N	X-RAY DIFFRACTION	2.1	A	91	361	0.0	0.0028	0.9805	Sugar ABC transporter substrate-binding protein,Mitochondrial antiviral-signaling protein
+4O2X_1	4O2X	MBP	Q8IEB2	TERMINAL_N	X-RAY DIFFRACTION	2.7	A	92	363	0.2459	0.0082	0.9956	Maltose-binding periplasmic protein, ATP-dependent Clp protease adaptor protein ClpS containing protein chimeric construct
+8H68_1	8H68	MBP	Q8MNT9	TERMINAL_N	X-RAY DIFFRACTION	2.2	A	254	366	0.0231	0.0	0.9936	Maltose/maltodextrin-binding periplasmic protein,DNA N6-methyl adenine demethylase
+6XRX_1	6XRX	MBP	Q8T5C5	TERMINAL_N	X-RAY DIFFRACTION	1.95	A	181	367	0.0163	0.0	0.9946	Maltose/maltodextrin-binding periplasmic protein, Mosquito protein AZ1
+5II5_1	5II5	MBP	Q8WR62	COMPLEX	X-RAY DIFFRACTION	1.8	A	109	364	0.0522	0.0055	0.9937	Maltose-binding periplasmic protein,Vitelline envelope sperm lysin receptor
+5YGP_1	5YGP	MBP	Q93038	TERMINAL_N	X-RAY DIFFRACTION	2.09	A	88	364	0.0	0.0055	0.9978	TNFRSF25 death domain
+4IFP_1	4IFP	MBP	Q9C000	TERMINAL_N	X-RAY DIFFRACTION	1.9948	A	84	366	0.0	0.0	0.9825	Maltose-binding periplasmic protein,NACHT, LRR and PYD domains-containing protein 1
+1HSJ_1	1HSJ	MBP	Q9F0R1	TERMINAL_N	X-RAY DIFFRACTION	2.3	A	115	361	0.0	0.0	0.9774	FUSION PROTEIN CONSISTING OF STAPHYLOCOCCUS ACCESSORY REGULATOR PROTEIN R AND MALTOSE BINDING PROTEIN
+5W0R_1	5W0R	MBP	Q9GZX7	TERMINAL_N	X-RAY DIFFRACTION	2.4	A	169	366	0.0	0.0	0.9763	MBP fused activation-induced cytidine deaminase
+4KEG_1	4KEG	MBP	Q9NP55	TERMINAL_N	X-RAY DIFFRACTION	2.5	A	165	361	0.229	0.0	0.9832	Maltose-binding periplasmic/Palate lung and nasal epithelium clone fusion protein
+6XDS_1	6XDS	MBP	Q9NZC2	TERMINAL_N	X-RAY DIFFRACTION	1.466	A	115	363	0.0336	0.0082	0.9856	Sugar ABC transporter substrate-binding protein,Triggering receptor expressed on myeloid cells 2
+5EDU_1	5EDU	MBP	Q9UBN7	TERMINAL_N	X-RAY DIFFRACTION	2.79	A	357	359	0.0	0.0191	0.9944	Maltose-binding periplasmic protein, Histone deacetylase 6 chimera
+6KI0_1	6KI0	MBP	Q9ULZ3	TERMINAL_N	X-RAY DIFFRACTION	2.0	A	84	358	0.0	0.0	0.963	Maltose/maltodextrin-binding periplasmic protein,Apoptosis-associated speck-like protein containing a CARD
+4BL9_1	4BL9	MBP	Q9UMX1	TERMINAL_N	X-RAY DIFFRACTION	2.8	A	353	366	0.0459	0.0027	0.9958	MALTOSE-BINDING PERIPLASMIC PROTEIN, SUPPRESSOR OF FUSED HOMOLOG
+1R6Z_1	1R6Z	MBP	Q9VUQ5	TERMINAL_N	X-RAY DIFFRACTION	2.8	A	126	365	0.0735	0.0027	0.9879	Chimera of Maltose-binding periplasmic protein and Argonaute 2
+4IKM_1	4IKM	MBP	Q9Y2G2	TERMINAL_N	X-RAY DIFFRACTION	2.4606	A	87	366	0.0	0.0	0.9784	Maltose-binding periplasmic protein, Caspase recruitment domain-containing protein 8
+4LOG_1	4LOG	MBP	Q9Y5X4	TERMINAL_N	X-RAY DIFFRACTION	2.7	A	183	364	0.0567	0.0082	0.9892	Maltose ABC transporter periplasmic protein and NR2E3 protein chimeric construct
+6VLS_1	6VLS	MBP	W8GI72	TERMINAL_N	X-RAY DIFFRACTION	3.2	A	578	366	0.0203	0.0	0.9906	Maltose/maltodextrin-binding periplasmic protein,Vip3Aa
+6ZX9_3	6ZX9	T4L	A4UDG5	TERMINAL_N	X-RAY DIFFRACTION	2.5197288426	C	91	163	0.0109	0.0	0.9883	Vpr protein fused to T4 lysozyme
+4TN3_1	4TN3	T4L	G9MAP5	TERMINAL_C	X-RAY DIFFRACTION	3.1989	A	196	163	0.0968	0.0	1.0	TRIM5/cyclophilin A fusion protein/T4 Lysozyme chimera
+5B2G_1	5B2G	T4L	O14493	TERMINAL_N	X-RAY DIFFRACTION	3.5	A	171	160	0.0656	0.0062	0.997	Endolysin,Claudin-4
+5TZR_1	5TZR	T4L	O14842	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.2	A	273	160	0.0839	0.0	0.9908	Free fatty acid receptor 1,Endolysin,Free fatty acid receptor 1
+6A9J_1	6A9J	T4L	O94649	TERMINAL_N	X-RAY DIFFRACTION	2.7	A	173	160	0.2136	0.0062	0.9911	Endolysin,Autophagy-related protein 2
+2RH1_1	2RH1	T4L	P07550	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.4	A	281	161	0.1536	0.0	1.0	beta-2-adrenergic receptor/T4-lysozyme chimera
+3UON_1	3UON	T4L	P08172	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.0	A	278	160	0.0945	0.0	1.0	Human M2 muscarinic acetylcholine, receptor T4 lysozyme fusion protein
+5DSG_1	5DSG	T4L	P08173	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.6	A	290	100	0.0461	0.0099	0.9949	Muscarinic acetylcholine receptor M4,Endolysin,Endolysin,Muscarinic acetylcholine receptor M4
+5ZHP_1	5ZHP	T4L	P08483	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.1	A	289	100	0.0493	0.0	0.9873	Muscarinic acetylcholine receptor M3,Endolysin,Endolysin,Muscarinic acetylcholine receptor M3
+6XYR_1	6XYR	T4L	P0DP23	TERMINAL_N	X-RAY DIFFRACTION	2.079	A	145	163	0.0203	0.0	0.8851	T4Lnano,Endolysin,Calmodulin,Endolysin,Calmodulin-1
+6ZFZ_1	6ZFZ	T4L	P11229	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.17	A	277	160	0.0	0.0	0.9798	Muscarinic acetylcholine receptor M1,Endolysin,Muscarinic acetylcholine receptor M1
+4XES_1	4XES	T4L	P20789	TERMINAL_C	X-RAY DIFFRACTION	2.6	A	307	160	0.1328	0.0	0.9915	Neurotensin receptor type 1, Endolysin chimera
+3V2Y_1	3V2Y	T4L	P21453	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.8	A	291	160	0.0673	0.0	0.9912	Sphingosine 1-phosphate receptor 1, Lysozyme chimera (E.C.3.2.1.17)
+5X93_1	5X93	T4L	P24530	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.2	A	313	101	0.0657	0.0	0.9628	Endothelin B receptor,Endolysin,Endothelin B receptor
+6J20_1	6J20	T4L	P25103	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.7	A	289	101	0.1135	0.0	0.9799	Substance-P receptor,Endolysin
+3VW7_1	3VW7	T4L	P25116	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.2	A	282	160	0.0874	0.0	1.0	Proteinase-activated receptor 1, Lysozyme
+3EML_1	3EML	T4L	P29274	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.6	A	288	160	0.0464	0.0	1.0	Human Adenosine A2A receptor/T4 lysozyme chimera
+7F8Y_1	7F8Y	T4L	P32238	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.5	A	278	160	0.1003	0.0	1.0	fusion protein of Cholecystokinin receptor type A and Endolysin
+4EJ4_1	4EJ4	T4L	P32300	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.4	A	282	160	0.0631	0.0	1.0	Delta-type opioid receptor, Lysozyme chimera
+6KPC_1	6KPC	T4L	P34972	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.2	A	283	160	0.0341	0.0	0.9955	Cannabinoid receptor 2,Endolysin
+4K5Y_1	4K5Y	T4L	P34998	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.977	A	247	160	0.0749	0.0	1.0	Corticotropin-releasing factor receptor 1, T4-Lysozyme chimeric construct
+3RZE_1	3RZE	T4L	P35367	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.1	A	269	159	0.0594	0.0	1.0	Histamine H1 receptor, Lysozyme chimera
+3PBL_1	3PBL	T4L	P35462	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.89	A	272	160	0.0993	0.0	1.0	D(3) dopamine receptor, Lysozyme chimera
+6FFI_1	6FFI	T4L	P41594	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.2	A	248	161	0.0712	0.0	0.9976	Metabotropic glutamate receptor 5,Endolysin,Metabotropic glutamate receptor 5
+5T1A_1	5T1A	T4L	P41597	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.806	A	282	161	0.1104	0.0	0.9955	Chimera protein of CC chemokine receptor type 2 isoform B and T4-lysozyme,Lysozyme
+4DKL_1	4DKL	T4L	P42866	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.8	A	282	160	0.0693	0.0	1.0	Mu-type opioid receptor, lysozyme chimera
+6M9T_1	6M9T	T4L	P43115	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.5	A	273	160	0.1947	0.0	0.9752	Prostaglandin E2 receptor EP3 subtype, Endolysin chimera
+5VEW_1	5VEW	T4L	P43220	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.7	A	263	160	0.0993	0.0	1.0	Glucagon-like peptide 1 receptor,Endolysin chimera
+5EE7_1	5EE7	T4L	P47871	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.5	A	257	156	0.0755	0.0189	0.9928	Glucagon receptor,Endolysin,Glucagon receptor
+5XSZ_1	5XSZ	T4L	Q08BG4	INTERNAL_INSERTION	X-RAY DIFFRACTION	3.2	A	279	160	0.0912	0.0	0.9799	Lysophosphatidic acid receptor 6a,Endolysin,Lysophosphatidic acid receptor 6a
+4N9N_1	4N9N	T4L	Q12151	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.9	A	264	160	0.0222	0.0	0.9907	Sterol uptake control protein 2, Lysozyme
+7Z36_1	7Z36	T4L	Q13263	TERMINAL_N	X-RAY DIFFRACTION	2.8	A	265	160	0.1047	0.0	0.9815	Endolysin,Transcription intermediary factor 1-beta,Isoform 2 of Transcription intermediary factor 1-beta
+6D9M_1	6D9M	T4L	Q39UD1	TERMINAL_N	X-RAY DIFFRACTION	1.35	A	163	161	0.0181	0.0	0.9939	Fusion protein of Endolysin,Response receiver sensor diguanylate cyclase, GAF domain-containing
+4EPI_1	4EPI	T4L	Q57159	COMPLEX	X-RAY DIFFRACTION	1.74	A	168	160	0.0059	0.0	0.997	Pesticin, Lysozyme Chimera
+29AJ_1	29AJ	T4L	Q5VT66	INTERNAL_INSERTION	X-RAY DIFFRACTION	1.63	D	282	161	0.0035	0.0	0.9977	Mitochondrial amidoxime-reducing component 1,Endolysin
+6IIH_1	6IIH	T4L	Q8IYU8	TERMINAL_N	X-RAY DIFFRACTION	1.958	A	283	161	0.1211	0.0	0.9955	Endolysin,Calcium uptake protein 2, mitochondrial
+4WTV_1	4WTV	T4L	Q8TCG2	INTERNAL_INSERTION	X-RAY DIFFRACTION	1.9	A	284	163	0.1909	0.0	1.0	Phosphatidylinositol 4-kinase type 2-beta,Endolysin,Phosphatidylinositol 4-kinase type 2-beta
+5EUT_1	5EUT	T4L	Q9BTU6	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.802	A	319	163	0.1736	0.0	0.9938	Phosphatidylinositol 4-kinase type 2-alpha,Endolysin,Phosphatidylinositol 4-kinase type 2-alpha
+6D27_1	6D27	T4L	Q9Y5Y4	INTERNAL_INSERTION	X-RAY DIFFRACTION	2.738	A	319	101	0.059	0.0	0.9481	Prostaglandin D2 receptor 2, Endolysin chimera

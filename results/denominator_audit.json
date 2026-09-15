@@ -1,0 +1,421 @@
+{
+ "cross_dataset": {
+  "tier1_datasets": [
+   "CHEN11",
+   "JOINED",
+   "COACH420",
+   "HOLO4K",
+   "FPTRAIN"
+  ],
+  "SUM_OF_PER_DATASET_RESOLVED_ENTRIES": 5419,
+  "CROSS_DATASET_DEDUPLICATED_TOTAL": 5304,
+  "duplicate_entries_between_tier1_datasets": 115,
+  "tier1_unique_fusion_entries": [
+   "1DUG"
+  ],
+  "ALL_LISTS_INCLUDING_MLIG_unique_entries": 5313,
+  "ALL_LISTS_resolved": 5304,
+  "ALL_LISTS_unresolved": 9,
+  "unresolved_ids": [
+   "1A2K",
+   "1B6N",
+   "1FPX",
+   "1JT1",
+   "1M98",
+   "1PMQ",
+   "1Y8E",
+   "2ZCP",
+   "3IYT"
+  ],
+  "deduplication_method": "Deduplication is on the 4-character PDB entry identifier, upper-cased. The (mlig) files are ligand-annotated SUBSETS of their parent datasets and contribute no new entries; they are therefore excluded from the Tier-1 union to avoid presenting a subset as an independent dataset. The union is scientifically meaningful only as 'how many distinct PDB entries were examined'; it must never be used as the denominator of a per-dataset prevalence, because the datasets have different roles."
+ },
+ "plinder_partners_all": [
+  {
+   "partner": "BRIL/cyt-b562",
+   "systems": 662,
+   "entries": 161
+  },
+  {
+   "partner": "MBP",
+   "systems": 496,
+   "entries": 188
+  },
+  {
+   "partner": "T4L",
+   "systems": 211,
+   "entries": 96
+  },
+  {
+   "partner": "GFP",
+   "systems": 108,
+   "entries": 28
+  },
+  {
+   "partner": "SUMO/Smt3",
+   "systems": 31,
+   "entries": 20
+  },
+  {
+   "partner": "rubredoxin",
+   "systems": 28,
+   "entries": 15
+  },
+  {
+   "partner": "GST-Sj26",
+   "systems": 22,
+   "entries": 9
+  },
+  {
+   "partner": "thioredoxin",
+   "systems": 14,
+   "entries": 3
+  },
+  {
+   "partner": "ubiquitin",
+   "systems": 1,
+   "entries": 1
+  }
+ ],
+ "plinder_partners_fusion_labelled": [
+  {
+   "partner": "MBP",
+   "systems": 330,
+   "entries": 148
+  },
+  {
+   "partner": "T4L",
+   "systems": 9,
+   "entries": 8
+  },
+  {
+   "partner": "GST-Sj26",
+   "systems": 2,
+   "entries": 1
+  },
+  {
+   "partner": "BRIL/cyt-b562",
+   "systems": 1,
+   "entries": 1
+  }
+ ],
+ "plinder_rows": [
+  {
+   "SPLIT": "train",
+   "SYSTEMS": 309140,
+   "UNIQUE_PDB_ENTRIES": 76901,
+   "FUSION_SYSTEMS": 1385,
+   "FUSION_PDB_ENTRIES": 454,
+   "FUSION_SITE_LABELLED_SYSTEMS": 342,
+   "FUSION_SITE_LABELLED_PDB_ENTRIES": 158,
+   "TARGET_SITE_SYSTEMS": 939,
+   "INTERFACE_SYSTEMS": 7,
+   "MIXED_SYSTEMS": 11,
+   "UNRESOLVED_SYSTEMS": 46
+  },
+  {
+   "SPLIT": "val",
+   "SYSTEMS": 832,
+   "UNIQUE_PDB_ENTRIES": 573,
+   "FUSION_SYSTEMS": 1,
+   "FUSION_PDB_ENTRIES": 1,
+   "FUSION_SITE_LABELLED_SYSTEMS": 0,
+   "FUSION_SITE_LABELLED_PDB_ENTRIES": 0,
+   "TARGET_SITE_SYSTEMS": 1,
+   "INTERFACE_SYSTEMS": 0,
+   "MIXED_SYSTEMS": 0,
+   "UNRESOLVED_SYSTEMS": 0
+  },
+  {
+   "SPLIT": "test",
+   "SYSTEMS": 1036,
+   "UNIQUE_PDB_ENTRIES": 1020,
+   "FUSION_SYSTEMS": 0,
+   "FUSION_PDB_ENTRIES": 0,
+   "FUSION_SITE_LABELLED_SYSTEMS": 0,
+   "FUSION_SITE_LABELLED_PDB_ENTRIES": 0,
+   "TARGET_SITE_SYSTEMS": 0,
+   "INTERFACE_SYSTEMS": 0,
+   "MIXED_SYSTEMS": 0,
+   "UNRESOLVED_SYSTEMS": 0
+  },
+  {
+   "SPLIT": "removed",
+   "SYSTEMS": 98718,
+   "UNIQUE_PDB_ENTRIES": 34181,
+   "FUSION_SYSTEMS": 170,
+   "FUSION_PDB_ENTRIES": 61,
+   "FUSION_SITE_LABELLED_SYSTEMS": 0,
+   "FUSION_SITE_LABELLED_PDB_ENTRIES": 0,
+   "TARGET_SITE_SYSTEMS": 0,
+   "INTERFACE_SYSTEMS": 0,
+   "MIXED_SYSTEMS": 0,
+   "UNRESOLVED_SYSTEMS": 170
+  }
+ ],
+ "prose_assertions": [
+  {
+   "check": "Tier-1 non-dedup sum quoted",
+   "string": "5,419 resolved entries",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "Tier-1 dedup union quoted",
+   "string": "5,304 entries after deduplication",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "PLINDER fusion-labelled stated in BOTH units",
+   "string": "342 SYSTEMS across 158 UNIQUE PDB",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "PLINDER train fusion-labelled entries",
+   "string": "158",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "PLINDER train systems+entries",
+   "string": "train 1,385 systems / 454 entries",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "PLINDER test zero",
+   "string": "test split contains no such system",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "CHEN11 entry denominator",
+   "string": "0/241",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "JOINED denominator",
+   "string": "1/534",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "COACH420 denominator",
+   "string": "0/418",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "HOLO4K denominator",
+   "string": "0/4,004",
+   "found": true,
+   "expected": true
+  },
+  {
+   "check": "FPTRAIN denominator",
+   "string": "0/222",
+   "found": true,
+   "expected": true
+  }
+ ],
+ "denominator_rows": [
+  {
+   "DATASET": "DEVELOPMENT_COHORT",
+   "ROLE": "DEVELOPMENT/EXPLORATORY (never pooled)",
+   "CANONICAL_VERSION": "frozen 2026-09-15; protocol v1.3",
+   "RAW_MEMBERS": 24,
+   "RESOLVED_MEMBERS": 24,
+   "UNIQUE_PDB_ENTRIES": 24,
+   "CHAIN_LEVEL_MEMBERS": 24,
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": 24,
+   "UNIQUE_FUSION_PDB_ENTRIES": 24,
+   "UNRESOLVED": 0,
+   "NOTES": "every member is a fusion construct by construction; independent target clusters = 24"
+  },
+  {
+   "DATASET": "CONFIRMATORY_COHORT",
+   "ROLE": "CONFIRMATORY",
+   "CANONICAL_VERSION": "frozen 2026-09-15; protocol v1.3",
+   "RAW_MEMBERS": 128,
+   "RESOLVED_MEMBERS": 128,
+   "UNIQUE_PDB_ENTRIES": 128,
+   "CHAIN_LEVEL_MEMBERS": 128,
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": 128,
+   "UNIQUE_FUSION_PDB_ENTRIES": 128,
+   "UNRESOLVED": 0,
+   "NOTES": "every member is a fusion construct by construction; independent target clusters = 123"
+  },
+  {
+   "DATASET": "CHEN11",
+   "ROLE": "TRAIN",
+   "CANONICAL_VERSION": "chen11.ds sha256 91caf227eb213f5a",
+   "RAW_MEMBERS": 251,
+   "RESOLVED_MEMBERS": 241,
+   "UNIQUE_PDB_ENTRIES": 241,
+   "CHAIN_LEVEL_MEMBERS": 242,
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": 0,
+   "UNIQUE_FUSION_PDB_ENTRIES": 0,
+   "UNRESOLVED": 0,
+   "NOTES": "prevalence 0.00% [0.00-1.57]; counting unit = PDB entry; RESOLVED_MEMBERS counts unique entries resolved by SIFTS, not rows"
+  },
+  {
+   "DATASET": "JOINED",
+   "ROLE": "DEVELOPMENT/VALIDATION",
+   "CANONICAL_VERSION": "joined.ds sha256 749f23f5da3bac82",
+   "RAW_MEMBERS": 537,
+   "RESOLVED_MEMBERS": 534,
+   "UNIQUE_PDB_ENTRIES": 537,
+   "CHAIN_LEVEL_MEMBERS": 190,
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": 1,
+   "UNIQUE_FUSION_PDB_ENTRIES": 1,
+   "UNRESOLVED": 3,
+   "NOTES": "prevalence 0.19% [0.03-1.05]; counting unit = PDB entry; RESOLVED_MEMBERS counts unique entries resolved by SIFTS, not rows"
+  },
+  {
+   "DATASET": "COACH420",
+   "ROLE": "TEST",
+   "CANONICAL_VERSION": "coach420.ds sha256 4c33519448ae2df7",
+   "RAW_MEMBERS": 420,
+   "RESOLVED_MEMBERS": 418,
+   "UNIQUE_PDB_ENTRIES": 420,
+   "CHAIN_LEVEL_MEMBERS": 420,
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": 0,
+   "UNIQUE_FUSION_PDB_ENTRIES": 0,
+   "UNRESOLVED": 2,
+   "NOTES": "prevalence 0.00% [0.00-0.91]; counting unit = PDB entry; RESOLVED_MEMBERS counts unique entries resolved by SIFTS, not rows"
+  },
+  {
+   "DATASET": "HOLO4K",
+   "ROLE": "TEST",
+   "CANONICAL_VERSION": "holo4k.ds sha256 442a1abb07ee5ff9",
+   "RAW_MEMBERS": 4009,
+   "RESOLVED_MEMBERS": 4004,
+   "UNIQUE_PDB_ENTRIES": 4009,
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": 0,
+   "UNIQUE_FUSION_PDB_ENTRIES": 0,
+   "UNRESOLVED": 5,
+   "NOTES": "prevalence 0.00% [0.00-0.10]; counting unit = PDB entry; RESOLVED_MEMBERS counts unique entries resolved by SIFTS, not rows"
+  },
+  {
+   "DATASET": "FPTRAIN",
+   "ROLE": "TRAIN (fpocket scoring function)",
+   "CANONICAL_VERSION": "fptrain.ds sha256 af16cd4819b5947c",
+   "RAW_MEMBERS": 222,
+   "RESOLVED_MEMBERS": 222,
+   "UNIQUE_PDB_ENTRIES": 222,
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": 0,
+   "UNIQUE_FUSION_PDB_ENTRIES": 0,
+   "UNRESOLVED": 0,
+   "NOTES": "prevalence 0.00% [0.00-1.70]; counting unit = PDB entry; RESOLVED_MEMBERS counts unique entries resolved by SIFTS, not rows"
+  },
+  {
+   "DATASET": "LIGYSIS",
+   "ROLE": "REFERENCE / evaluation substrate",
+   "CANONICAL_VERSION": "public web resource; no bulk export offered",
+   "RAW_MEMBERS": "NA",
+   "RESOLVED_MEMBERS": "NA",
+   "UNIQUE_PDB_ENTRIES": "NA",
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": "NA",
+   "UNIQUE_FUSION_PDB_ENTRIES": "NA",
+   "UNRESOLVED": "NA",
+   "NOTES": "NOT MEASURED. Authors' figures ~65,000 sites / ~25,000 proteins / >100,000 PDBe structures. README: 'We do not offer full LIGYSIS dataset download.'"
+  },
+  {
+   "DATASET": "sc-PDB",
+   "ROLE": "REFERENCE; de-facto TRAIN for other CNN predictors",
+   "CANONICAL_VERSION": "v.2017 (PDB freeze 2016-11)",
+   "RAW_MEMBERS": 16034,
+   "RESOLVED_MEMBERS": "NA",
+   "UNIQUE_PDB_ENTRIES": "NA",
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": "NA",
+   "UNIQUE_FUSION_PDB_ENTRIES": "NA",
+   "UNRESOLVED": "NA",
+   "NOTES": "NOT MEASURED. 16,034 entries / 4,782 proteins / 6,326 ligands per the resource. Only distribution is a 4,079,179,798-byte archive measured at ~11 kB/s. Not a documented P2Rank or fpocket dataset."
+  },
+  {
+   "DATASET": "PLINDER_train",
+   "ROLE": "TRAIN",
+   "CANONICAL_VERSION": "2024-06/v2 split.parquet sha256 2959fb4b32f8c5cc",
+   "RAW_MEMBERS": 309140,
+   "RESOLVED_MEMBERS": 309140,
+   "UNIQUE_PDB_ENTRIES": "NA",
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": 309140,
+   "FUSION_MEMBERS": 1385,
+   "UNIQUE_FUSION_PDB_ENTRIES": 454,
+   "UNRESOLVED": 46,
+   "NOTES": "counting unit = SYSTEM; receptor chain is the chimeric chain; fusion-site-labelled systems 342 over 158 unique entries"
+  },
+  {
+   "DATASET": "PLINDER_val",
+   "ROLE": "VAL",
+   "CANONICAL_VERSION": "2024-06/v2 split.parquet sha256 2959fb4b32f8c5cc",
+   "RAW_MEMBERS": 832,
+   "RESOLVED_MEMBERS": 832,
+   "UNIQUE_PDB_ENTRIES": "NA",
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": 832,
+   "FUSION_MEMBERS": 1,
+   "UNIQUE_FUSION_PDB_ENTRIES": 1,
+   "UNRESOLVED": 0,
+   "NOTES": "counting unit = SYSTEM; receptor chain is the chimeric chain; fusion-site-labelled systems 0 over 0 unique entries"
+  },
+  {
+   "DATASET": "PLINDER_test",
+   "ROLE": "TEST",
+   "CANONICAL_VERSION": "2024-06/v2 split.parquet sha256 2959fb4b32f8c5cc",
+   "RAW_MEMBERS": 1036,
+   "RESOLVED_MEMBERS": 1036,
+   "UNIQUE_PDB_ENTRIES": "NA",
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": 1036,
+   "FUSION_MEMBERS": 0,
+   "UNIQUE_FUSION_PDB_ENTRIES": 0,
+   "UNRESOLVED": 0,
+   "NOTES": "counting unit = SYSTEM; receptor chain is the chimeric chain; fusion-site-labelled systems 0 over 0 unique entries"
+  },
+  {
+   "DATASET": "PLINDER_removed",
+   "ROLE": "REMOVED",
+   "CANONICAL_VERSION": "2024-06/v2 split.parquet sha256 2959fb4b32f8c5cc",
+   "RAW_MEMBERS": 98718,
+   "RESOLVED_MEMBERS": 98718,
+   "UNIQUE_PDB_ENTRIES": "NA",
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": 98718,
+   "FUSION_MEMBERS": 170,
+   "UNIQUE_FUSION_PDB_ENTRIES": 61,
+   "UNRESOLVED": 170,
+   "NOTES": "counting unit = SYSTEM; receptor chain is the chimeric chain; fusion-site-labelled systems 0 over 0 unique entries"
+  },
+  {
+   "DATASET": "TIER1_UNION_DEDUPLICATED",
+   "ROLE": "derived (not a dataset)",
+   "CANONICAL_VERSION": "union of CHEN11+JOINED+COACH420+HOLO4K+FPTRAIN",
+   "RAW_MEMBERS": "NA",
+   "RESOLVED_MEMBERS": 5304,
+   "UNIQUE_PDB_ENTRIES": 5304,
+   "CHAIN_LEVEL_MEMBERS": "NA",
+   "SYSTEM_LEVEL_MEMBERS": "NA",
+   "FUSION_MEMBERS": 1,
+   "UNIQUE_FUSION_PDB_ENTRIES": 1,
+   "UNRESOLVED": "NA",
+   "NOTES": "deduplicated union. The non-deduplicated SUM of per-dataset resolved entries is 5419; 115 entries appear in more than one Tier-1 dataset. Use per-dataset denominators for prevalence, never this."
+  }
+ ]
+}

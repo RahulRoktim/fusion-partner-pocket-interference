@@ -1,0 +1,42 @@
+{
+ "freeze": "v1.3 CONFIRMATORY FREEZE",
+ "frozen_at": "2026-09-15",
+ "statement": "Frozen before any confirmatory detector was executed. After this point no endpoint, matching threshold, cohort rule, classification threshold, exclusion criterion, statistical method or sensitivity analysis may change in response to confirmatory results.",
+ "confirmatory_n": 128,
+ "independent_target_clusters": 123,
+ "development_confirmatory_target_overlap": 0,
+ "detectors": {
+  "p2rank": "2.5.1",
+  "fpocket": "source-tag 4.2.3 / 4bb0d8447f62fee77e2c3c29f54b5fcaf5e2c066"
+ },
+ "sha256": {
+  "PROTOCOL.md": "6000af5dfa1662e93bc7d243e1156e84c9c0a445245aee7c92cbde17656f47ef",
+  "PROTOCOL_v1.0_ARCHIVED.md": "8560e77a54b421e7c012bbb278f76b8685a3ac6340b2410246bced318a07d850",
+  "PROTOCOL_v1.1_ARCHIVED.md": "cb4d71b8a6fc49de3c4fb187f79558a93ac328e323446a38fd5d4adce91a6e21",
+  "PROTOCOL_v1.2_ARCHIVED.md": "5c905d1769e36d23c8bf88e3678b6ec7814a9253b7ea68737471bca8bdd9898c",
+  "DEVIATIONS.md": "2f3dd206b229362a9858c70819aa2c52f82990a2f3479d4cb249735f977cacb4",
+  "data_manifest/development_set.json": "c3ead77587540c28bb052a5aec9ddcf82f94e1d48b7a940500c02fc437042c2d",
+  "data_manifest/confirmatory_set_final.json": "ef6a980938c21a8f79057dfbacf5a4710a34aa225fc1be88364e8df5acfcf2c8",
+  "data_manifest/confirmatory_candidate_pool.json": "5f22cc02bb4b0da08514dcc7e87bfc43f5f54a36e629a3a9dd7004f399bf3bae",
+  "data_manifest/pool_raw.json": "8983e3d623c4305116c96b04c72f8c3f26bfb224b7ad93babcc91e017b7a553b",
+  "environment/ENVIRONMENT.md": "9a2f50556e45e1c211b8ada8d53d16ee914a454333dd1ec33c075ae4349d4509",
+  "tests/test_mapping_invariants.py": "453f224a6ff5e417a385555912a9882f3ae3860a10541c9f32ac0300a8a70ff3",
+  "tests/test_detector_parsers.py": "2aabe1ef2a98bda4957b7c4ec0cc2add5ea8f4ca97df2e37e800586a4921e4e5",
+  "tests/test_no_development_leakage.py": "68b01a2334b5f8a6cca650d8ae33689c77b65f9863c9a17b3f589de48d8eb62c",
+  "scripts/01_build_pool.py": "62c4cab108ff04131baef435addd511bb68b687abb345e601573cfb069895e56",
+  "scripts/02_select_pilot.py": "14c16b486ccde814e66487a020a3ad0e95ae4999b72e7c0a76a16f61762af3ff",
+  "scripts/03_prepare_structures.py": "d58c2f2c72befe5080e5d73b8b3142ee7d015b501f2a7b4b60db74d6c1eebe18",
+  "scripts/04_run_detectors.py": "a98d8906df483dfe2392089b4baa21c7d974e2c170752403ed0cff0767129eed",
+  "scripts/05_classify_pockets.py": "0473d884bb5c01ebf5523ee8d4b4d845f289324e0bce6a0d8f09e76dcb07f43f",
+  "scripts/06_analyze_pilot.py": "f6a5c3b47f91b7210e662eed71a6112a1e6bd388b66522fa980f0e56c7213758",
+  "scripts/07_qc_mechanism.py": "f8cfa81b40583fdd6daa6493300b337d6a2546ee8aa769848450ba4c2f2da1a0",
+  "scripts/08_pocket_correspondence.py": "44346efe396982e51e62928b0019cf17dc0e36b0225cc972ee84e86e8ce7e652",
+  "scripts/09_paired_endpoint.py": "9e9605eac78e6908ec29ffad078dc2963fe27de16baa870208a86929d5bafcaa",
+  "scripts/10_e9_audit.py": "5bf2e19c27adb8125381d4ce23f2fcd8920f476400211d57c8deccd167e60f2a",
+  "scripts/11_isolated_partner_probe.py": "a0ed74f9f47a93ba5116ecb51ebdbdabf601d9e06a8c63849b070710919d7f86",
+  "scripts/12_zero_prediction_audit.py": "daf4a88d49fc8b80e77020fcb69047111df572ef96a37d88c6db48504d9a02cb",
+  "scripts/13_freeze_sets.py": "95c6ae668be41e2fb1c677f39c48acc04e6a2ded8766148d9a35f97ec1e7011b",
+  "scripts/14_final_confirmatory_set.py": "2c7685ede7d84d7ecb1d83fa74b489b2352fc730495987d1c6d71d3dfe6ae962",
+  "scripts/common_runner.py": "2991af47d0a4062fc9ae54a8973875ab74b1135d3b7b796231930942fc8630b9"
+ }
+}

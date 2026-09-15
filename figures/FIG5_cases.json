@@ -1,0 +1,403 @@
+[
+ {
+  "label": "C1",
+  "pdb_id": "4EXK",
+  "class": "FUSION_INTRINSIC_CAVITY",
+  "partner": "MBP",
+  "chain": "A",
+  "resolution": 1.28,
+  "method": "X-RAY DIFFRACTION",
+  "target_accession": "A0A0F6B1U8",
+  "fusion_accession": "P0AEX9",
+  "topology": "TERMINAL_N",
+  "description": "Maltose-binding periplasmic protein, uncharacterized protein chimera",
+  "target_ranges_entity": [
+   [
+    374,
+    477
+   ]
+  ],
+  "fusion_ranges_entity": [
+   [
+    4,
+    370
+   ]
+  ],
+  "n_target": 104,
+  "n_fusion": 367,
+  "detectors": {
+   "p2rank": {
+    "rank1_class": "FUSION_DOMINATED",
+    "rank1_score": 36.58,
+    "f_fusion": 1.0,
+    "f_target": 0.0,
+    "n_residues": 25,
+    "centroid": [
+     16.8207,
+     -21.1433,
+     -17.2032
+    ],
+    "residues": [
+     "111",
+     "12",
+     "14",
+     "15",
+     "150",
+     "153",
+     "154",
+     "155",
+     "156",
+     "210",
+     "230",
+     "330",
+     "337",
+     "340",
+     "341",
+     "344",
+     "41",
+     "42",
+     "44",
+     "45",
+     "61",
+     "62",
+     "63",
+     "65",
+     "66"
+    ],
+    "mechanism": "FUSION_INTRINSIC_CAVITY",
+    "isolated_rank": 1,
+    "probe_state": "MATCHED_INTRINSIC_CAVITY",
+    "target_cavity_state": "DETECTOR_ABSTENTION"
+   },
+   "fpocket": {
+    "rank1_class": "FUSION_DOMINATED",
+    "rank1_score": 0.031,
+    "f_fusion": 1.0,
+    "f_target": 0.0,
+    "n_residues": 14,
+    "centroid": [
+     19.408215686274513,
+     -17.913078431372547,
+     -1.1302352941176468
+    ],
+    "residues": [
+     "165",
+     "162",
+     "256",
+     "167",
+     "258",
+     "168",
+     "169",
+     "328",
+     "171",
+     "158",
+     "176",
+     "166",
+     "331",
+     "329"
+    ],
+    "mechanism": "FUSION_INTRINSIC_CAVITY",
+    "isolated_rank": 2,
+    "probe_state": "MATCHED_INTRINSIC_CAVITY",
+    "target_cavity_original_rank": 7,
+    "target_cavity_removed_rank": 1,
+    "displacement": 6
+   }
+  },
+  "deposited_groups_in_pocket": {
+   "GLC": 4
+  }
+ },
+ {
+  "label": "C2",
+  "pdb_id": "6ZX9",
+  "class": "FUSION_INTRINSIC_CAVITY",
+  "partner": "T4L",
+  "chain": "C",
+  "resolution": 2.52,
+  "method": "X-RAY DIFFRACTION",
+  "target_accession": "A4UDG5",
+  "fusion_accession": "P00720",
+  "topology": "TERMINAL_N",
+  "description": "Vpr protein fused to T4 lysozyme",
+  "target_ranges_entity": [
+   [
+    167,
+    258
+   ]
+  ],
+  "fusion_ranges_entity": [
+   [
+    1,
+    163
+   ]
+  ],
+  "n_target": 91,
+  "n_fusion": 163,
+  "detectors": {
+   "p2rank": {
+    "rank1_class": "FUSION_DOMINATED",
+    "rank1_score": 2.62,
+    "f_fusion": 1.0,
+    "f_target": 0.0,
+    "n_residues": 6,
+    "centroid": [
+     586.6012,
+     68.8031,
+     6.8372
+    ],
+    "residues": [
+     "-100",
+     "-137",
+     "-138",
+     "-156",
+     "-63",
+     "-97"
+    ],
+    "mechanism": "FUSION_INTRINSIC_CAVITY",
+    "isolated_rank": 1,
+    "probe_state": "MATCHED_INTRINSIC_CAVITY",
+    "target_cavity_original_rank": 2,
+    "target_cavity_removed_rank": 1,
+    "displacement": 1
+   },
+   "fpocket": {
+    "rank1_class": "FUSION_DOMINATED",
+    "rank1_score": 0.352,
+    "f_fusion": 1.0,
+    "f_target": 0.0,
+    "n_residues": 9,
+    "centroid": [
+     587.2898157894736,
+     69.61334210526314,
+     7.244184210526316
+    ],
+    "residues": [
+     "-97",
+     "-63",
+     "-138",
+     "-156",
+     "-160",
+     "-137",
+     "-93",
+     "-100",
+     "-94"
+    ],
+    "mechanism": "FUSION_INTRINSIC_CAVITY",
+    "isolated_rank": 1,
+    "probe_state": "MATCHED_INTRINSIC_CAVITY",
+    "target_cavity_original_rank": 2,
+    "target_cavity_removed_rank": 1,
+    "displacement": 1
+   }
+  },
+  "deposited_groups_in_pocket": {}
+ },
+ {
+  "label": "C3",
+  "pdb_id": "6M97",
+  "class": "FUSION_INTRINSIC_CAVITY",
+  "partner": "BRIL",
+  "chain": "A",
+  "resolution": 3.03,
+  "method": "X-RAY DIFFRACTION",
+  "target_accession": "C0HAK2",
+  "fusion_accession": "P0ABE7",
+  "topology": "INTERNAL_INSERTION",
+  "description": "Chimera protein of High affinity copper uptake protein 1 and Soluble cytochrome b562",
+  "target_ranges_entity": [
+   [
+    1,
+    53
+   ],
+   [
+    160,
+    225
+   ]
+  ],
+  "fusion_ranges_entity": [
+   [
+    54,
+    159
+   ]
+  ],
+  "n_target": 115,
+  "n_fusion": 93,
+  "detectors": {
+   "p2rank": {
+    "rank1_class": "FUSION_DOMINATED",
+    "rank1_score": 5.29,
+    "f_fusion": 0.75,
+    "f_target": 0.25,
+    "n_residues": 8,
+    "centroid": [
+     -21.1123,
+     -10.3784,
+     16.0396
+    ],
+    "residues": [
+     "1003",
+     "1007",
+     "1040",
+     "1061",
+     "1102",
+     "1105",
+     "121",
+     "124"
+    ],
+    "mechanism": "FUSION_INTRINSIC_CAVITY",
+    "isolated_rank": 1,
+    "probe_state": "MATCHED_INTRINSIC_CAVITY",
+    "target_cavity_original_rank": 2,
+    "target_cavity_removed_rank": 1,
+    "displacement": 1
+   },
+   "fpocket": {
+    "rank1_class": "FUSION_DOMINATED",
+    "rank1_score": 0.278,
+    "f_fusion": 0.7273,
+    "f_target": 0.2727,
+    "n_residues": 11,
+    "centroid": [
+     -20.60573469387755,
+     -10.692081632653062,
+     16.064632653061224
+    ],
+    "residues": [
+     "1003",
+     "1061",
+     "1102",
+     "1065",
+     "1103",
+     "1007",
+     "1040",
+     "123",
+     "121",
+     "1105",
+     "124"
+    ],
+    "mechanism": "FUSION_INTRINSIC_CAVITY",
+    "isolated_rank": 1,
+    "probe_state": "MATCHED_INTRINSIC_CAVITY",
+    "target_cavity_original_rank": 7,
+    "target_cavity_removed_rank": 1,
+    "displacement": 6
+   }
+  },
+  "deposited_groups_in_pocket": {}
+ },
+ {
+  "label": "C4",
+  "pdb_id": "4EPI",
+  "class": "TARGET_FUSION_INTERFACE",
+  "partner": "T4L",
+  "chain": "A",
+  "resolution": 1.74,
+  "method": "X-RAY DIFFRACTION",
+  "target_accession": "Q57159",
+  "fusion_accession": "P00720",
+  "topology": "COMPLEX",
+  "description": "Pesticin, Lysozyme Chimera",
+  "target_ranges_entity": [
+   [
+    2,
+    169
+   ],
+   [
+    178,
+    178
+   ]
+  ],
+  "fusion_ranges_entity": [
+   [
+    170,
+    177
+   ],
+   [
+    179,
+    330
+   ]
+  ],
+  "n_target": 168,
+  "n_fusion": 160,
+  "detectors": {
+   "p2rank": {
+    "rank1_class": "INTERFACE",
+    "rank1_score": 15.3,
+    "f_fusion": 0.4375,
+    "f_target": 0.5625,
+    "n_residues": 16,
+    "centroid": [
+     25.5907,
+     20.9879,
+     21.275
+    ],
+    "residues": [
+     "116",
+     "118",
+     "121",
+     "161",
+     "164",
+     "165",
+     "167",
+     "168",
+     "237",
+     "240",
+     "244",
+     "253",
+     "258",
+     "261",
+     "265",
+     "90"
+    ],
+    "mechanism": "TARGET_FUSION_INTERFACE",
+    "isolated_rank": 1,
+    "probe_state": "AMBIGUOUS",
+    "target_cavity_original_rank": 3,
+    "target_cavity_removed_rank": 1,
+    "displacement": 2
+   },
+   "fpocket": {
+    "rank1_class": "INTERFACE",
+    "rank1_score": 0.322,
+    "f_fusion": 0.5,
+    "f_target": 0.5,
+    "n_residues": 18,
+    "centroid": [
+     25.044573529411768,
+     19.166852941176472,
+     22.142970588235293
+    ],
+    "residues": [
+     "241",
+     "244",
+     "240",
+     "161",
+     "237",
+     "116",
+     "118",
+     "90",
+     "121",
+     "165",
+     "258",
+     "261",
+     "164",
+     "253",
+     "265",
+     "167",
+     "168",
+     "262"
+    ],
+    "mechanism": "TARGET_FUSION_INTERFACE",
+    "isolated_rank": 7,
+    "probe_state": "NO_MATCHING_CAVITY",
+    "target_cavity_original_rank": 2,
+    "target_cavity_removed_rank": 1,
+    "displacement": 1
+   }
+  },
+  "deposited_groups_in_pocket": {
+   "NA": 1
+  }
+ }
+]

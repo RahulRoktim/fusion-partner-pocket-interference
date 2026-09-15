@@ -1,0 +1,24 @@
+entries to query: 5313 of 5313
+  40/5313  (have 39)
+  440/5313  (have 438)
+  840/5313  (have 838)
+  1240/5313  (have 1238)
+  1640/5313  (have 1637)
+   retry 1 (TimeoutError)
+  2040/5313  (have 2037)
+  2440/5313  (have 2437)
+   retry 1 (TimeoutError)
+  2840/5313  (have 2836)
+  3240/5313  (have 3235)
+  3640/5313  (have 3635)
+   retry 1 (TimeoutError)
+  4040/5313  (have 4034)
+   retry 1 (TimeoutError)
+  4440/5313  (have 4433)
+  4840/5313  (have 4833)
+  5240/5313  (have 5231)
+resolved 5304/5313 entries; unresolved 9
+  unresolved (likely obsolete/withdrawn): ['1A2K', '1B6N', '1FPX', '1JT1', '1M98', '1PMQ', '1Y8E', '2ZCP', '3IYT']
+  entries with a recognised-partner chimera: 1
+  entries with some other chimera:           9
+  entries containing a STANDALONE partner protein (not a construct): 47

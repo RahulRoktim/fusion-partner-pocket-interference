@@ -1,0 +1,186 @@
+SECTION	STATEMENT	VALUE	NUMERATOR	DENOMINATOR	SOURCE_FILE	SOURCE_ROW_OR_FIELD	VERIFICATION_STATUS	VERIFICATION_DETAIL
+Abstract	Confirmatory cohort size	128 structures		128	results/tables/TABLE1_cohort_composition.tsv	COHORT=CONFIRMATORY, PARTNER=ALL, N_STRUCTURES	VERIFIED	1 token(s) located verbatim in source
+Abstract	Independent target clusters	123 targets		123	results/tables/TABLE1_cohort_composition.tsv	COHORT=CONFIRMATORY, PARTNER=ALL, N_INDEPENDENT_TARGETS	VERIFIED	1 token(s) located verbatim in source
+Abstract	Partner composition	BRIL 29, T4L 38, MBP 61		128	results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY rows, N_STRUCTURES	VERIFIED	3 token(s) located verbatim in source
+Abstract	Detector versions	P2Rank 2.5.1, fpocket 4.2.3			environment/ENVIRONMENT.md	Detectors section	VERIFIED	3 token(s) located verbatim in source
+Abstract	Detector runs all successful	512 of 512	512	512	results/CONFIRMATORY_REPORT.md	TECHNICAL SUCCESS	VERIFIED	1 token(s) located verbatim in source
+Abstract	P2Rank rank-1 exposure, pooled	52.0%	66	127	results/tables/TABLE2_confirmatory_exposure.tsv	p2rank ALL (raw pooled) RANK1	VERIFIED	1 token(s) located verbatim in source
+Abstract	fpocket rank-1 exposure, pooled	46.9%	60	128	results/tables/TABLE2_confirmatory_exposure.tsv	fpocket ALL (raw pooled) RANK1	VERIFIED	1 token(s) located verbatim in source
+Abstract	MBP rank-1, P2Rank	93.4%	57	61	results/tables/TABLE2_confirmatory_exposure.tsv	p2rank MBP RANK1	VERIFIED	1 token(s) located verbatim in source
+Abstract	MBP rank-1, fpocket	85.2%	52	61	results/tables/TABLE2_confirmatory_exposure.tsv	fpocket MBP RANK1	VERIFIED	1 token(s) located verbatim in source
+Abstract	BRIL rank-1, P2Rank	7.1%	2	28	results/tables/TABLE2_confirmatory_exposure.tsv	p2rank BRIL RANK1	VERIFIED	1 token(s) located verbatim in source
+Abstract	BRIL rank-1, fpocket	10.3%	3	29	results/tables/TABLE2_confirmatory_exposure.tsv	fpocket BRIL RANK1	VERIFIED	1 token(s) located verbatim in source
+Abstract	T4L rank-1, P2Rank	18.4%	7	38	results/tables/TABLE2_confirmatory_exposure.tsv	p2rank T4L RANK1	VERIFIED	1 token(s) located verbatim in source
+Abstract	T4L rank-1, fpocket	13.2%	5	38	results/tables/TABLE2_confirmatory_exposure.tsv	fpocket T4L RANK1	VERIFIED	1 token(s) located verbatim in source
+Abstract	Partner-standardised rank-1	39.7% / 36.2%		127 / 128	results/tables/TABLE2_confirmatory_exposure.tsv	ALL (partner-standardised 1/3 each)	VERIFIED	2 token(s) located verbatim in source
+Abstract	Displacement improved, P2Rank	42 of 103	42	103	results/tables/TABLE3_displacement.tsv	p2rank ALL GT0_K / GT0_N	VERIFIED	1 token(s) located verbatim in source
+Abstract	Displacement improved, fpocket	65 of 128	65	128	results/tables/TABLE3_displacement.tsv	fpocket ALL GT0_K / GT0_N	VERIFIED	1 token(s) located verbatim in source
+Abstract	Zero negative displacement	0 of 231 evaluable pairs	0	231	results/CONFIRMATORY_REPORT.md	Across 231 evaluable structure-detector pairs	VERIFIED	2 token(s) located verbatim in source
+Abstract	Rank-1 fusion-associated results classified	126		126	results/tables/TABLE3b_mechanism.tsv	p2rank ALL + fpocket ALL N_RANK1_FAILURES = 66 + 60	VERIFIED	2 token(s) located verbatim in source
+Abstract	Fusion-intrinsic cavities	113 of 126	113	126	results/tables/TABLE3b_mechanism.tsv	FUSION_INTRINSIC_CAVITY, p2rank ALL 63 + fpocket ALL 50	VERIFIED	2 token(s) located verbatim in source
+Introduction	Median MBP fusion vs target length	365 vs 144 residues			results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY MBP MEDIAN_TARGET_RESIDUES / MEDIAN_FUSION_RESIDUES	VERIFIED	1 token(s) located verbatim in source
+Results R1	PDB entries containing a recognised chimeric entity	1,041			PROTOCOL.md	Section 3.1 partner table	VERIFIED	1 token(s) located verbatim in source
+Results R1	Chimeric entities per partner at enumeration	BRIL 522, MBP 375, T4L 154			PROTOCOL.md	Section 3.1	VERIFIED	3 token(s) located verbatim in source
+Results R1	Development cohort size	24 structures, 8 per partner		24	results/tables/TABLE1_cohort_composition.tsv	DEVELOPMENT rows	VERIFIED	2 token(s) located verbatim in source
+Results R1	Leakage test result	9 of 9 checks pass	9	9	results/CONFIRMATORY_REPORT.md	DEVELOPMENT/CONFIRMATORY TARGET OVERLAP	VERIFIED	1 token(s) located verbatim in source
+Results R1	Development-confirmatory target overlap	0	0		results/CONFIRMATORY_REPORT.md	DEVELOPMENT/CONFIRMATORY TARGET OVERLAP	VERIFIED	1 token(s) located verbatim in source
+Results R1	Cross-partner duplicate targets in confirmatory set	5	5	128	PROTOCOL.md	Section III.8	VERIFIED	1 token(s) located verbatim in source
+Results R1	Median resolution and range	2.57 A, 1.28-3.50		128	results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY ALL MEDIAN_RESOLUTION_A / RESOLUTION_RANGE_A	VERIFIED	1 token(s) located verbatim in source
+Results R1	Method split	123 X-ray, 5 cryo-EM		128	results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY ALL N_XRAY / N_CRYOEM	VERIFIED	1 token(s) located verbatim in source
+Results R1	Topology split	46 internal, 73 N-term, 4 C-term, 5 complex		128	results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY ALL TOPOLOGY_* columns	VERIFIED	1 token(s) located verbatim in source
+Results R1	MBP N-terminal topology	57 of 61	57	61	results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY MBP TOPOLOGY_TERMINAL_N	VERIFIED	1 token(s) located verbatim in source
+Results R1	T4L internal insertions	29 of 38	29	38	results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY T4L TOPOLOGY_INTERNAL	VERIFIED	1 token(s) located verbatim in source
+Results R1	BRIL internal insertions	17 of 29	17	29	results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY BRIL TOPOLOGY_INTERNAL	VERIFIED	1 token(s) located verbatim in source
+Results R1	Median target/fusion residues by partner	BRIL 280/98, T4L 278/160, MBP 144/365			results/tables/TABLE1_cohort_composition.tsv	CONFIRMATORY rows, MEDIAN_TARGET_RESIDUES / MEDIAN_FUSION_RESIDUES	VERIFIED	3 token(s) located verbatim in source
+Results R1	Total detector runs	512 runs, 512 successful	512	512	results/CONFIRMATORY_REPORT.md	TECHNICAL SUCCESS	VERIFIED	1 token(s) located verbatim in source
+Results R1	Pockets classified	7,656			results/CONFIRMATORY_REPORT.md	TECHNICAL SUCCESS	VERIFIED	1 token(s) located verbatim in source
+Results R1	Dominance threshold and interface floor	0.70 / 0.20			PROTOCOL.md	Section 6 classification rules	VERIFIED	2 token(s) located verbatim in source
+Results R2	P2Rank rank-1 with CI	52.0% [43.3-60.5]	66	127	results/tables/TABLE2_confirmatory_exposure.tsv	p2rank ALL (raw pooled)	VERIFIED	1 token(s) located verbatim in source
+Results R2	fpocket rank-1 with CI	46.9% [38.4-55.5]	60	128	results/tables/TABLE2_confirmatory_exposure.tsv	fpocket ALL (raw pooled)	VERIFIED	1 token(s) located verbatim in source
+Results R2	One structure with no P2Rank pocket in ORIGINAL	127 evaluable		128	results/CONFIRMATORY_REPORT.md	PRIMARY AIM A	VERIFIED	1 token(s) located verbatim in source
+Results R2	Top-3 exposure pooled	70.1% / 71.1%	89 / 91	127 / 128	results/tables/TABLE2_confirmatory_exposure.tsv	TOP3_PCT, ALL (raw pooled)	VERIFIED	2 token(s) located verbatim in source
+Results R2	Top-5 exposure pooled	81.9% / 82.0%	104 / 105	127 / 128	results/tables/TABLE2_confirmatory_exposure.tsv	TOP5_PCT, ALL (raw pooled)	VERIFIED	2 token(s) located verbatim in source
+Results R2	Partner-standardised with CI	39.7% [34.4-45.6] / 36.2% [30.5-42.4]		127 / 128	results/tables/TABLE2_confirmatory_exposure.tsv	ALL (partner-standardised 1/3 each)	VERIFIED	2 token(s) located verbatim in source
+Results R2	Pooled minus standardised difference	12.3 and 10.6 points			results/CONFIRMATORY_REPORT.md	RAW POOLED VS PARTNER-STANDARDIZED	VERIFIED	2 token(s) located verbatim in source
+Results R3	P2Rank BRIL rank-1 with CI	7.1% [2.0-22.6]	2	28	results/tables/TABLE2_confirmatory_exposure.tsv	p2rank BRIL	VERIFIED	1 token(s) located verbatim in source
+Results R3	P2Rank T4L rank-1 with CI	18.4% [9.2-33.4]	7	38	results/tables/TABLE2_confirmatory_exposure.tsv	p2rank T4L	VERIFIED	1 token(s) located verbatim in source
+Results R3	P2Rank MBP rank-1 with CI	93.4% [84.3-97.4]	57	61	results/tables/TABLE2_confirmatory_exposure.tsv	p2rank MBP	VERIFIED	1 token(s) located verbatim in source
+Results R3	fpocket BRIL rank-1 with CI	10.3% [3.6-26.4]	3	29	results/tables/TABLE2_confirmatory_exposure.tsv	fpocket BRIL	VERIFIED	1 token(s) located verbatim in source
+Results R3	fpocket T4L rank-1 with CI	13.2% [5.8-27.3]	5	38	results/tables/TABLE2_confirmatory_exposure.tsv	fpocket T4L	VERIFIED	1 token(s) located verbatim in source
+Results R3	fpocket MBP rank-1 with CI	85.2% [74.3-92.0]	52	61	results/tables/TABLE2_confirmatory_exposure.tsv	fpocket MBP	VERIFIED	1 token(s) located verbatim in source
+Results R3	Secondary model dimensions	255 rows, 123 clusters, 126 events			results/CONFIRMATORY_REPORT.md	SECONDARY MULTIVARIABLE MODEL	VERIFIED	1 token(s) located verbatim in source
+Results R3	No separation detected	none			results/CONFIRMATORY_REPORT.md	SECONDARY MULTIVARIABLE MODEL	VERIFIED	1 token(s) located verbatim in source
+Results R3	MBP odds ratio	49.5 [10.8-226.9], p = 5.2e-07			results/CONFIRMATORY_REPORT.md	model table, partner[MBP]	VERIFIED	3 token(s) located verbatim in source
+Results R3	Target size odds ratio	0.286 [0.131-0.622], p = 0.0016			results/CONFIRMATORY_REPORT.md	model table, target_size / 100 residues	VERIFIED	3 token(s) located verbatim in source
+Results R3	T4L odds ratio	2.40 [0.46-12.4], p = 0.30			results/CONFIRMATORY_REPORT.md	model table, partner[T4L]	VERIFIED	2 token(s) located verbatim in source
+Results R3	Development fpocket BRIL rank-1	62.5%	5	8	results/CONFIRMATORY_REPORT.md	DEVELOPMENT VS CONFIRMATORY REPLICATION	VERIFIED	1 token(s) located verbatim in source
+Results R3	Confirmatory fpocket BRIL rank-1	10.3%	3	29	results/CONFIRMATORY_REPORT.md	DEVELOPMENT VS CONFIRMATORY REPLICATION	VERIFIED	1 token(s) located verbatim in source
+Results R4	Correspondence rule parameters	min 3 target residues, J >= 0.40, <= 8.0 A			PROTOCOL.md	Section II.1 / III.3	VERIFIED	2 token(s) located verbatim in source
+Results R4	P2Rank displacement > 0	40.8% [31.8-50.4]	42	103	results/tables/TABLE3_displacement.tsv	p2rank ALL GT0	VERIFIED	1 token(s) located verbatim in source
+Results R4	fpocket displacement > 0	50.8% [42.2-59.3]	65	128	results/tables/TABLE3_displacement.tsv	fpocket ALL GT0	VERIFIED	1 token(s) located verbatim in source
+Results R4	Median displacement	0 (P2Rank), 1 (fpocket)			results/tables/TABLE3_displacement.tsv	MEDIAN_DISPLACEMENT, ALL rows	VERIFIED	2 token(s) located verbatim in source
+Results R4	Mean displacement	+0.78 / +4.06			results/tables/TABLE3_displacement.tsv	MEAN_DISPLACEMENT, ALL rows	VERIFIED	2 token(s) located verbatim in source
+Results R4	Displacement >= 2	18.4% / 39.8%	19 / 51	103 / 128	results/tables/TABLE3_displacement.tsv	GE2, ALL rows	VERIFIED	2 token(s) located verbatim in source
+Results R4	Displacement >= 5	1.9% / 26.6%	2 / 34	103 / 128	results/tables/TABLE3_displacement.tsv	GE5, ALL rows	VERIFIED	2 token(s) located verbatim in source
+Results R4	Negative displacements	0 in every stratum, both detectors	0	231	results/tables/TABLE3_displacement.tsv	N_NEGATIVE_DISPLACEMENT column	VERIFIED	2 token(s) located verbatim in source
+Results R4	Evaluable structure-detector pairs	231		231	results/CONFIRMATORY_REPORT.md	PRIMARY AIM B	VERIFIED	1 token(s) located verbatim in source
+Results R4	Sign test, P2Rank	42 up / 0 down, p = 4.6e-13	42	42	results/CONFIRMATORY_REPORT.md	PRIMARY AIM B, P2Rank	VERIFIED	1 token(s) located verbatim in source
+Results R4	Sign test, fpocket	65 up / 0 down, p = 5.4e-20	65	65	results/CONFIRMATORY_REPORT.md	PRIMARY AIM B, fpocket	VERIFIED	1 token(s) located verbatim in source
+Results R4	P2Rank abstentions in REMOVED condition	22 of 128 (20 MBP, 1 T4L, 1 BRIL)	22	128	results/CONFIRMATORY_REPORT.md	PRIMARY AIM B	VERIFIED	1 token(s) located verbatim in source
+Results R4	fpocket abstentions	0 of 128	0	128	results/CONFIRMATORY_REPORT.md	PRIMARY AIM B	VERIFIED	1 token(s) located verbatim in source
+Results R4	Unmatched structures, P2Rank	3	3	128	results/CONFIRMATORY_REPORT.md	PRIMARY AIM B	VERIFIED	1 token(s) located verbatim in source
+Results R4	Partner-stratified displacement > 0, P2Rank	2/28, 6/37, 34/38			results/tables/TABLE3_displacement.tsv	p2rank BRIL/T4L/MBP GT0_K/GT0_N	VERIFIED	3 token(s) located verbatim in source
+Results R4	Partner-stratified displacement > 0, fpocket	4/29, 8/38, 53/61			results/tables/TABLE3_displacement.tsv	fpocket BRIL/T4L/MBP GT0_K/GT0_N	VERIFIED	3 token(s) located verbatim in source
+Results R4	fpocket MBP median displacement	5		61	results/tables/TABLE3_displacement.tsv	fpocket MBP MEDIAN	VERIFIED	1 token(s) located verbatim in source
+Results R5	Rank-1 fusion-associated results classified	126		126	results/tables/TABLE3b_mechanism.tsv	N_RANK1_FAILURES, ALL rows	VERIFIED	2 token(s) located verbatim in source
+Results R5	Fusion-intrinsic	113	113	126	results/tables/TABLE3b_mechanism.tsv	FUSION_INTRINSIC_CAVITY, ALL rows	VERIFIED	2 token(s) located verbatim in source
+Results R5	Target-fusion interface	11	11	126	results/tables/TABLE3b_mechanism.tsv	TARGET_FUSION_INTERFACE, ALL rows	VERIFIED	2 token(s) located verbatim in source
+Results R5	Chimera-specific fusion cavities	2	2	126	results/tables/TABLE3b_mechanism.tsv	CHIMERA_SPECIFIC_FUSION_CAVITY, fpocket ALL	VERIFIED	1 token(s) located verbatim in source
+Results R5	Linker-related and mapping artifacts	0 and 0	0	126	results/tables/TABLE3b_mechanism.tsv	LINKER_RELATED, MAPPING_ARTIFACT	VERIFIED	1 token(s) located verbatim in source
+Results R5	Probe matches	119	119	126	results/CONFIRMATORY_REPORT.md	MECHANISM probe states	VERIFIED	1 token(s) located verbatim in source
+Results R5	Probe matches that are the partner's own rank-1 pocket	101 of 119	101	119	results/CONFIRMATORY_REPORT.md	MECHANISM	VERIFIED	1 token(s) located verbatim in source
+Results R5	Probe: no matching cavity / ambiguous / no predictions	6 / 1 / 0		126	results/CONFIRMATORY_REPORT.md	MECHANISM probe states	VERIFIED	2 token(s) located verbatim in source
+Results R5	Case 4EXK	1.28 A, 104 target / 367 fusion residues, GLCx4			figures/FIG5_case_validation.tsv	CASE C1	VERIFIED	4 token(s) located verbatim in source
+Results R5	Case 4EXK, fpocket target cavity rank	7 -> 1			figures/FIG5_case_validation.tsv	CASE C1 fpocket	VERIFIED	1 token(s) located verbatim in source
+Results R5	Case 4EXK, P2Rank abstention on the removed structure	DETECTOR_ABSTENTION			figures/FIG5_case_validation.tsv	CASE C1 p2rank	VERIFIED	1 token(s) located verbatim in source
+Results R5	Case 6ZX9	2.52 A, target cavity 2 -> 1 in both detectors			figures/FIG5_case_validation.tsv	CASE C2	VERIFIED	2 token(s) located verbatim in source
+Results R5	Case 6M97	3.03 A, 2 -> 1 (P2Rank), 7 -> 1 (fpocket)			figures/FIG5_case_validation.tsv	CASE C3	VERIFIED	2 token(s) located verbatim in source
+Results R5	Case 4EPI fusion fraction	0.4375 (P2Rank), 0.5 (fpocket)			figures/FIG5_case_validation.tsv	CASE C4 RANK1_F_FUSION	VERIFIED	3 token(s) located verbatim in source
+Results R6	Reference-site coverage	46.9%	60	128	results/tables/TABLE4_reference_site.tsv	COVERAGE_K / COVERAGE_N	VERIFIED	1 token(s) located verbatim in source
+Results R6	Coverage promotion threshold	60%			PROTOCOL.md	Section 7.2 rule A2	VERIFIED	1 token(s) located verbatim in source
+Results R6	Coverage by partner	BRIL 23/29, T4L 27/38, MBP 10/61			results/CONFIRMATORY_REPORT.md	BIOLOGICAL REFERENCE-SITE SUBSET	VERIFIED	1 token(s) located verbatim in source
+Results R6	P2Rank site pocket found	58 of 60	58	60	results/tables/TABLE4_reference_site.tsv	SITE_POCKET_FOUND_K	VERIFIED	1 token(s) located verbatim in source
+Results R6	P2Rank outranked by a fusion pocket	15.5% [8.4-26.9]	9	58	results/tables/TABLE4_reference_site.tsv	OUTRANKED_PCT	VERIFIED	1 token(s) located verbatim in source
+Results R6	P2Rank top-1/3/5 recovery	81.0% / 96.6% / 98.3%	47 / 56 / 57	58	results/tables/TABLE4_reference_site.tsv	RECOVERY_TOP1/3/5	VERIFIED	1 token(s) located verbatim in source
+Results R6	fpocket site pocket found	60 of 60	60	60	results/tables/TABLE4_reference_site.tsv	SITE_POCKET_FOUND_K	VERIFIED	1 token(s) located verbatim in source
+Results R6	fpocket outranked by a fusion pocket	45.0% [33.1-57.5]	27	60	results/tables/TABLE4_reference_site.tsv	OUTRANKED_PCT	VERIFIED	1 token(s) located verbatim in source
+Results R6	fpocket top-1/3/5 recovery	40.0% / 56.7% / 66.7%	24 / 34 / 40	60	results/tables/TABLE4_reference_site.tsv	RECOVERY_TOP1/3/5	VERIFIED	1 token(s) located verbatim in source
+Results R6	Reference-site rank change after removal	P2Rank 9 improved / 0 worsened / 49 unchanged; fpocket 28 / 1 / 30			results/tables/TABLE4_reference_site.tsv	RANK_IMPROVED_AFTER_REMOVAL / RANK_WORSENED / RANK_UNCHANGED	VERIFIED	2 token(s) located verbatim in source
+Results R7	Rank-1 call agreement	88.2%, kappa 0.764	112	127	results/CONFIRMATORY_REPORT.md	DETECTOR DEPENDENCE	VERIFIED	2 token(s) located verbatim in source
+Results R7	Agreement breakdown	both 55, P2Rank only 11, fpocket only 4, neither 57		127	results/CONFIRMATORY_REPORT.md	DETECTOR DEPENDENCE	VERIFIED	1 token(s) located verbatim in source
+Results R7	Score margins, P2Rank	BRIL 0.12, T4L 0.14, MBP 5.04			results/CONFIRMATORY_REPORT.md	DETECTOR DEPENDENCE score margin	VERIFIED	1 token(s) located verbatim in source
+Results R7	Score margins, fpocket	BRIL 0.30, T4L 0.31, MBP 1.56			results/CONFIRMATORY_REPORT.md	DETECTOR DEPENDENCE score margin	VERIFIED	1 token(s) located verbatim in source
+Results R7	Detector x partner interaction not significant	p = 0.41 and p = 0.13			results/CONFIRMATORY_REPORT.md	SECONDARY MULTIVARIABLE MODEL	VERIFIED	2 token(s) located verbatim in source
+Results R8 replication	Replication tally	17 replicated, 1 partial, 2 not		20	results/CONFIRMATORY_REPORT.md	DEVELOPMENT VS CONFIRMATORY REPLICATION	VERIFIED	1 token(s) located verbatim in source
+Results R8 replication	P2Rank rank-1, development vs confirmatory	45.8% vs 52.0%	11 / 66	24 / 127	results/CONFIRMATORY_REPORT.md	replication table	VERIFIED	1 token(s) located verbatim in source
+Results R8 replication	fpocket rank-1, development vs confirmatory	62.5% vs 46.9%	15 / 60	24 / 128	results/CONFIRMATORY_REPORT.md	replication table	VERIFIED	1 token(s) located verbatim in source
+Results R8 replication	fpocket BRIL displacement, development vs confirmatory	5/8 vs 4/29	5 / 4	8 / 29	results/CONFIRMATORY_REPORT.md	replication table	VERIFIED	2 token(s) located verbatim in source
+Results R9 sensitivity	Dominance threshold effect	at most 1.6 points			results/CONFIRMATORY_REPORT.md	SENSITIVITY ANALYSES	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Dominance 0.50 / 0.90 rank-1	51.2% / 45.3% and 51.2% / 46.9%			results/CONFIRMATORY_REPORT.md	sensitivity table	VERIFIED	2 token(s) located verbatim in source
+Results R9 sensitivity	Correspondence threshold effect	at most 0.4 points			results/CONFIRMATORY_REPORT.md	SENSITIVITY ANALYSES	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Deletion-boundary control	40.2% / 50.4%, 2 and 1 structures excluded			results/CONFIRMATORY_REPORT.md	sensitivity table	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Ions retained	52.0% / 47.7%, displacement 40.8% / 51.6%			results/CONFIRMATORY_REPORT.md	sensitivity table	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Biological assembly 1	43.7% / 38.9%, displacement 31.5% / 46.4%			results/CONFIRMATORY_REPORT.md	sensitivity table	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Assembly-1 partner ordering preserved	MBP 83.1% / 72.9% vs BRIL 3.4% / 6.9%			results/CONFIRMATORY_REPORT.md	SENSITIVITY ANALYSES	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Structures not evaluable under assembly 1	2 (5W0R, 5EDU)	2	128	results/CONFIRMATORY_REPORT.md	SENSITIVITY ANALYSES	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Segment-disorder sensitivity cohort	141 structures / 136 targets		141	results/e9_sensitivity_comparison.txt	cohort line	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Structures newly run for the sensitivity cohort	16	16	141	results/e9_sensitivity_comparison.txt	NEWLY RUN STRUCTURES	VERIFIED	2 token(s) located verbatim in source
+Results R9 sensitivity	New detector runs	64 of 64 successful	64	64	results/confirmatory/e9_035/detector_runs.json	n_new / expected_new_runs; every run record has returncode 0	VERIFIED	2 token(s) located verbatim in source
+Results R9 sensitivity	Sensitivity rank-1 exposure	52.1% (P2Rank) / 48.9% (fpocket)	73 / 69	140 / 141	results/tables/TABLE6_e9_sensitivity.tsv	AIM A ALL rank-1 SENS_PCT	VERIFIED	2 token(s) located verbatim in source
+Results R9 sensitivity	Sensitivity MBP rank-1	94.0% / 86.6%	63 / 58	67	results/tables/TABLE6_e9_sensitivity.tsv	AIM A MBP rank-1 SENS_PCT	VERIFIED	2 token(s) located verbatim in source
+Results R9 sensitivity	Sensitivity negative displacement	0 across 255 evaluable pairs	0	255	DEVIATIONS.md	amendment J7	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	CHEN11 constructs	0 of 241	0	241	results/PUBLICATION_DENOMINATORS.tsv	CHEN11 row	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	JOINED constructs	1 of 534	1	534	results/PUBLICATION_DENOMINATORS.tsv	JOINED row	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	COACH420 constructs	0 of 418	0	418	results/PUBLICATION_DENOMINATORS.tsv	COACH420 row	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	HOLO4K constructs	0 of 4,004	0	4004	results/PUBLICATION_DENOMINATORS.tsv	HOLO4K row	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	FPTRAIN constructs	0 of 222	0	222	results/PUBLICATION_DENOMINATORS.tsv	FPTRAIN row	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	Tier-1 union, deduplicated	5,304 entries		5304	results/PUBLICATION_DENOMINATORS.tsv	TIER1_UNION_DEDUPLICATED row	VERIFIED	2 token(s) located verbatim in source
+Results R10 dataset	Tier-1 union, non-deduplicated	5,419 entries		5419	results/PUBLICATION_DENOMINATORS.tsv	TIER1_UNION_DEDUPLICATED NOTES	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	Entries appearing in more than one Tier-1 dataset	115	115	5419	results/PUBLICATION_DENOMINATORS.tsv	TIER1_UNION_DEDUPLICATED NOTES	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	1DUG chain composition	217 carrier + 10 target residues			results/PHASE5_DATASET_AUDIT.md	JOINED / 1DUG in detail	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	1DUG ligand contacts	GSH 72 carrier / 0 target	72		results/PHASE5_DATASET_AUDIT.md	1DUG in detail	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	1DUG P2Rank rank-1 pocket composition	15 carrier, 0 target residues			results/PHASE5_DATASET_AUDIT.md	DIRECT BENCHMARK EFFECT	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	PLINDER chimeric-receptor training systems	1,385 systems / 454 entries	1385	309140	results/PLINDER_DENOMINATORS.tsv	train row FUSION_SYSTEMS / FUSION_PDB_ENTRIES	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	PLINDER fusion-labelled training systems	342 systems / 158 entries	342	1385	results/PLINDER_DENOMINATORS.tsv	train row FUSION_SITE_LABELLED_*	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	PLINDER fusion-labelled MBP share	330 systems / 148 entries	330	342	results/PHASE5_DATASET_AUDIT.md	PLINDER partner breakdown	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	PLINDER target-site systems with an unlabelled partner cavity	939	939	1385	results/PLINDER_DENOMINATORS.tsv	train row TARGET_SITE_SYSTEMS	VERIFIED	1 token(s) located verbatim in source
+Results R10 dataset	PLINDER validation and test chimeric-receptor systems	1 and 0		832 / 1036	results/PLINDER_DENOMINATORS.tsv	val and test rows	VERIFIED	2 token(s) located verbatim in source
+Discussion	Top-5 exposure range across partners and detectors	50.0-100%			results/tables/TABLE2_confirmatory_exposure.tsv	TOP5_PCT, partner rows	VERIFIED	2 token(s) located verbatim in source
+Discussion	Deletion-boundary control effect	at most 0.6 points			results/CONFIRMATORY_REPORT.md	SENSITIVITY ANALYSES	VERIFIED	1 token(s) located verbatim in source
+Discussion	PLINDER partner recognition list	12 UniProt accessions	12		results/PHASE5_DATASET_AUDIT.md	DATASET-AUDIT LIMITATIONS	VERIFIED	1 token(s) located verbatim in source
+Discussion	Dataset entities with no UniProt mapping	2.9%			results/PHASE5_DATASET_AUDIT.md	DATASET-AUDIT LIMITATIONS	VERIFIED	1 token(s) located verbatim in source
+Discussion	PLINDER systems left unresolved	46 of 1,385	46	1385	results/PHASE5_DATASET_AUDIT.md	DATASET-AUDIT LIMITATIONS	VERIFIED	1 token(s) located verbatim in source
+Discussion	Sensitivity cohort adds independent targets	13	13	136	results/e9_sensitivity_comparison.txt	cohort diff	VERIFIED	1 token(s) located verbatim in source
+Discussion	Sensitivity cohort representative changes	3 BRIL targets	3	136	DEVIATIONS.md	amendment J6	VERIFIED	1 token(s) located verbatim in source
+Methods	Resolution cut-off	3.5 A			PROTOCOL.md	Section 3.2 criterion 2	VERIFIED	1 token(s) located verbatim in source
+Methods	SIFTS coverage requirement	80% of modelled residues			PROTOCOL.md	Section 3.2 criterion 4	VERIFIED	1 token(s) located verbatim in source
+Methods	Minimum fusion segment length	50 modelled residues			PROTOCOL.md	Section 3.2 criterion 5	VERIFIED	1 token(s) located verbatim in source
+Methods	Minimum target segment length	80 modelled residues			PROTOCOL.md	Section 3.2 criterion 6	VERIFIED	1 token(s) located verbatim in source
+Methods	Segment-disorder criterion	20% primary, 35% sensitivity			PROTOCOL.md	Section 3.2 criterion 7 and II.5	VERIFIED	2 token(s) located verbatim in source
+Methods	Reference-site radius	4.0 A			PROTOCOL.md	Section 7.4	VERIFIED	1 token(s) located verbatim in source
+Methods	Bootstrap resamples	10,000			PROTOCOL.md	Section 8.1	VERIFIED	1 token(s) located verbatim in source
+Methods	Sampling seed	20260915			environment/ENVIRONMENT.md	Determinism	VERIFIED	1 token(s) located verbatim in source
+Methods	Power at n = 120	0.99 strong, 0.72 modest			PROTOCOL.md	Section 8.4 table	VERIFIED	1 token(s) located verbatim in source
+Methods	Unpaired design requirement after clustering inflation	100, 160, 319 per group			PROTOCOL.md	Section 8.4	VERIFIED	1 token(s) located verbatim in source
+Methods	fpocket scoring-function training set size	307 proteins		307	results/PHASE5_DATASET_AUDIT.md	FPOCKET training datasets	VERIFIED	1 token(s) located verbatim in source
+Methods	FPTRAIN size and its non-identity with 307	222 entries		222	results/PHASE5_DATASET_AUDIT.md	FPOCKET training datasets	VERIFIED	1 token(s) located verbatim in source
+Methods	Segment-disorder audit agreement	30 of 30	30	30	PROTOCOL.md	Section II.5	VERIFIED	1 token(s) located verbatim in source
+Methods	Entities excluded by the disorder criterion alone	37	37	983	PROTOCOL.md	Section II.5	VERIFIED	1 token(s) located verbatim in source
+Methods	Mapping-invariant test suite	51 checks	51	51	results/CONFIRMATORY_REPORT.md	PROTOCOL INTEGRITY	VERIFIED	1 token(s) located verbatim in source
+Methods	Detector-parser test suite	21 checks	21	21	results/CONFIRMATORY_REPORT.md	PROTOCOL INTEGRITY	VERIFIED	1 token(s) located verbatim in source
+Methods	Leakage test suite	9 checks	9	9	results/CONFIRMATORY_REPORT.md	PROTOCOL INTEGRITY	VERIFIED	1 token(s) located verbatim in source
+Methods	Variant-classifier equivalence test	46,448 assertions over 7,656 pockets	46448	7656	results/CONFIRMATORY_REPORT.md	PROTOCOL INTEGRITY	VERIFIED	1 token(s) located verbatim in source
+Methods	P2Rank jar hash	4d73a85b...			environment/ENVIRONMENT.md	P2Rank table	VERIFIED	1 token(s) located verbatim in source
+Methods	fpocket commit and binary hash	4bb0d844... / 90e2a3fc...			environment/ENVIRONMENT.md	fpocket table	VERIFIED	2 token(s) located verbatim in source
+Methods	fpocket scoring-function intercept	-0.03783394			results/PHASE5_DATASET_AUDIT.md	FPOCKET scoring implementation	VERIFIED	1 token(s) located verbatim in source
+Abstract	Reference-site coverage stated as a scope boundary	46.9%	60	128	results/tables/TABLE4_reference_site.tsv	COVERAGE_PCT	VERIFIED	1 token(s) located verbatim in source
+Abstract	P2Rank reference-site top-1 retention stated as a scope boundary	81.0%	47	58	results/tables/TABLE4_reference_site.tsv	RECOVERY_TOP1_PCT, p2rank	VERIFIED	1 token(s) located verbatim in source
+Results R2	BRIL top-3 exposure	28.6% / 48.3%	8 / 14	28 / 29	results/tables/TABLE2_confirmatory_exposure.tsv	TOP3, BRIL rows	VERIFIED	2 token(s) located verbatim in source
+Results R2	T4L top-3 exposure	52.6% / 44.7%	20 / 17	38	results/tables/TABLE2_confirmatory_exposure.tsv	TOP3, T4L rows	VERIFIED	2 token(s) located verbatim in source
+Results R2	BRIL top-5 exposure	50.0% (14/28) / 69.0% (20/29)	14 / 20	28 / 29	results/tables/TABLE2_confirmatory_exposure.tsv	TOP5, BRIL rows	VERIFIED	2 token(s) located verbatim in source
+Results R2	T4L top-5 exposure	76.3% (29/38) / 65.8% (25/38)	29 / 25	38	results/tables/TABLE2_confirmatory_exposure.tsv	TOP5, T4L rows	VERIFIED	2 token(s) located verbatim in source
+Results R2	MBP top-5 at or near ceiling	61/61 and 60/61	61 / 60	61	results/tables/TABLE2_confirmatory_exposure.tsv	TOP5_K, MBP rows	VERIFIED	2 token(s) located verbatim in source
+Results R4	Exact sign-test p-values	4.55e-13 and 5.42e-20			results/confirmatory/primary/confirmatory_summary.txt	lines 73 and 91	VERIFIED	2 token(s) located verbatim in source
+Results R4	P2Rank MBP displacement denominator composition	34/38 evaluable; 20 abstentions; 3 unmatched; 61 structures	34	38	results/tables/TABLE3_displacement.tsv	p2rank MBP N_STRUCTURES / N_EVALUABLE / N_DETECTOR_ABSTENTION / N_UNMATCHED	VERIFIED	1 token(s) located verbatim in source
+Results R5	Mechanism distribution by detector	P2Rank 63/3/0/0/0; fpocket 50/8/2/0/0		126	results/tables/TABLE3b_mechanism.tsv	ALL rows, all five mechanism columns	VERIFIED	2 token(s) located verbatim in source
+Results R6	Reference-site rank change computable counts	P2Rank 9/0/49 of 58; fpocket 28/1/30 of 60		58 / 60	results/tables/TABLE4_reference_site.tsv	RANK_IMPROVED_AFTER_REMOVAL / RANK_WORSENED / RANK_UNCHANGED	VERIFIED	2 token(s) located verbatim in source
+Results R7	Score margin, P2Rank, with denominators	median 0.12 (n=21), 0.14 (n=35), 5.04 (n=43)			results/confirmatory/primary/confirmatory_summary.txt	score margin block	VERIFIED	3 token(s) located verbatim in source
+Results R7	Score margin, fpocket, with denominators	median 0.30 (n=29), 0.31 (n=38), 1.56 (n=61)			results/confirmatory/primary/confirmatory_summary.txt	score margin block	VERIFIED	3 token(s) located verbatim in source
+Results R7	Score-margin summary statistic is the median	median			results/confirmatory/primary/confirmatory_summary.txt	confirmatory_summary.txt emits the literal word 'median'	VERIFIED	2 token(s) located verbatim in source
+Results R10 dataset	PLINDER fusion-labelled MBP share, both units	330 systems / 148 entries	330	342	results/PHASE5_DATASET_AUDIT.md	PLINDER partner breakdown	VERIFIED	1 token(s) located verbatim in source
+Discussion	MBP score margin cited in the size discussion	5.04 and 1.56			results/confirmatory/primary/confirmatory_summary.txt	score margin block	VERIFIED	2 token(s) located verbatim in source
+Discussion	Reference-site coverage by partner	BRIL 23/29, T4L 27/38, MBP 10/61			results/CONFIRMATORY_REPORT.md	BIOLOGICAL REFERENCE-SITE SUBSET	VERIFIED	1 token(s) located verbatim in source
+Methods	Correspondence sensitivity settings executed	three: J>=0.25/12A, J>=0.40/8A, J>=0.60/5A	3	4 pre-specified	results/confirmatory/primary/confirmatory_summary.txt	Correspondence rule block, six lines (3 settings x 2 detectors)	VERIFIED	6 token(s) located verbatim in source
+Methods	Overlap-coefficient >=0.50 correspondence variant NOT executed	not run			scripts/08_pocket_correspondence.py	module-level SENSITIVITY list defines only three (label, jaccard, distance) settings	VERIFIED	1 token(s) located verbatim in source
+Results R9 sensitivity	Correspondence displacement across the three executed settings	40.8-41.2% (P2Rank), 50.8% (fpocket)			results/confirmatory/primary/confirmatory_summary.txt	Correspondence rule block	VERIFIED	3 token(s) located verbatim in source
+Discussion	Score-margin medians cited in the detector-dependence discussion	median 0.12/0.14/5.04 and 0.30/0.31/1.56			results/confirmatory/primary/confirmatory_summary.txt	score margin block	VERIFIED	2 token(s) located verbatim in source

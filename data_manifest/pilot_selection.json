@@ -1,0 +1,2676 @@
+{
+ "protocol_version": "1.1",
+ "seed_base": "20260915",
+ "n_per_partner": 8,
+ "selection_rule": "eligible -> one per (partner,target) by (resolution asc, pdb_id asc) -> lexicographic target sort -> Random(f'{seed}-{partner}').sample(targets, 8)",
+ "source_pool_sha256": "0f6989e3c0ddd3c53501833318f4cca04ee8e60952c8e622babc7c3fcdf32e1c",
+ "draw_log": {
+  "BRIL": {
+   "seed": "20260915-BRIL",
+   "n_candidate_targets": 38,
+   "candidate_targets": [
+    "C0HAK2",
+    "P03999",
+    "P07550",
+    "P08172",
+    "P0AF16",
+    "P14416",
+    "P21730",
+    "P21917",
+    "P25090",
+    "P28222",
+    "P28223",
+    "P28335",
+    "P29274",
+    "P30542",
+    "P30556",
+    "P35346",
+    "P35414",
+    "P41143",
+    "P41595",
+    "P42212",
+    "P43116",
+    "P46095",
+    "P47871",
+    "P50052",
+    "P51436",
+    "P51679",
+    "Q13255",
+    "Q15306",
+    "Q8TDS4",
+    "Q92633",
+    "Q92847",
+    "Q99835",
+    "Q9H228",
+    "Q9H244",
+    "Q9NS75",
+    "Q9NUN7",
+    "Q9Y271",
+    "Q9Y2T6"
+   ],
+   "drawn_targets": [
+    "P41143",
+    "P43116",
+    "Q8TDS4",
+    "Q92633",
+    "Q99835",
+    "Q9H228",
+    "Q9NS75",
+    "Q9Y271"
+   ]
+  },
+  "T4L": {
+   "seed": "20260915-T4L",
+   "n_candidate_targets": 46,
+   "candidate_targets": [
+    "A4UDG5",
+    "G9MAP5",
+    "O14493",
+    "O14842",
+    "P07550",
+    "P08172",
+    "P08173",
+    "P08483",
+    "P0DP23",
+    "P11229",
+    "P14416",
+    "P20789",
+    "P21453",
+    "P24530",
+    "P25103",
+    "P25116",
+    "P25929",
+    "P29274",
+    "P32238",
+    "P32300",
+    "P34972",
+    "P34998",
+    "P35367",
+    "P35462",
+    "P41145",
+    "P41594",
+    "P41597",
+    "P42866",
+    "P43115",
+    "P43220",
+    "P47871",
+    "P61073",
+    "P61201",
+    "Q08001",
+    "Q08BG4",
+    "Q12151",
+    "Q13263",
+    "Q39UD1",
+    "Q57159",
+    "Q5M7A7",
+    "Q5VT66",
+    "Q8IYU8",
+    "Q8TCG2",
+    "Q96GG9",
+    "Q9BTU6",
+    "Q9Y5Y4"
+   ],
+   "drawn_targets": [
+    "P14416",
+    "P25929",
+    "P41145",
+    "P61073",
+    "P61201",
+    "Q08001",
+    "Q5M7A7",
+    "Q96GG9"
+   ]
+  },
+  "MBP": {
+   "seed": "20260915-MBP",
+   "n_candidate_targets": 69,
+   "candidate_targets": [
+    "A0A0D5YCX7",
+    "A0A0F6B1U8",
+    "A0A0H2US87",
+    "A0A0H3N4W9",
+    "A0A2K3D5Z7",
+    "A5Z1Q8",
+    "B0V1H4",
+    "B1B3N6",
+    "C4YKK8",
+    "D2KPJ6",
+    "F2K1V9",
+    "I6V0B8",
+    "O24456",
+    "O29867",
+    "O33336",
+    "O70468",
+    "O95619",
+    "P03126",
+    "P05133",
+    "P06931",
+    "P09879",
+    "P0C872",
+    "P10408",
+    "P10588",
+    "P10761",
+    "P17813",
+    "P25189",
+    "P25554",
+    "P28562",
+    "P34998",
+    "P36046",
+    "P41218",
+    "P41586",
+    "P49273",
+    "P51531",
+    "P53220",
+    "P59046",
+    "P62593",
+    "P97287",
+    "Q07820",
+    "Q0PF16",
+    "Q12495",
+    "Q13324",
+    "Q14790",
+    "Q15109",
+    "Q15475",
+    "Q185H8",
+    "Q2YLR6",
+    "Q59028",
+    "Q62227",
+    "Q76KB1",
+    "Q76LX8",
+    "Q7Z434",
+    "Q8MNT9",
+    "Q8T5C5",
+    "Q8WR62",
+    "Q93038",
+    "Q9C000",
+    "Q9F0R1",
+    "Q9GZX7",
+    "Q9I9N6",
+    "Q9NZC2",
+    "Q9UBN7",
+    "Q9ULZ3",
+    "Q9UMX1",
+    "Q9VUQ5",
+    "Q9Y2G2",
+    "Q9Y5X4",
+    "W8GI72"
+   ],
+   "drawn_targets": [
+    "I6V0B8",
+    "P03126",
+    "P10408",
+    "P25189",
+    "P41218",
+    "P41586",
+    "Q14790",
+    "Q9I9N6"
+   ]
+  }
+ },
+ "selection": [
+  {
+   "entity_id": "4N6H_1",
+   "pdb_id": "4N6H",
+   "fusion_partner": "BRIL",
+   "fusion_accession": "P0ABE7",
+   "description": "Soluble cytochrome b562, Delta-type opioid receptor chimeric protein",
+   "title": "1.8 A Structure of the human delta opioid 7TM receptor (PSI Community Target)",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0ABE7",
+    "P41143"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P41143",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 1.8,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 414,
+   "fusion_ranges": [
+    [
+     6,
+     111
+    ]
+   ],
+   "target_ranges": [
+    [
+     112,
+     414
+    ]
+   ],
+   "instance_id": "4N6H.A",
+   "n_unobserved": 6,
+   "n_modelled": 408,
+   "n_aligned": 409,
+   "align_coverage_of_modelled": 1.0,
+   "fusion_modelled": 105,
+   "target_modelled": 303,
+   "fusion_disorder": 0.0094,
+   "target_disorder": 0.0,
+   "linker_positions": [],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "NA",
+     "name": "SODIUM ION",
+     "mw": 22.99,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "EJ4",
+     "name": "(4bS,8R,8aS,14bR)-7-(cyclopropylmethyl)-5,6,7,8,14,14b-hexahydro-4,8-methano[1]benzofuro[2,3-a]pyrido[4,3-b]carbazole-1,8a(9H)-diol",
+     "mw": 414.496,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "TLA",
+     "name": "L(+)-TARTARIC ACID",
+     "mw": 150.087,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "PGE",
+     "name": "TRIETHYLENE GLYCOL",
+     "mw": 150.173,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "OLC",
+     "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+     "mw": 356.54,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "OLA",
+     "name": "OLEIC ACID",
+     "mw": 282.461,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 3,
+   "collapsed_alternatives": [
+    "4RWD",
+    "4RWA"
+   ]
+  },
+  {
+   "entity_id": "9JRT_1",
+   "pdb_id": "9JRT",
+   "fusion_partner": "BRIL",
+   "fusion_accession": "P0ABE7",
+   "description": "GFP-like fluorescent chromoprotein,Prostaglandin E2 receptor EP2 subtype,Soluble cytochrome b562,Prostaglandin E2 receptor EP2 subtype,Soluble cytochrome b562",
+   "title": "Structural Insights into Selective Antagonism of TG6-129 and EP2 Prostaglandin Receptor",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0ABE7",
+    "P43116"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P43116",
+   "method": "ELECTRON MICROSCOPY",
+   "resolution": 3.28,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 684,
+   "fusion_ranges": [
+    [
+     476,
+     520
+    ],
+    [
+     524,
+     574
+    ]
+   ],
+   "target_ranges": [
+    [
+     247,
+     470
+    ],
+    [
+     522,
+     523
+    ],
+    [
+     583,
+     684
+    ]
+   ],
+   "instance_id": "9JRT.A",
+   "n_unobserved": 307,
+   "n_modelled": 377,
+   "n_aligned": 424,
+   "align_coverage_of_modelled": 0.9655,
+   "fusion_modelled": 93,
+   "target_modelled": 271,
+   "fusion_disorder": 0.0312,
+   "target_disorder": 0.1738,
+   "linker_positions": [
+    471,
+    472,
+    473,
+    474,
+    475,
+    521,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582
+   ],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246
+   ],
+   "topology": "INTERNAL_INSERTION",
+   "nonpolymer_entities": [
+    {
+     "id": "A1EC5",
+     "name": "~{N}-[[4-[(5-ethyl-1,3,4-thiadiazol-2-yl)sulfamoyl]phenyl]carbamothioyl]-3-(4-fluorophenyl)propanamide",
+     "mw": 493.598,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 2,
+   "collapsed_alternatives": [
+    "9JRO"
+   ]
+  },
+  {
+   "entity_id": "7ZL9_1",
+   "pdb_id": "7ZL9",
+   "fusion_partner": "BRIL",
+   "fusion_accession": "P0ABE7",
+   "description": "Hydroxycarboxylic acid receptor 2,Soluble cytochrome b562",
+   "title": "Crystal structure of human GPCR Niacin receptor (HCA2)",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0ABE7",
+    "Q8TDS4"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q8TDS4",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.7,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 431,
+   "fusion_ranges": [
+    [
+     326,
+     431
+    ]
+   ],
+   "target_ranges": [
+    [
+     1,
+     325
+    ]
+   ],
+   "instance_id": "7ZL9.A",
+   "n_unobserved": 33,
+   "n_modelled": 398,
+   "n_aligned": 431,
+   "align_coverage_of_modelled": 1.0,
+   "fusion_modelled": 98,
+   "target_modelled": 300,
+   "fusion_disorder": 0.0755,
+   "target_disorder": 0.0769,
+   "linker_positions": [],
+   "tag_positions": [],
+   "topology": "TERMINAL_C",
+   "nonpolymer_entities": [
+    {
+     "id": "OLA",
+     "name": "OLEIC ACID",
+     "mw": 282.461,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "OLC",
+     "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+     "mw": 356.54,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "PEG",
+     "name": "DI(HYDROXYETHYL)ETHER",
+     "mw": 106.12,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "UNX",
+     "name": "UNKNOWN ATOM OR ION",
+     "mw": null,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 2,
+   "collapsed_alternatives": [
+    "7ZLY"
+   ]
+  },
+  {
+   "entity_id": "4Z35_1",
+   "pdb_id": "4Z35",
+   "fusion_partner": "BRIL",
+   "fusion_accession": "P0ABE7",
+   "description": "Lysophosphatidic acid receptor 1,Soluble cytochrome b562",
+   "title": "Crystal Structure of Human Lysophosphatidic Acid Receptor 1 in complex with ONO-9910539",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0ABE7",
+    "Q92633"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q92633",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.9,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 464,
+   "fusion_ranges": [
+    [
+     251,
+     292
+    ],
+    [
+     301,
+     355
+    ]
+   ],
+   "target_ranges": [
+    [
+     20,
+     250
+    ],
+    [
+     357,
+     435
+    ]
+   ],
+   "instance_id": "4Z35.A",
+   "n_unobserved": 82,
+   "n_modelled": 382,
+   "n_aligned": 407,
+   "align_coverage_of_modelled": 0.9921,
+   "fusion_modelled": 90,
+   "target_modelled": 289,
+   "fusion_disorder": 0.0722,
+   "target_disorder": 0.0677,
+   "linker_positions": [
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    356
+   ],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464
+   ],
+   "topology": "INTERNAL_INSERTION",
+   "nonpolymer_entities": [
+    {
+     "id": "ON9",
+     "name": "3-{1-[(2S,3S)-3-(4-acetyl-3,5-dimethoxyphenyl)-2-(2,3-dihydro-1H-inden-2-ylmethyl)-3-hydroxypropyl]-4-(methoxycarbonyl)-1H-pyrrol-3-yl}propanoic acid",
+     "mw": 563.638,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "1WV",
+     "name": "(2S)-2,3-dihydroxypropyl (7Z)-tetradec-7-enoate",
+     "mw": 300.434,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 3,
+   "collapsed_alternatives": [
+    "4Z36",
+    "4Z34"
+   ]
+  },
+  {
+   "entity_id": "4JKV_1",
+   "pdb_id": "4JKV",
+   "fusion_partner": "BRIL",
+   "fusion_accession": "P0ABE7",
+   "description": "Soluble cytochrome b562, Smoothened homolog",
+   "title": "Structure of the human smoothened 7TM receptor in complex with an antitumor agent",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0ABE7",
+    "Q99835"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q99835",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.45,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B"
+   ],
+   "entity_length": 475,
+   "fusion_ranges": [
+    [
+     4,
+     108
+    ]
+   ],
+   "target_ranges": [
+    [
+     110,
+     475
+    ]
+   ],
+   "instance_id": "4JKV.A",
+   "n_unobserved": 21,
+   "n_modelled": 454,
+   "n_aligned": 471,
+   "align_coverage_of_modelled": 0.9934,
+   "fusion_modelled": 105,
+   "target_modelled": 346,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0546,
+   "linker_positions": [
+    109
+   ],
+   "tag_positions": [
+    1,
+    2,
+    3
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "PG4",
+     "name": "TETRAETHYLENE GLYCOL",
+     "mw": 194.226,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "PGE",
+     "name": "TRIETHYLENE GLYCOL",
+     "mw": 150.173,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "PEG",
+     "name": "DI(HYDROXYETHYL)ETHER",
+     "mw": 106.12,
+     "chains": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "id": "OLA",
+     "name": "OLEIC ACID",
+     "mw": 282.461,
+     "chains": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "id": "OLC",
+     "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+     "mw": 356.54,
+     "chains": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "id": "1KS",
+     "name": "4-fluoro-N-methyl-N-{1-[4-(1-methyl-1H-pyrazol-5-yl)phthalazin-1-yl]piperidin-4-yl}-2-(trifluoromethyl)benzamide",
+     "mw": 512.502,
+     "chains": [
+      "A",
+      "B"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 7,
+   "collapsed_alternatives": [
+    "4QIN",
+    "4QIM",
+    "7ZI0",
+    "5L7D",
+    "4O9R",
+    "5L7I"
+   ]
+  },
+  {
+   "entity_id": "7YXA_1",
+   "pdb_id": "7YXA",
+   "fusion_partner": "BRIL",
+   "fusion_accession": "P0ABE7",
+   "description": "Sphingosine 1-phosphate receptor 5,Soluble cytochrome b562",
+   "title": "XFEL crystal structure of the human sphingosine 1 phosphate receptor 5 in complex with ONO-5430608",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0ABE7",
+    "Q9H228"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q9H228",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.2,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B"
+   ],
+   "entity_length": 458,
+   "fusion_ranges": [
+    [
+     251,
+     356
+    ]
+   ],
+   "target_ranges": [
+    [
+     28,
+     250
+    ],
+    [
+     357,
+     437
+    ]
+   ],
+   "instance_id": "7YXA.A",
+   "n_unobserved": 83,
+   "n_modelled": 375,
+   "n_aligned": 410,
+   "align_coverage_of_modelled": 0.992,
+   "fusion_modelled": 87,
+   "target_modelled": 285,
+   "fusion_disorder": 0.1792,
+   "target_disorder": 0.0625,
+   "linker_positions": [],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458
+   ],
+   "topology": "INTERNAL_INSERTION",
+   "nonpolymer_entities": [
+    {
+     "id": "NAG",
+     "name": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+     "mw": 221.208,
+     "chains": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "id": "OLC",
+     "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+     "mw": 356.54,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "OLA",
+     "name": "OLEIC ACID",
+     "mw": 282.461,
+     "chains": [
+      "B"
+     ]
+    },
+    {
+     "id": "B2O",
+     "name": "4-[6-(2-naphthalen-1-ylethoxy)-2,3,4,5-tetrahydro-1H-3-benzazepin-3-ium-3-yl]butanoic acid",
+     "mw": 404.521,
+     "chains": [
+      "A",
+      "B"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "6RZ7_1",
+   "pdb_id": "6RZ7",
+   "fusion_partner": "BRIL",
+   "fusion_accession": "P0ABE7",
+   "description": "Cysteinyl leukotriene receptor 2,Soluble cytochrome b562,Cysteinyl leukotriene receptor 2",
+   "title": "Crystal structure of the human cysteinyl leukotriene receptor 2 in complex with ONO-2570366 (F222 space group)",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0ABE7",
+    "Q9NS75"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q9NS75",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.43,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 405,
+   "fusion_ranges": [
+    [
+     217,
+     322
+    ]
+   ],
+   "target_ranges": [
+    [
+     1,
+     216
+    ],
+    [
+     323,
+     405
+    ]
+   ],
+   "instance_id": "6RZ7.A",
+   "n_unobserved": 45,
+   "n_modelled": 360,
+   "n_aligned": 405,
+   "align_coverage_of_modelled": 1.0,
+   "fusion_modelled": 86,
+   "target_modelled": 274,
+   "fusion_disorder": 0.1887,
+   "target_disorder": 0.0836,
+   "linker_positions": [],
+   "tag_positions": [],
+   "topology": "INTERNAL_INSERTION",
+   "nonpolymer_entities": [
+    {
+     "id": "PGE",
+     "name": "TRIETHYLENE GLYCOL",
+     "mw": 150.173,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "OLA",
+     "name": "OLEIC ACID",
+     "mw": 282.461,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "OLC",
+     "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+     "mw": 356.54,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "CLR",
+     "name": "CHOLESTEROL",
+     "mw": 386.654,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "KNW",
+     "name": "(2~{S})-8-[[4-[4-(2-chloranyl-5-fluoranyl-phenyl)butoxy]phenyl]carbonylamino]-4-(4-oxidanyl-4-oxidanylidene-butyl)-2,3-\ndihydro-1,4-benzoxazine-2-carboxylic acid",
+     "mw": 585.02,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 2,
+   "collapsed_alternatives": [
+    "6RZ8"
+   ]
+  },
+  {
+   "entity_id": "6RZ4_1",
+   "pdb_id": "6RZ4",
+   "fusion_partner": "BRIL",
+   "fusion_accession": "P0ABE7",
+   "description": "Cysteinyl leukotriene receptor 1,Soluble cytochrome b562,Cysteinyl leukotriene receptor 1",
+   "title": "Crystal structure of cysteinyl leukotriene receptor 1 in complex with pranlukast",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0ABE7",
+    "Q9Y271"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q9Y271",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.7,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 423,
+   "fusion_ranges": [
+    [
+     227,
+     331
+    ]
+   ],
+   "target_ranges": [
+    [
+     4,
+     225
+    ],
+    [
+     335,
+     423
+    ]
+   ],
+   "instance_id": "6RZ4.A",
+   "n_unobserved": 28,
+   "n_modelled": 395,
+   "n_aligned": 416,
+   "align_coverage_of_modelled": 0.9949,
+   "fusion_modelled": 105,
+   "target_modelled": 288,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.074,
+   "linker_positions": [
+    226,
+    332,
+    333,
+    334
+   ],
+   "tag_positions": [
+    1,
+    2,
+    3
+   ],
+   "topology": "INTERNAL_INSERTION",
+   "nonpolymer_entities": [
+    {
+     "id": "OLA",
+     "name": "OLEIC ACID",
+     "mw": 282.461,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "OLC",
+     "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+     "mw": 356.54,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "NA",
+     "name": "SODIUM ION",
+     "mw": 22.99,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "KNT",
+     "name": "pranlukast",
+     "mw": 481.503,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "6CM4_1",
+   "pdb_id": "6CM4",
+   "fusion_partner": "T4L",
+   "fusion_accession": "P00720",
+   "description": "D(2) dopamine receptor, endolysin chimera",
+   "title": "Structure of the D2 Dopamine Receptor Bound to the Atypical Antipsychotic Drug Risperidone",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P00720",
+    "P14416"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P14416",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.867,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 430,
+   "fusion_ranges": [
+    [
+     189,
+     349
+    ]
+   ],
+   "target_ranges": [
+    [
+     1,
+     188
+    ],
+    [
+     350,
+     430
+    ]
+   ],
+   "instance_id": "6CM4.A",
+   "n_unobserved": 7,
+   "n_modelled": 423,
+   "n_aligned": 430,
+   "align_coverage_of_modelled": 1.0,
+   "fusion_modelled": 160,
+   "target_modelled": 263,
+   "fusion_disorder": 0.0062,
+   "target_disorder": 0.0223,
+   "linker_positions": [],
+   "tag_positions": [],
+   "topology": "INTERNAL_INSERTION",
+   "nonpolymer_entities": [
+    {
+     "id": "OLA",
+     "name": "OLEIC ACID",
+     "mw": 282.461,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "PEG",
+     "name": "DI(HYDROXYETHYL)ETHER",
+     "mw": 106.12,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "8NU",
+     "name": "3-[2-[4-(6-fluoranyl-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one",
+     "mw": 410.484,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "5ZBQ_1",
+   "pdb_id": "5ZBQ",
+   "fusion_partner": "T4L",
+   "fusion_accession": "P00720",
+   "description": "Neuropeptide Y receptor type 1,T4 Lysozyme",
+   "title": "The Crystal Structure of human neuropeptide Y Y1 receptor with UR-MK299",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P00720",
+    "P25929"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P25929",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.7,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 525,
+   "fusion_ranges": [
+    [
+     365,
+     525
+    ]
+   ],
+   "target_ranges": [
+    [
+     1,
+     357
+    ]
+   ],
+   "instance_id": "5ZBQ.A",
+   "n_unobserved": 62,
+   "n_modelled": 463,
+   "n_aligned": 518,
+   "align_coverage_of_modelled": 1.0,
+   "fusion_modelled": 157,
+   "target_modelled": 306,
+   "fusion_disorder": 0.0248,
+   "target_disorder": 0.1429,
+   "linker_positions": [
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364
+   ],
+   "tag_positions": [],
+   "topology": "TERMINAL_C",
+   "nonpolymer_entities": [
+    {
+     "id": "9AO",
+     "name": "N~2~-(diphenylacetyl)-N-[(4-hydroxyphenyl)methyl]-N~5~-(N'-{[2-(propanoylamino)ethyl]carbamoyl}carbamimidoyl)-D-ornithinamide",
+     "mw": 615.723,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 2,
+   "collapsed_alternatives": [
+    "5ZBH"
+   ]
+  },
+  {
+   "entity_id": "4DJH_1",
+   "pdb_id": "4DJH",
+   "fusion_partner": "T4L",
+   "fusion_accession": "P00720",
+   "description": "Kappa-type opioid receptor, Lysozyme",
+   "title": "Structure of the human kappa opioid receptor in complex with JDTic",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P00720",
+    "P41145"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P41145",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.9,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B"
+   ],
+   "entity_length": 480,
+   "fusion_ranges": [
+    [
+     225,
+     384
+    ]
+   ],
+   "target_ranges": [
+    [
+     6,
+     224
+    ],
+    [
+     385,
+     480
+    ]
+   ],
+   "instance_id": "4DJH.A",
+   "n_unobserved": 33,
+   "n_modelled": 447,
+   "n_aligned": 475,
+   "align_coverage_of_modelled": 1.0,
+   "fusion_modelled": 160,
+   "target_modelled": 287,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0889,
+   "linker_positions": [],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "topology": "INTERNAL_INSERTION",
+   "nonpolymer_entities": [
+    {
+     "id": "PEG",
+     "name": "DI(HYDROXYETHYL)ETHER",
+     "mw": 106.12,
+     "chains": [
+      "B"
+     ]
+    },
+    {
+     "id": "OLC",
+     "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+     "mw": 356.54,
+     "chains": [
+      "B"
+     ]
+    },
+    {
+     "id": "CIT",
+     "name": "CITRIC ACID",
+     "mw": 192.124,
+     "chains": [
+      "A"
+     ]
+    },
+    {
+     "id": "JDC",
+     "name": "(3R)-7-hydroxy-N-{(2S)-1-[(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-yl]-3-methylbutan-2-yl}-1,2,3,4-tetrahydroisoquinoline-3-carboxamide",
+     "mw": 465.628,
+     "chains": [
+      "A",
+      "B"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "3ODU_1",
+   "pdb_id": "3ODU",
+   "fusion_partner": "T4L",
+   "fusion_accession": "P00720",
+   "description": "C-X-C chemokine receptor type 4, Lysozyme Chimera",
+   "title": "The 2.5 A structure of the CXCR4 chemokine receptor in complex with small molecule antagonist IT1t",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P00720",
+    "P61073"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P61073",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.5,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B"
+   ],
+   "entity_length": 502,
+   "fusion_ranges": [
+    [
+     242,
+     401
+    ]
+   ],
+   "target_ranges": [
+    [
+     12,
+     239
+    ],
+    [
+     404,
+     493
+    ]
+   ],
+   "instance_id": "3ODU.A",
+   "n_unobserved": 36,
+   "n_modelled": 466,
+   "n_aligned": 478,
+   "align_coverage_of_modelled": 0.9721,
+   "fusion_modelled": 160,
+   "target_modelled": 293,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0786,
+   "linker_positions": [
+    240,
+    241,
+    402,
+    403
+   ],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502
+   ],
+   "topology": "INTERNAL_INSERTION",
+   "nonpolymer_entities": [
+    {
+     "id": "ITD",
+     "name": "(6,6-dimethyl-5,6-dihydroimidazo[2,1-b][1,3]thiazol-3-yl)methyl N,N'-dicyclohexylimidothiocarbamate",
+     "mw": 406.651,
+     "chains": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "id": "OLC",
+     "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+     "mw": 356.54,
+     "chains": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "id": "OLA",
+     "name": "OLEIC ACID",
+     "mw": 282.461,
+     "chains": [
+      "A",
+      "B"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 6,
+   "collapsed_alternatives": [
+    "3OE0",
+    "3OE8",
+    "3OE9",
+    "4RWS",
+    "3OE6"
+   ]
+  },
+  {
+   "entity_id": "6A73_1",
+   "pdb_id": "6A73",
+   "fusion_partner": "T4L",
+   "fusion_accession": "P00720",
+   "description": "COP9 signalosome complex subunit 2,Endolysin",
+   "title": "Complex structure of CSN2 with IP6",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P00720",
+    "P61201"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P61201",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.447,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B"
+   ],
+   "entity_length": 304,
+   "fusion_ranges": [
+    [
+     136,
+     298
+    ]
+   ],
+   "target_ranges": [
+    [
+     2,
+     135
+    ]
+   ],
+   "instance_id": "6A73.A",
+   "n_unobserved": 14,
+   "n_modelled": 290,
+   "n_aligned": 297,
+   "align_coverage_of_modelled": 1.0,
+   "fusion_modelled": 160,
+   "target_modelled": 130,
+   "fusion_disorder": 0.0184,
+   "target_disorder": 0.0299,
+   "linker_positions": [],
+   "tag_positions": [
+    1,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304
+   ],
+   "topology": "TERMINAL_C",
+   "nonpolymer_entities": [
+    {
+     "id": "SO4",
+     "name": "SULFATE ION",
+     "mw": 96.063,
+     "chains": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "id": "IHP",
+     "name": "INOSITOL HEXAKISPHOSPHATE",
+     "mw": 660.035,
+     "chains": [
+      "A",
+      "B"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "5YQR_1",
+   "pdb_id": "5YQR",
+   "fusion_partner": "T4L",
+   "fusion_accession": "P00720",
+   "description": "Endolysin/Membrane-anchored lipid-binding protein LAM6 fusion protein",
+   "title": "Crystal structure of the PH-like domain of Lam6",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P00720",
+    "Q08001"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q08001",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.402,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 276,
+   "fusion_ranges": [
+    [
+     3,
+     162
+    ]
+   ],
+   "target_ranges": [
+    [
+     165,
+     276
+    ]
+   ],
+   "instance_id": "5YQR.A",
+   "n_unobserved": 8,
+   "n_modelled": 268,
+   "n_aligned": 272,
+   "align_coverage_of_modelled": 0.9888,
+   "fusion_modelled": 157,
+   "target_modelled": 108,
+   "fusion_disorder": 0.0187,
+   "target_disorder": 0.0357,
+   "linker_positions": [
+    163,
+    164
+   ],
+   "tag_positions": [
+    1,
+    2
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "2PE",
+     "name": "NONAETHYLENE GLYCOL",
+     "mw": 414.488,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "6WSK_1",
+   "pdb_id": "6WSK",
+   "fusion_partner": "T4L",
+   "fusion_accession": "P00720",
+   "description": "Endolysin,CB1 cannabinoid receptor-interacting protein 1 fusion",
+   "title": "Crystal Structure of the Cannabinoid Receptor 1 Interacting Protein 1a (CRIP1a)",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P00720",
+    "Q5M7A7"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q5M7A7",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 1.55,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 346,
+   "fusion_ranges": [
+    [
+     19,
+     179
+    ]
+   ],
+   "target_ranges": [
+    [
+     183,
+     346
+    ]
+   ],
+   "instance_id": "6WSK.A",
+   "n_unobserved": 59,
+   "n_modelled": 287,
+   "n_aligned": 325,
+   "align_coverage_of_modelled": 0.9861,
+   "fusion_modelled": 134,
+   "target_modelled": 149,
+   "fusion_disorder": 0.1677,
+   "target_disorder": 0.0915,
+   "linker_positions": [
+    180,
+    181,
+    182
+   ],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "6BG3_1",
+   "pdb_id": "6BG3",
+   "fusion_partner": "T4L",
+   "fusion_accession": "P00720",
+   "description": "Endolysin, DCN1-like protein 1 chimera",
+   "title": "Structure of (3S,4S)-1-benzyl-4-(3-(3-(trifluoromethyl)phenyl)ureido)piperidin-3-yl acetate bound to DCN1",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P00720",
+    "Q96GG9"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q96GG9",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 1.05,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 384,
+   "fusion_ranges": [
+    [
+     23,
+     186
+    ]
+   ],
+   "target_ranges": [
+    [
+     187,
+     384
+    ]
+   ],
+   "instance_id": "6BG3.A",
+   "n_unobserved": 18,
+   "n_modelled": 366,
+   "n_aligned": 362,
+   "align_coverage_of_modelled": 0.9645,
+   "fusion_modelled": 164,
+   "target_modelled": 189,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0455,
+   "linker_positions": [],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "DOJ",
+     "name": "N-{(3S,4S)-1-benzyl-3-[(1S)-1-hydroxyethoxy]piperidin-4-yl}-N'-[3-(trifluoromethyl)phenyl]urea",
+     "mw": 437.455,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 5,
+   "collapsed_alternatives": [
+    "6BG5",
+    "5V86",
+    "5V88",
+    "5V83"
+   ]
+  },
+  {
+   "entity_id": "5AZA_1",
+   "pdb_id": "5AZA",
+   "fusion_partner": "MBP",
+   "fusion_accession": "P0AEX9",
+   "description": "Maltose-binding periplasmic protein,Oligosaccharyl transferase stt3 subunit related protein",
+   "title": "Crystal structure of MBP-sAglB fusion protein with a 20-residue spacer in the connector helix",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "I6V0B8",
+    "P0AEX9"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "I6V0B8",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.08,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 872,
+   "fusion_ranges": [
+    [
+     2,
+     369
+    ]
+   ],
+   "target_ranges": [
+    [
+     390,
+     866
+    ]
+   ],
+   "instance_id": "5AZA.A",
+   "n_unobserved": 36,
+   "n_modelled": 836,
+   "n_aligned": 845,
+   "align_coverage_of_modelled": 0.9761,
+   "fusion_modelled": 368,
+   "target_modelled": 448,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0608,
+   "linker_positions": [
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389
+   ],
+   "tag_positions": [
+    1,
+    867,
+    868,
+    869,
+    870,
+    871,
+    872
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "CA",
+     "name": "CALCIUM ION",
+     "mw": 40.078,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "7UAJ_1",
+   "pdb_id": "7UAJ",
+   "fusion_partner": "MBP",
+   "fusion_accession": "P0AEX9",
+   "description": "Maltose/maltodextrin-binding periplasmic protein,Protein E6",
+   "title": "Crystal structure of apo HPV16 E6",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P03126",
+    "P0AEX9"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P03126",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 3.25,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "entity_length": 537,
+   "fusion_ranges": [
+    [
+     10,
+     375
+    ]
+   ],
+   "target_ranges": [
+    [
+     387,
+     537
+    ]
+   ],
+   "instance_id": "7UAJ.A",
+   "n_unobserved": 26,
+   "n_modelled": 511,
+   "n_aligned": 517,
+   "align_coverage_of_modelled": 0.9863,
+   "fusion_modelled": 366,
+   "target_modelled": 138,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0861,
+   "linker_positions": [
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386
+   ],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "ZN",
+     "name": "ZINC ION",
+     "mw": 65.409,
+     "chains": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "5K94_1",
+   "pdb_id": "5K94",
+   "fusion_partner": "MBP",
+   "fusion_accession": "P0AEX9",
+   "description": "Maltose-binding periplasmic protein,Protein translocase subunit SecA,Maltose-binding periplasmic protein",
+   "title": "Deletion-Insertion Chimera of MBP with the Preprotein Cross-Linking Domain of the SecA ATPase",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0AEX9",
+    "P10408"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P10408",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.1,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B"
+   ],
+   "entity_length": 508,
+   "fusion_ranges": [
+    [
+     3,
+     173
+    ],
+    [
+     314,
+     508
+    ]
+   ],
+   "target_ranges": [
+    [
+     174,
+     313
+    ]
+   ],
+   "instance_id": "5K94.A",
+   "n_unobserved": 2,
+   "n_modelled": 506,
+   "n_aligned": 506,
+   "align_coverage_of_modelled": 1.0,
+   "fusion_modelled": 366,
+   "target_modelled": 140,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0,
+   "linker_positions": [],
+   "tag_positions": [
+    1,
+    2
+   ],
+   "topology": "COMPLEX",
+   "nonpolymer_entities": [
+    {
+     "id": "B3P",
+     "name": "2-[3-(2-HYDROXY-1,1-DIHYDROXYMETHYL-ETHYLAMINO)-PROPYLAMINO]-2-HYDROXYMETHYL-PROPANE-1,3-DIOL",
+     "mw": 282.334,
+     "chains": [
+      "A",
+      "B"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "3OAI_1",
+   "pdb_id": "3OAI",
+   "fusion_partner": "MBP",
+   "fusion_accession": "P0AEX9",
+   "description": "Maltose-binding periplasmic protein, Myelin protein P0",
+   "title": "Crystal structure of the extra-cellular domain of human myelin protein zero",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0AEX9",
+    "P25189"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P25189",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.1,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B"
+   ],
+   "entity_length": 507,
+   "fusion_ranges": [
+    [
+     1,
+     366
+    ]
+   ],
+   "target_ranges": [
+    [
+     387,
+     507
+    ]
+   ],
+   "instance_id": "3OAI.A",
+   "n_unobserved": 19,
+   "n_modelled": 488,
+   "n_aligned": 487,
+   "align_coverage_of_modelled": 0.998,
+   "fusion_modelled": 366,
+   "target_modelled": 121,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0,
+   "linker_positions": [
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386
+   ],
+   "tag_positions": [],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "5H7Q_1",
+   "pdb_id": "5H7Q",
+   "fusion_partner": "MBP",
+   "fusion_accession": "P0AEX9",
+   "description": "MNDA PYD domain with MBP tag",
+   "title": "Crystal structure of human MNDA PYD domain with MBP tag",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0AEX9",
+    "P41218"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P41218",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 1.451,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 479,
+   "fusion_ranges": [
+    [
+     2,
+     371
+    ]
+   ],
+   "target_ranges": [
+    [
+     377,
+     471
+    ]
+   ],
+   "instance_id": "5H7Q.A",
+   "n_unobserved": 10,
+   "n_modelled": 469,
+   "n_aligned": 465,
+   "align_coverage_of_modelled": 0.9893,
+   "fusion_modelled": 370,
+   "target_modelled": 94,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0105,
+   "linker_positions": [
+    372,
+    373,
+    374,
+    375,
+    376
+   ],
+   "tag_positions": [
+    1,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "ACT",
+     "name": "ACETATE ION",
+     "mw": 59.044,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 2,
+   "collapsed_alternatives": [
+    "5WPZ"
+   ]
+  },
+  {
+   "entity_id": "3N94_1",
+   "pdb_id": "3N94",
+   "fusion_partner": "MBP",
+   "fusion_accession": "P0AEX9",
+   "description": "Fusion protein of Maltose-binding periplasmic protein and pituitary adenylate cyclase 1 Receptor-short",
+   "title": "Crystal structure of human pituitary adenylate cyclase 1 Receptor-short N-terminal extracellular domain",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0AEX9",
+    "P41586"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "P41586",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 1.8,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 475,
+   "fusion_ranges": [
+    [
+     2,
+     368
+    ]
+   ],
+   "target_ranges": [
+    [
+     376,
+     469
+    ]
+   ],
+   "instance_id": "3N94.A",
+   "n_unobserved": 9,
+   "n_modelled": 466,
+   "n_aligned": 461,
+   "align_coverage_of_modelled": 0.985,
+   "fusion_modelled": 365,
+   "target_modelled": 94,
+   "fusion_disorder": 0.0054,
+   "target_disorder": 0.0,
+   "linker_positions": [
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375
+   ],
+   "tag_positions": [
+    1,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "SO4",
+     "name": "SULFATE ION",
+     "mw": 96.063,
+     "chains": [
+      "A"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "5JQE_1",
+   "pdb_id": "5JQE",
+   "fusion_partner": "MBP",
+   "fusion_accession": "P0AEX9",
+   "description": "Sugar ABC transporter substrate-binding protein,Caspase-8 chimera",
+   "title": "Crystal structure of caspase8 tDED",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0AEX9",
+    "Q14790"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q14790",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 3.157,
+   "representative_chain": "A",
+   "all_chains": [
+    "A"
+   ],
+   "entity_length": 565,
+   "fusion_ranges": [
+    [
+     13,
+     13
+    ],
+    [
+     15,
+     373
+    ],
+    [
+     376,
+     378
+    ]
+   ],
+   "target_ranges": [
+    [
+     380,
+     565
+    ]
+   ],
+   "instance_id": "5JQE.A",
+   "n_unobserved": 21,
+   "n_modelled": 544,
+   "n_aligned": 549,
+   "align_coverage_of_modelled": 0.9945,
+   "fusion_modelled": 359,
+   "target_modelled": 182,
+   "fusion_disorder": 0.011,
+   "target_disorder": 0.0215,
+   "linker_positions": [
+    14,
+    374,
+    375,
+    379
+   ],
+   "tag_positions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [],
+   "eligible": true,
+   "n_structures_for_this_target": 1,
+   "collapsed_alternatives": []
+  },
+  {
+   "entity_id": "5GPP_1",
+   "pdb_id": "5GPP",
+   "fusion_partner": "MBP",
+   "fusion_accession": "P0AEX9",
+   "description": "Maltose-binding periplasmic protein,Apoptosis-associated speck-like protein containing a CARD",
+   "title": "Crystal structure of zebrafish ASC PYD domain",
+   "exclusions": [],
+   "uniprot_accessions": [
+    "P0AEX9",
+    "Q9I9N6"
+   ],
+   "provenance": [
+    "SIFTS"
+   ],
+   "target_accession": "Q9I9N6",
+   "method": "X-RAY DIFFRACTION",
+   "resolution": 2.0,
+   "representative_chain": "A",
+   "all_chains": [
+    "A",
+    "B"
+   ],
+   "entity_length": 468,
+   "fusion_ranges": [
+    [
+     2,
+     359
+    ]
+   ],
+   "target_ranges": [
+    [
+     375,
+     460
+    ]
+   ],
+   "instance_id": "5GPP.A",
+   "n_unobserved": 7,
+   "n_modelled": 461,
+   "n_aligned": 444,
+   "align_coverage_of_modelled": 0.9631,
+   "fusion_modelled": 358,
+   "target_modelled": 86,
+   "fusion_disorder": 0.0,
+   "target_disorder": 0.0,
+   "linker_positions": [
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374
+   ],
+   "tag_positions": [
+    1,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468
+   ],
+   "topology": "TERMINAL_N",
+   "nonpolymer_entities": [
+    {
+     "id": "ACT",
+     "name": "ACETATE ION",
+     "mw": 59.044,
+     "chains": [
+      "A",
+      "B"
+     ]
+    },
+    {
+     "id": "SO4",
+     "name": "SULFATE ION",
+     "mw": 96.063,
+     "chains": [
+      "A",
+      "B"
+     ]
+    }
+   ],
+   "eligible": true,
+   "n_structures_for_this_target": 2,
+   "collapsed_alternatives": [
+    "5GPQ"
+   ]
+  }
+ ]
+}

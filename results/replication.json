@@ -1,0 +1,234 @@
+{
+ "A_p2rank_rank-1": {
+  "dev": [
+   11,
+   24
+  ],
+  "con": [
+   66,
+   127
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_p2rank_top-3": {
+  "dev": [
+   17,
+   24
+  ],
+  "con": [
+   89,
+   127
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_p2rank_top-5": {
+  "dev": [
+   20,
+   24
+  ],
+  "con": [
+   104,
+   127
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_fpocket_rank-1": {
+  "dev": [
+   15,
+   24
+  ],
+  "con": [
+   60,
+   128
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_fpocket_top-3": {
+  "dev": [
+   20,
+   24
+  ],
+  "con": [
+   91,
+   128
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_fpocket_top-5": {
+  "dev": [
+   22,
+   24
+  ],
+  "con": [
+   105,
+   128
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_p2rank_BRIL": {
+  "dev": [
+   0,
+   8
+  ],
+  "con": [
+   2,
+   28
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_p2rank_T4L": {
+  "dev": [
+   3,
+   8
+  ],
+  "con": [
+   7,
+   38
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_p2rank_MBP": {
+  "dev": [
+   8,
+   8
+  ],
+  "con": [
+   57,
+   61
+  ],
+  "verdict": "REPLICATED"
+ },
+ "A_fpocket_BRIL": {
+  "dev": [
+   5,
+   8
+  ],
+  "con": [
+   3,
+   29
+  ],
+  "verdict": "NOT REPLICATED"
+ },
+ "A_fpocket_T4L": {
+  "dev": [
+   3,
+   8
+  ],
+  "con": [
+   5,
+   38
+  ],
+  "verdict": "PARTIALLY REPLICATED"
+ },
+ "A_fpocket_MBP": {
+  "dev": [
+   7,
+   8
+  ],
+  "con": [
+   52,
+   61
+  ],
+  "verdict": "REPLICATED"
+ },
+ "B_p2rank": {
+  "dev": [
+   5,
+   18
+  ],
+  "con": [
+   42,
+   103
+  ],
+  "dev_median": 0.0,
+  "con_median": 0,
+  "con_ci": [
+   0.3106796116504854,
+   0.5048543689320388
+  ],
+  "verdict": "REPLICATED"
+ },
+ "B_p2rank_BRIL": {
+  "dev": [
+   0,
+   8
+  ],
+  "con": [
+   2,
+   28
+  ],
+  "verdict": "REPLICATED"
+ },
+ "B_p2rank_T4L": {
+  "dev": [
+   2,
+   7
+  ],
+  "con": [
+   6,
+   37
+  ],
+  "verdict": "REPLICATED"
+ },
+ "B_p2rank_MBP": {
+  "dev": [
+   3,
+   3
+  ],
+  "con": [
+   34,
+   38
+  ],
+  "verdict": "REPLICATED"
+ },
+ "B_fpocket": {
+  "dev": [
+   16,
+   24
+  ],
+  "con": [
+   65,
+   128
+  ],
+  "dev_median": 1.0,
+  "con_median": 1.0,
+  "con_ci": [
+   0.421875,
+   0.59375
+  ],
+  "verdict": "REPLICATED"
+ },
+ "B_fpocket_BRIL": {
+  "dev": [
+   5,
+   8
+  ],
+  "con": [
+   4,
+   29
+  ],
+  "verdict": "NOT REPLICATED"
+ },
+ "B_fpocket_T4L": {
+  "dev": [
+   3,
+   8
+  ],
+  "con": [
+   8,
+   38
+  ],
+  "verdict": "REPLICATED"
+ },
+ "B_fpocket_MBP": {
+  "dev": [
+   8,
+   8
+  ],
+  "con": [
+   53,
+   61
+  ],
+  "verdict": "REPLICATED"
+ }
+}

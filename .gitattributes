@@ -1,0 +1,4 @@
+# Deliver every file byte-for-byte as committed, on every platform.
+# The freeze manifest hashes exact bytes; line-ending translation would break sha256
+# verification for 128 text files. Do not enable autocrlf for this repository.
+* -text

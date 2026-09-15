@@ -1,0 +1,31 @@
+{
+ "contact_A": 4.0,
+ "dominance": 0.7,
+ "rows": [
+  {
+   "dataset": "JOINED",
+   "role": "DEVELOPMENT/VALIDATION",
+   "pdb_id": "1DUG",
+   "benchmark_chain": null,
+   "subset": "dt198",
+   "entity_id": "1DUG_1",
+   "entity_chains": "A,B",
+   "benchmarked_chain_is_chimeric": null,
+   "fusion_partner": "GST-Sj26",
+   "fusion_accession": "P08515",
+   "target_accession": "P02679",
+   "topology": "TERMINAL_N",
+   "label_source": "MLIG",
+   "labelled_ligands": "GSH",
+   "n_labelled_ligand_instances": 2,
+   "site_classes": "FUSION_PARTNER_SITE",
+   "n_on_target": 0,
+   "n_on_fusion": 2,
+   "n_on_interface": 0,
+   "n_ambiguous": 0,
+   "CASE_B_fusion_is_ground_truth": true,
+   "CASE_A_unlabelled_fusion_decoy": false,
+   "ligand_detail": "GSH/A1239:FUSION_PARTNER_SITE(T0/F78);GSH/B1587:FUSION_PARTNER_SITE(T0/F76)"
+  }
+ ]
+}

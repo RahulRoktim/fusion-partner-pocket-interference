@@ -1,0 +1,83 @@
+========================================================================================================
+E9 DISORDER SENSITIVITY — PRIMARY 0.20 vs SENSITIVITY 0.35
+Primary values are the manuscript values and are unchanged. 0.35 is sensitivity only.
+========================================================================================================
+
+cohort: primary n = 128 structures / 123 clusters   |   sensitivity n = 141 / 136 clusters
+
+AIM A — RANK-1 / TOP-3 / TOP-5 EXPOSURE
+detector  stratum                                  primary 0.20           sensitivity 0.35    delta
+p2rank    ALL  rank-1                 66/127= 52.0% [43.3-60.5]  73/140= 52.1% [43.9-60.2]    +0.2
+p2rank    ALL  top-3                  89/127= 70.1% [61.6-77.4]  99/140= 70.7% [62.7-77.6]    +0.6
+p2rank    ALL  top-5                 104/127= 81.9% [74.3-87.6] 112/140= 80.0% [72.6-85.8]    -1.9
+p2rank    BRIL  rank-1                   2/28=  7.1% [2.0-22.6]     3/34=  8.8% [3.0-23.0]    +1.7
+p2rank    T4L  rank-1                    7/38= 18.4% [9.2-33.4]     7/39= 17.9% [9.0-32.7]    -0.5
+p2rank    MBP  rank-1                  57/61= 93.4% [84.3-97.4]   63/67= 94.0% [85.6-97.7]    +0.6
+p2rank    ALL  partner-standardised           39.7% [34.4-45.6]          40.3% [34.9-46.0]    +0.6
+fpocket   ALL  rank-1                 60/128= 46.9% [38.4-55.5]  69/141= 48.9% [40.8-57.1]    +2.1
+fpocket   ALL  top-3                  91/128= 71.1% [62.7-78.2] 101/141= 71.6% [63.7-78.4]    +0.5
+fpocket   ALL  top-5                 105/128= 82.0% [74.5-87.7] 117/141= 83.0% [75.9-88.3]    +0.9
+fpocket   BRIL  rank-1                   3/29= 10.3% [3.6-26.4]     6/35= 17.1% [8.1-32.7]    +6.8
+fpocket   T4L  rank-1                    5/38= 13.2% [5.8-27.3]     5/39= 12.8% [5.6-26.7]    -0.3
+fpocket   MBP  rank-1                  52/61= 85.2% [74.3-92.0]   58/67= 86.6% [76.4-92.8]    +1.3
+fpocket   ALL  partner-standardised           36.2% [30.5-42.4]          38.8% [33.0-45.4]    +2.6
+
+AIM B — TARGET-CAVITY DISPLACEMENT (structure-level)
+
+  P2Rank
+    evaluable                primary      103   sensitivity      114
+    detector abstentions     primary       22   sensitivity       24
+    unmatched                primary        3   sensitivity        3
+    median displacement      primary        0   sensitivity      0.0
+    mean displacement        primary     0.78   sensitivity     0.82
+    negative displacement    primary        0   sensitivity        0
+    displacement >0          primary 42/103= 40.8% [31.8-50.4]   sensitivity 47/114= 41.2% [32.6-50.4]   delta +0.5
+    displacement >=2         primary 19/103= 18.4% [12.1-27.0]   sensitivity 21/114= 18.4% [12.4-26.5]   delta -0.0
+    displacement >=5         primary 2/103=  1.9% [0.5-6.8]   sensitivity 3/114=  2.6% [0.9-7.5]   delta +0.7
+    partner-stratified, displacement > 0:
+      BRIL  primary 2/28=  7.1%   sensitivity 3/34=  8.8%   delta +1.7
+      T4L   primary 6/37= 16.2%   sensitivity 6/38= 15.8%   delta -0.4
+      MBP   primary 34/38= 89.5%   sensitivity 38/42= 90.5%   delta +1.0
+
+  fpocket
+    evaluable                primary      128   sensitivity      141
+    detector abstentions     primary        0   sensitivity        0
+    unmatched                primary        0   sensitivity        0
+    median displacement      primary      1.0   sensitivity        1
+    mean displacement        primary     4.06   sensitivity     4.45
+    negative displacement    primary        0   sensitivity        0
+    displacement >0          primary 65/128= 50.8% [42.2-59.3]   sensitivity 76/141= 53.9% [45.7-61.9]   delta +3.1
+    displacement >=2         primary 51/128= 39.8% [31.8-48.5]   sensitivity 57/141= 40.4% [32.7-48.7]   delta +0.6
+    displacement >=5         primary 34/128= 26.6% [19.7-34.8]   sensitivity 39/141= 27.7% [20.9-35.6]   delta +1.1
+    partner-stratified, displacement > 0:
+      BRIL  primary 4/29= 13.8%   sensitivity 8/35= 22.9%   delta +9.1
+      T4L   primary 8/38= 21.1%   sensitivity 9/39= 23.1%   delta +2.0
+      MBP   primary 53/61= 86.9%   sensitivity 59/67= 88.1%   delta +1.2
+
+AIM C — BIOLOGICAL REFERENCE SITE (descriptive; secondary status unchanged)
+  coverage primary 60/128 = 46.9%   sensitivity 62/141 = 44.0%   (both BELOW the 60% promotion rule -> remains SECONDARY)
+  P2Rank   outranked by a fusion pocket: primary 9/58 = 15.5%   sensitivity 10/60 = 16.7%
+           top-1 recovery: primary 81.0%   sensitivity 80.0%
+  fpocket  outranked by a fusion pocket: primary 27/60 = 45.0%   sensitivity 29/62 = 46.8%
+           top-1 recovery: primary 40.0%   sensitivity 38.7%
+
+NEWLY RUN STRUCTURES (descriptive)
+  pdb    admission        ptnr  topology           method   res tgt_len fus_len tgt_dis fus_dis
+  3L2J   NEW_UNIT         MBP   TERMINAL_N         X-ray   3.24     112     364   0.296   0.000
+  4KEG   NEW_UNIT         MBP   TERMINAL_N         X-ray   2.50     165     361   0.229   0.000
+  4O2X   NEW_UNIT         MBP   TERMINAL_N         X-ray   2.70      92     363   0.246   0.008
+  4R0Y   NEW_UNIT         MBP   TERMINAL_N         X-ray   2.00     106     361   0.221   0.000
+  5UEN   REPRESENTATIVE_U BRIL  INTERNAL_INSERTION X-ray   3.20     292      78   0.007   0.257
+  6A9J   NEW_UNIT         T4L   TERMINAL_N         X-ray   2.70     173     160   0.214   0.006
+  6C1R   REPRESENTATIVE_U BRIL  TERMINAL_N         X-ray   2.20     290      81   0.040   0.236
+  6OS2   REPRESENTATIVE_U BRIL  INTERNAL_INSERTION X-ray   2.70     305      75   0.041   0.242
+  7E29   NEW_UNIT         MBP   TERMINAL_N         X-ray   2.30     124     366   0.303   0.000
+  8JH7   NEW_UNIT         BRIL  INTERNAL_INSERTION cryoEM  3.20     326      92   0.324   0.124
+  8JHC   NEW_UNIT         BRIL  INTERNAL_INSERTION cryoEM  3.30     324      92   0.329   0.124
+  8JYX   NEW_UNIT         MBP   TERMINAL_N         X-ray   2.35     191     366   0.257   0.000
+  8YNT   NEW_UNIT         BRIL  INTERNAL_INSERTION cryoEM  3.43     271      90   0.296   0.000
+  9JG0   NEW_UNIT         BRIL  INTERNAL_INSERTION cryoEM  2.91     297      90   0.240   0.143
+  9UVT   NEW_UNIT         BRIL  INTERNAL_INSERTION cryoEM  3.29     246      89   0.341   0.160
+  9UVV   NEW_UNIT         BRIL  INTERNAL_INSERTION cryoEM  3.02     266      93   0.225   0.123
+  by partner: {'MBP': 6, 'BRIL': 9, 'T4L': 1}
+  by admission: {'NEW_UNIT': 13, 'REPRESENTATIVE_UPGRADE': 3}

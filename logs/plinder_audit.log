@@ -1,0 +1,75 @@
+  BRIL/cyt-b562 (P0ABE7): 653 entities with this accession
+      -> 522 chimeric entities
+  T4L (P00720): 781 entities with this accession
+      -> 154 chimeric entities
+  MBP (P0AEX9): 537 entities with this accession
+      -> 375 chimeric entities
+  rubredoxin (P00268): 45 entities with this accession
+      -> 21 chimeric entities
+  thioredoxin (P0AA25): 78 entities with this accession
+      -> 10 chimeric entities
+  GST-Sj26 (P08515): 69 entities with this accession
+      -> 46 chimeric entities
+  flavodoxin (P0ABY4): 2 entities with this accession
+      -> 0 chimeric entities
+  GFP (P42212): 662 entities with this accession
+      -> 217 chimeric entities
+  ubiquitin (P0CG48): 379 entities with this accession
+      -> 4 chimeric entities
+  SUMO/Smt3 (Q12306): 103 entities with this accession
+      -> 83 chimeric entities
+  SUMO1 (P63165): 69 entities with this accession
+      -> 2 chimeric entities
+  protein-G B1 (P06654): 54 entities with this accession
+      -> 14 chimeric entities
+    15/455
+    30/455
+    45/455
+    60/455
+    75/455
+    90/455
+    105/455
+    120/455
+    135/455
+    150/455
+    165/455
+    180/455
+    195/455
+    210/455
+    225/455
+    240/455
+    255/455
+    270/455
+    285/455
+    300/455
+    315/455
+    330/455
+    345/455
+    360/455
+    375/455
+    390/455
+    405/455
+    420/455
+    435/455
+    450/455
+building the recognised-partner chimera index from RCSB/SIFTS ...
+known chimeric PDB entries (recognised partners): 1405
+PLINDER 2024-06/v2: 409726 systems, 107963 entries
+  split sizes: {'train': 309140, 'removed': 98718, 'test': 1036, 'val': 832}
+
+PLINDER systems whose PDB ENTRY contains a recognised fusion construct: 1894
+  distinct entries: 633
+  by split (systems): {'train': 1700, 'removed': 193, 'val': 1}
+  by split (entries): {'removed': 69, 'train': 573, 'val': 1}
+
+  of these, systems whose RECEPTOR chain is itself the chimeric chain: 1556
+    by split: Counter({'train': 1385, 'removed': 170, 'val': 1})
+    distinct entries: 512
+    partners: Counter({'BRIL/cyt-b562': 645, 'MBP': 496, 'T4L': 209, 'GFP': 105, 'SUMO/Smt3': 31, 'GST-Sj26': 22, 'rubredoxin': 16, 'thioredoxin': 14, 'BRIL/cyt-b562,rubredoxin': 12, 'BRIL/cyt-b562,GFP': 3, 'BRIL/cyt-b562,T4L': 2, 'ubiquitin': 1})
+
+  resolving ligand location for 1386 systems in train/val/test ...
+
+  ligand-site location for chimeric-receptor systems in train/val/test:
+    train  n=1385  {'FUSION': 342, 'TARGET': 939, 'NOT_ON_CHIMERIC_ENTITY': 40, 'INTERFACE;TARGET': 6, 'unresolved': 46, 'FUSION;TARGET': 3, 'INTERFACE': 7, 'FUSION;INTERFACE;TARGET': 1, 'FUSION;INTERFACE': 1}
+    val    n=   1  {'TARGET': 1}
+    test   n=   0  {}
