@@ -59,7 +59,7 @@ this public release:
 |---|---|
 | `v1.0-paper-analysis-freeze` | Publication analysis freeze |
 | `v1.1-paper-final-freeze` | Final scientific state, after the last pre-specified sensitivity. `environment/FINAL_FREEZE_v1.1.json` records the SHA-256 of all 224 tracked files at that point |
-| `v1.0.0-submission` *(to be created)* | This public release. Adds packaging, licensing and manuscript files only; changes no scientific result |
+| `v1.0.0-submission` | This public release, at commit `9e1fc0b`. Adds packaging, licensing and manuscript files only; changes no scientific result |
 
 **No scientific result has changed since `v1.1-paper-final-freeze`.** Everything added after it is
 manuscript text, packaging and documentation.
@@ -94,7 +94,7 @@ Every headline value in the manuscript is derived from files included here. You 
 run P2Rank or fpocket to check them.
 
 ```bash
-git clone <REPOSITORY_URL> && cd fusion-tag-hazard
+git clone https://github.com/RahulRoktim/fusion-partner-pocket-interference && cd fusion-tag-hazard
 python -m pip install numpy scipy statsmodels matplotlib gemmi
 python scripts/16_confirmatory_analysis.py      # rebuilds the confirmatory analysis from
                                                 # results/confirmatory/primary/pockets_classified.json

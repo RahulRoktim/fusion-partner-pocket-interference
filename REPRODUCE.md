@@ -24,7 +24,7 @@ a version, a hash, a runtime — that value is given so you can confirm you obta
 ## A. Verify the reported numbers without running detectors
 
 ```bash
-git clone <REPOSITORY_URL> fusion-tag-hazard
+git clone https://github.com/RahulRoktim/fusion-partner-pocket-interference fusion-tag-hazard
 cd fusion-tag-hazard
 python -m pip install "numpy==2.5.2" "scipy==1.18.1" "statsmodels==0.15.0" \
                       "matplotlib==3.11.1" "gemmi==0.7.5"

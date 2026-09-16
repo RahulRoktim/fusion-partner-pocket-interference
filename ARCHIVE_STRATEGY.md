@@ -1,18 +1,25 @@
 # Release, archive and preprint strategy
 
-**Recommendation only. Nothing has been published, released, archived or submitted.** Each step
-below is a separate decision for the author, and the order matters because the identifiers created
-at each step are referenced by the next.
+**Status: Step 1 is complete. Steps 2-4 are not.** The public repository exists and is tagged; no
+GitHub Release has been published, nothing has been archived, no preprint has been posted and nothing
+has been submitted. Each remaining step below is a separate decision for the author, and the order
+matters because the identifiers created at each step are referenced by the next.
+
+> **Ordering warning for step 2.** Zenodo's GitHub integration only captures releases published
+> *after* the integration has been switched on for the repository. The `v1.0.0-submission` tag has
+> been pushed but **deliberately not published as a GitHub Release**, so that the author can enable
+> the Zenodo-GitHub integration first and have the release captured. Publishing the Release before
+> enabling the integration would leave Zenodo with nothing to capture.
 
 ---
 
 ## Recommended order
 
-### Step 1 — Public GitHub repository
+### Step 1 — Public GitHub repository — **DONE**
 
 | | |
 |---|---|
-| **What becomes public** | The assembled package: 234 files, ≈ 112 MB. Code (MIT), derived data, tables, figures and documentation (CC BY 4.0). No atomic coordinates, no detector distributions, no third-party benchmark files |
+| **What becomes public** | The assembled package: 240 tracked files, ≈ 112 MB. Code (MIT), derived data, tables, figures and documentation (CC BY 4.0). No atomic coordinates, no detector distributions, no third-party benchmark files |
 | **Prerequisite** | The QA in `RELEASE_QA.md` passes, and the author has reviewed the two items it flags |
 | **Tag to create** | `v1.0.0-submission`, created **only after** the repository content is final |
 | **What it does not have yet** | A DOI. GitHub URLs are mutable and are not citable identifiers |
@@ -46,7 +53,7 @@ without registration or restrictive licence terms.
 
 | | |
 |---|---|
-| **Prerequisite** | Steps 1 and 2 complete, so that `[REPOSITORY URL — PLACEHOLDER]` and `[ARCHIVE DOI — PLACEHOLDER]` can be replaced with real values in the manuscript **before** the files are uploaded |
+| **Prerequisite** | Steps 1 and 2 complete. The repository URL has been substituted; `[ARCHIVE DOI — PLACEHOLDER]` still has to be replaced with a real value in the manuscript **before** the files are uploaded |
 | **Files** | `manuscript/submission/` — manuscript DOCX and PDF, Additional file 1, six figure files in PNG and vector PDF, cover letter, metadata sheet |
 | **Not yet done** | Author instructions must be re-read on the journal's own site; the accessible mirror was used for this package because the Springer-hosted pages redirect to an authenticated endpoint |
 
@@ -71,7 +78,7 @@ GitHub repo  ──tag v1.0.0-submission──►  Zenodo concept DOI   (always 
 |---|---|---|
 | `v1.0-paper-analysis-freeze` | **Exists.** Publication analysis freeze | — |
 | `v1.1-paper-final-freeze` | **Exists.** Final scientific state | — |
-| `v1.0.0-submission` | Public release: packaging, licensing and manuscript only | After `RELEASE_QA.md` passes and the author has resolved its two flagged items |
+| `v1.0.0-submission` | **Exists.** Public release: packaging, licensing and manuscript only | Created and pushed at commit `9e1fc0b` |
 
 The scientific tags use the project's internal `v1.x-<phase>` scheme; the public release uses
 semantic versioning because that is what Zenodo and package tooling expect. Keeping both is

@@ -13,7 +13,7 @@ authors:
     orcid: "https://orcid.org/0009-0003-6518-0495"
     affiliation: "Department of Pharmacy, Daffodil International University, Dhaka, Bangladesh"
     email: "roktim2311091058@diu.edu.bd"
-repository-code: "REPOSITORY_URL_PLACEHOLDER"
+repository-code: "https://github.com/RahulRoktim/fusion-partner-pocket-interference"
 license: MIT
 keywords:
   - ligand-binding-site prediction
@@ -25,5 +25,5 @@ keywords:
   - fpocket
   - structure provenance
   - reproducible research
-version: "VERSION_PLACEHOLDER"
-date-released: "DATE_PLACEHOLDER"
+version: "v1.0.0-submission"
+date-released: "2026-09-16"
