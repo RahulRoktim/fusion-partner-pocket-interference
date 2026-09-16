@@ -53,7 +53,7 @@ without registration or restrictive licence terms.
 
 | | |
 |---|---|
-| **Prerequisite** | Steps 1 and 2 complete. The repository URL has been substituted; `[ARCHIVE DOI — PLACEHOLDER]` still has to be replaced with a real value in the manuscript **before** the files are uploaded |
+| **Prerequisite** | Steps 1 and 2 complete. The repository URL has been substituted; the manuscript's archive-DOI placeholder still has to be replaced with the real Zenodo version DOI **before** the files are uploaded. No DOI is recorded anywhere in this package, and none is invented: `CITATION.cff` deliberately carries no DOI field until Zenodo mints one |
 | **Files** | `manuscript/submission/` — manuscript DOCX and PDF, Additional file 1, six figure files in PNG and vector PDF, cover letter, metadata sheet |
 | **Not yet done** | Author instructions must be re-read on the journal's own site; the accessible mirror was used for this package because the Springer-hosted pages redirect to an authenticated endpoint |
 
