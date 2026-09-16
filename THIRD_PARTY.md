@@ -52,18 +52,31 @@ file. `scripts/23_dataset_membership.py` consumes them from `dataset_audit/membe
 
 | Resource | Version | Source | Licence | SHA-256 (first 16 hex) |
 |---|---|---|---|---|
-| CHEN11 membership (`chen11.ds`) | p2rank-datasets, master, accessed 2026-09-15 | `https://github.com/rdk/p2rank-datasets` | *unverified — see note* | `91caf227eb213f5a` |
-| JOINED (`joined.ds`, `joined(mlig).ds`) | same | same | *unverified* | `749f23f5da3bac82`, `237286874af9dcff` |
-| COACH420 (`coach420.ds`, `coach420(mlig).ds`) | same | same | *unverified* | `4c33519448ae2df7`, `87d6e1724637adfa` |
-| HOLO4K (`holo4k.ds`, `holo4k(mlig).ds`) | same | same | *unverified* | `442a1abb07ee5ff9`, `28730da34f04848b` |
-| FPTRAIN (`fptrain.ds`) | same | same | *unverified* | `af16cd4819b5947c` |
-| **PLINDER** split file | release 2024-06, schema v2 | `https://storage.googleapis.com/plinder/2024-06/v2/splits/split.parquet` | *unverified — see note* | `2959fb4b32f8c5cc` |
+| CHEN11 membership (`chen11.ds`) | p2rank-datasets, master, accessed 2026-09-15 | `https://github.com/rdk/p2rank-datasets` | **No licence declared upstream** — see note | `91caf227eb213f5a` |
+| JOINED (`joined.ds`, `joined(mlig).ds`) | same | same | **No licence declared upstream** | `749f23f5da3bac82`, `237286874af9dcff` |
+| COACH420 (`coach420.ds`, `coach420(mlig).ds`) | same | same | **No licence declared upstream** | `4c33519448ae2df7`, `87d6e1724637adfa` |
+| HOLO4K (`holo4k.ds`, `holo4k(mlig).ds`) | same | same | **No licence declared upstream** | `442a1abb07ee5ff9`, `28730da34f04848b` |
+| FPTRAIN (`fptrain.ds`) | same | same | **No licence declared upstream** | `af16cd4819b5947c` |
+| **PLINDER** split file | release 2024-06, schema v2 | `https://storage.googleapis.com/plinder/2024-06/v2/splits/split.parquet` | Apache-2.0 for PLINDER-curated data, per the upstream README — see note | `2959fb4b32f8c5cc` |
 | **1DUG** coordinates (worked example) | as deposited | `https://files.rcsb.org/download/1DUG.cif` | wwPDB, CC0 1.0 | `c75dbb952653fa91` |
 
-> **Note on "unverified".** The `.ds` membership files and the PLINDER split file were downloaded
-> from the URLs above, but this project did not obtain an authoritative licence statement for
-> either. Rather than assert a licence it cannot verify, or redistribute material whose terms are
-> unclear, the repository excludes the raw files and provides identifiers, sizes and checksums only.
+> **Note on licensing, re-checked 2026-09-16.** Nothing below is redistributed by this repository,
+> and no licence is inferred for material this project does not own.
+>
+> **`rdk/p2rank-datasets` declares no licence.** The repository contains no `LICENSE`, `LICENSE.txt`
+> or `COPYING` file, and the GitHub API reports no detected licence. That absence is a finding, not
+> an omission by this project: it means no redistribution right is granted, so the membership files
+> are referenced by source URL and SHA-256 and are **not** copied here. They are publicly readable
+> and clonable without registration or login, which is what the reproducibility requirement needs.
+>
+> **PLINDER.** The upstream README states that data curated by PLINDER are made available under the
+> Apache License 2.0; that is recorded here as the authoritative statement for the split file. An
+> inconsistency exists upstream which this project neither resolves nor has authority to resolve:
+> the README and badge say Apache-2.0, while `LICENSE.txt` on the default branch is GPL-2.0 and
+> GitHub detects GPL-2.0 for the code. The README statement is the one addressing the *data*; the
+> code licence is a separate question for the upstream project. The split file is served anonymously
+> from a public bucket and needs no account.
+>
 > A reproducer should consult the upstream projects for their current terms before redistributing
 > anything derived from them.
 

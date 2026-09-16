@@ -47,8 +47,12 @@ fi
 
 # ----------------------------------------------------------------- datasets
 echo "== benchmark membership lists =="
+# -c core.autocrlf=false is REQUIRED, not cosmetic. The recorded SHA-256 values are of the
+# upstream bytes, which are LF. With core.autocrlf=true (the Windows default) git checks the
+# .ds files out as CRLF and every checksum below fails, wrongly reporting upstream change.
 [ -d tools/p2rank-datasets ] || \
-  git clone -q --depth 1 https://github.com/rdk/p2rank-datasets tools/p2rank-datasets
+  git -c core.autocrlf=false clone -q --depth 1 \
+    https://github.com/rdk/p2rank-datasets tools/p2rank-datasets
 for f in chen11.ds joined.ds "joined(mlig).ds" coach420.ds "coach420(mlig).ds" \
          holo4k.ds "holo4k(mlig).ds" fptrain.ds; do
   cp "tools/p2rank-datasets/$f" "$MEM/$f"
@@ -82,8 +86,11 @@ for r in csv.DictReader(open("EXCLUDED_THIRD_PARTY.tsv", encoding="utf-8"), deli
     if not ok:
         bad.append(p)
 if bad:
-    print("\nCHECKSUM MISMATCH. The upstream object has changed since this study was run.")
-    print("Do not proceed: the analysis was performed on a different file.")
+    print("\nCHECKSUM MISMATCH.")
+    print("If a .ds file is listed above, check line endings first: the recorded hashes")
+    print("are of the upstream LF bytes; a clone made with core.autocrlf=true yields CRLF.")
+    print("This script clones with core.autocrlf=false to avoid exactly that. Otherwise")
+    print("the upstream object changed and the analysis used a different file.")
 if missing:
     print("\nNot retrieved by this script:")
     for p in missing:
