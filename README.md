@@ -4,6 +4,8 @@ Reproducibility package: analysis code, pre-specified protocol, cohort manifests
 results for a target-disjoint confirmatory study of how crystallization fusion partners affect the
 ranking of predicted ligand-binding sites.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22793220.svg)](https://doi.org/10.5281/zenodo.22793220)
+
 | | |
 |---|---|
 | **Title** | Partner-dependent interference by crystallization fusion partners in ligand-binding-site prediction |
@@ -13,6 +15,8 @@ ranking of predicted ligand-binding sites.
 | **Contact** | roktim2311091058@diu.edu.bd |
 | **Status** | Submission / preprint reproducibility repository. Not yet submitted; no preprint posted |
 | **Scientific freeze** | `v1.1-paper-final-freeze` — all 224 tracked files hash-verified in `environment/FINAL_FREEZE_v1.1.json` |
+| **Archived release** | [`10.5281/zenodo.22793220`](https://doi.org/10.5281/zenodo.22793220) — Zenodo snapshot of `v1.0.0-submission`. **Cite this version DOI.** |
+| **All versions** | [`10.5281/zenodo.22793219`](https://doi.org/10.5281/zenodo.22793219) — concept DOI, always resolves to the newest version |
 | **Licences** | Code MIT; data, tables, figures and documentation CC BY 4.0; third-party resources retain their own terms |
 
 ---
@@ -59,7 +63,7 @@ this public release:
 |---|---|
 | `v1.0-paper-analysis-freeze` | Publication analysis freeze |
 | `v1.1-paper-final-freeze` | Final scientific state, after the last pre-specified sensitivity. `environment/FINAL_FREEZE_v1.1.json` records the SHA-256 of all 224 tracked files at that point |
-| `v1.0.0-submission` | This public release, at commit `9e1fc0b`. Adds packaging, licensing and manuscript files only; changes no scientific result |
+| `v1.0.0-submission` | This public release, at commit `7ce70ea`. Adds packaging, licensing and manuscript files only; changes no scientific result. Archived at Zenodo as [`10.5281/zenodo.22793220`](https://doi.org/10.5281/zenodo.22793220) |
 
 **No scientific result has changed since `v1.1-paper-final-freeze`.** Everything added after it is
 manuscript text, packaging and documentation.
@@ -169,8 +173,29 @@ speed. The analysis and figure steps take minutes.
 
 ## 13. Citation
 
-See `CITATION.cff`. Please also cite the originating depositors' publications for any PDB entry you
-use, and the P2Rank and fpocket method papers if you run those tools.
+Cite the **version DOI**, which resolves to the exact archived state analysed in the manuscript:
+
+> Roktim, Md. Rahul Reza (2026). *Partner-dependent interference by crystallization fusion partners
+> in ligand-binding-site prediction* (v1.0.0-submission) \[Software\]. Zenodo. https://doi.org/10.5281/zenodo.22793220
+
+```bibtex
+@software{roktim_2026_fusion_partner_interference,
+  author    = {Roktim, Md. Rahul Reza},
+  title     = {Partner-dependent interference by crystallization fusion
+               partners in ligand-binding-site prediction},
+  version   = {v1.0.0-submission},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.22793220},
+  url       = {https://doi.org/10.5281/zenodo.22793220}
+}
+```
+
+To cite the project as a whole rather than this snapshot, use the concept DOI [`10.5281/zenodo.22793219`](https://doi.org/10.5281/zenodo.22793219),
+which always resolves to the newest version. Machine-readable metadata is in `CITATION.cff`.
+
+Please also cite the originating depositors' publications for any PDB entry you use, and the
+P2Rank and fpocket method papers if you run those tools.
 
 ## 14. Known deviations
 

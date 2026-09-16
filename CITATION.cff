@@ -14,6 +14,11 @@ authors:
     affiliation: "Department of Pharmacy, Daffodil International University, Dhaka, Bangladesh"
     email: "roktim2311091058@diu.edu.bd"
 repository-code: "https://github.com/RahulRoktim/fusion-partner-pocket-interference"
+doi: "10.5281/zenodo.22793220"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22793219"
+    description: "Concept DOI: always resolves to the newest archived version"
 license: MIT
 keywords:
   - ligand-binding-site prediction
