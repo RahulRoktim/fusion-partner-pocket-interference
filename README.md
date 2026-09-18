@@ -19,6 +19,11 @@ ranking of predicted ligand-binding sites.
 | **All versions** | [`10.5281/zenodo.22793219`](https://doi.org/10.5281/zenodo.22793219) — concept DOI, always resolves to the newest version |
 | **Licences** | Code MIT; data, tables, figures and documentation CC BY 4.0; third-party resources retain their own terms |
 
+> **Current archive note (2026-09-16):** the version archive above is published. The
+> pre-archive plan in `ARCHIVE_STRATEGY.md` is retained as historical provenance and is
+> superseded by this table. Post-release maintenance may improve verification and portability,
+> but it does not rewrite the immutable `v1.0.0-submission` tag or the archived scientific record.
+
 ---
 
 ## 1. Scientific question

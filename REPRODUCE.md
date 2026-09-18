@@ -4,8 +4,10 @@ Written for a third party starting from a fresh clone, with no access to the ori
 Every step names the script that performs it. Where the original run recorded a measured value —
 a version, a hash, a runtime — that value is given so you can confirm you obtained the same thing.
 
-> **Two levels.** §A verifies every number in the manuscript in minutes without installing a
-> detector. §B–§L reproduce the study from PDB identifiers upward. Most readers want §A.
+> **Three routes.** §A verifies the archived/current package without detectors. §B recomputes
+> analyses from committed classified/intermediate results without detector binaries. §C performs
+> full raw reproduction and requires P2Rank, fpocket, prepared structures and third-party inputs.
+> The commands are separated so “detector-free” never silently launches a detector.
 
 ---
 
@@ -15,45 +17,80 @@ a version, a hash, a runtime — that value is given so you can confirm you obta
 |---|---|
 | OS | The analysis scripts are OS-independent (Python 3.11+). **fpocket requires Linux or macOS**; the original study built it under WSL2 Ubuntu 24.04 on Windows 11 |
 | Shell | POSIX shell for the commands below |
-| Network | Required for §B (RCSB, GitHub, Google Storage) |
+| Network | Required for full reproduction §C (RCSB, GitHub, Google Storage) |
 | Disk | ≈ 2.8 GB for a full reproduction |
 | Privileges | None. fpocket is built into a user prefix; no `sudo` is needed |
 
 ---
 
-## A. Verify the reported numbers without running detectors
+## A. Archive and package integrity — no detectors
 
 ```bash
 git clone https://github.com/RahulRoktim/fusion-partner-pocket-interference fusion-tag-hazard
 cd fusion-tag-hazard
+
+python scripts_release/verify_freeze.py --package
+python scripts_release/verify_freeze.py
+python tests/test_no_development_leakage.py
+```
+
+These commands use the Python standard library, read existing files, and launch no detector. The
+first verifies the current checkout against `PACKAGE_MANIFEST.tsv`. The second verifies the frozen
+scientific state; post-release maintenance code is checked against the immutable
+`v1.0.0-submission` tag, while public-facing replacements and non-redistributed third-party inputs
+are reported separately. The leakage check verifies the exploratory/confirmatory cohort boundary.
+
+`tests/test_variant_classifier_equivalence.py` is intentionally **not** in this route. It requires
+the archived raw detector trees. Without them it exits 2 with `UNAVAILABLE`; it can never report
+PASS from empty parser outputs.
+
+---
+
+## B. Recompute from committed classified/intermediate results — no detectors
+
+Use a disposable clone or expect regenerated tracked artifacts to appear in `git diff`. Install the
+analysis-only dependencies, then run only the scripts below:
+
+```bash
 python -m pip install "numpy==2.5.2" "scipy==1.18.1" "statsmodels==0.15.0" \
                       "matplotlib==3.11.1" "gemmi==0.7.5"
 
-python scripts/16_confirmatory_analysis.py     # Aims A–E from the frozen classified pockets
-python scripts/17_confirmatory_mechanism.py    # mechanism classification
+python scripts/16_confirmatory_analysis.py     # Aims A–E from frozen classified pockets
 python scripts/18_replication.py               # development vs confirmatory, never pooled
 python scripts/19_secondary_model.py           # secondary multivariable model
-python scripts/29_canonical_tables.py          # Tables 1, 2, 3, 3b, 4, S1, S2, S3
+python scripts/29_canonical_tables.py          # canonical tables
 python scripts/30_figures_main.py              # main figures
 python scripts/32_figures_supp.py              # supplementary figures
 ```
 
-Then run the test suites:
-
-```bash
-python tests/test_mapping_invariants.py            # residue-mapping invariants
-python tests/test_detector_parsers.py              # detector output parsing
-python tests/test_no_development_leakage.py        # cohort disjointness, target overlap must be 0
-python tests/test_variant_classifier_equivalence.py
-```
-
-All four must pass. Runtime for §A: a few minutes. Storage: ~120 MB.
+None of those six scripts invokes P2Rank or fpocket. This route does **not** include
+`scripts/17_confirmatory_mechanism.py`: that script creates isolated-partner structures and launches
+both detectors when their outputs are absent. It also excludes `tests/test_mapping_invariants.py`,
+`tests/test_detector_parsers.py` and `tests/test_variant_classifier_equivalence.py`, which need
+structures, detector installations or archived raw detector outputs.
 
 ---
 
-## B. Retrieve third-party objects
+## C. Full raw detector reproduction
 
-Nothing in §B is redistributed by this repository. The helper verifies every checksum.
+The remainder of this guide rebuilds from PDB identifiers upward. It requires network retrieval,
+prepared structures, P2Rank 2.5.1, fpocket 4.2.3, Java 17 and approximately 2.8 GB of disk. After
+the detector stages have restored the hash-pinned raw output trees, run:
+
+```bash
+python scripts/17_confirmatory_mechanism.py
+python tests/test_mapping_invariants.py            # residue-mapping invariants
+python tests/test_detector_parsers.py              # detector output parsing
+python tests/test_variant_classifier_equivalence.py
+```
+
+An equivalence PASS requires verified raw trees and a nonzero pocket comparison count.
+
+---
+
+### C1. Retrieve third-party objects
+
+Nothing in §C1 is redistributed by this repository. The helper verifies every checksum.
 
 ```bash
 bash scripts_release/fetch_third_party.sh
@@ -108,7 +145,7 @@ curl -sSL -o /tmp/1DUG.cif https://files.rcsb.org/download/1DUG.cif
 Verify every hash against `EXCLUDED_THIRD_PARTY.tsv`. After this step,
 `environment/FINAL_FREEZE_v1.1.json` verifies completely.
 
-## C. Java and environment
+### C2. Java and environment
 
 ```bash
 export JAVA_HOME=/path/to/temurin-jdk-17     # P2Rank's launcher honours JAVA_HOME and will fail
@@ -117,15 +154,12 @@ java -version                                # with "No such file or directory" 
 export FUSIONTAG_WORK=/abs/path/to/scratch   # working directory for detector runs
 ```
 
-> **Known portability defect.** `scripts/04_run_detectors.py` reads `FUSIONTAG_WORK` from the
-> environment, but `scripts/15_run_confirmatory.py`, `scripts/17_confirmatory_mechanism.py` and
-> `scripts/35_e9_run_new.py` contain a hard-coded Windows scratch path in their `WORK =` assignment
-> (lines 23, 18 and 22 respectively). These scripts are part of the frozen scientific record and
-> have deliberately **not** been edited. To run them elsewhere, change that one assignment in each
-> to a writable local path. Doing so changes no scientific behaviour: `WORK` is a scratch directory
-> for detector output only, and every output is hash-recorded.
+`FUSIONTAG_WORK` is optional. If unset, detector scripts use the platform temporary directory under
+`fusiontag_hazard/`; if set, it is expanded and resolved to an absolute path. The confirmatory,
+mechanism and E9 scripts create separate subdirectories beneath it. This changes only scratch-file
+placement, never scientific parameters, prepared inputs or hash-recorded outputs.
 
-## D. Cohort construction
+### C3. Cohort construction
 
 ```bash
 python scripts/01_build_pool.py          # RCSB/SIFTS enumeration + eligibility (E1-E9)
@@ -139,7 +173,7 @@ queries RCSB live; because SIFTS is re-released weekly and PDB entries can be su
 run is not guaranteed to reproduce the archived manifests byte for byte**. The archived manifests
 are the authoritative cohort record; treat any divergence as an upstream change, not an error.
 
-## E. Structure preparation
+### C4. Structure preparation
 
 ```bash
 python scripts/03_prepare_structures.py       # development cohort
@@ -150,7 +184,7 @@ Single designated chimeric chain, first model, altloc A, all non-polymer entitie
 terminal tag remnants deleted from both arms. The fusion-removed counterpart deletes fusion and
 linker residues and nothing else; no target atom coordinate changes.
 
-## F. Detector execution
+### C5. Detector execution
 
 ```bash
 python scripts/04_run_detectors.py                       # development cohort
@@ -164,7 +198,7 @@ the original hardware: 21.0 min for P2Rank and 4.0 min for fpocket, single-threa
 records its command, versions, input and output SHA-256, stdout/stderr, return code and runtime to
 `results/confirmatory/<variant>/detector_runs.json`. Compare against `results/RAW_OUTPUT_HASHES.tsv`.
 
-## G. Pocket classification
+### C6. Pocket classification
 
 ```bash
 python scripts/05_classify_pockets.py
@@ -174,7 +208,7 @@ python scripts/21_classify_assembly1.py       # chain-aware classifier for the a
 Dominance 0.70 primary (0.50 and 0.90 as sensitivities); interface floor 0.20;
 *fusion-associated* = fusion-dominated ∨ interface ∨ linker.
 
-## H. Correspondence and endpoints
+### C7. Correspondence and endpoints
 
 ```bash
 python scripts/08_pocket_correspondence.py
@@ -187,7 +221,7 @@ target-residue heavy-atom centroid distance; one-to-one assignment by `scipy.opt
 linear_sum_assignment` maximising total Jaccard; matched at Jaccard ≥ 0.40 **and** centroid
 distance ≤ 8.0 Å. Detector rank and score are never inputs to the matching.
 
-## I. Sensitivity analyses
+### C8. Sensitivity analyses
 
 Executed by `scripts/16_confirmatory_analysis.py` and, for the disorder axis,
 `scripts/34_e9_sensitivity_cohort.py` → `35_e9_run_new.py` → `36_e9_compare.py`.
@@ -211,7 +245,7 @@ Executed by `scripts/16_confirmatory_analysis.py` and, for the disorder axis,
 > `POST_FREEZE_DEVIATIONS.md` PF1. If you implement it yourself, please report it as your own
 > post-hoc analysis, not as this study's pre-specified sensitivity.
 
-## J. Dataset provenance audit
+### C9. Dataset provenance audit
 
 ```bash
 python scripts/23_dataset_membership.py
@@ -222,14 +256,14 @@ python scripts/27_benchmark_impact.py
 python scripts/28_publication_denominators.py     # asserts 11 prose denominators; must print 11/11
 ```
 
-Requires the third-party membership files from §B.
+Requires the third-party membership files from §C1.
 
-## K. Figures and tables
+### C10. Figures and tables
 
 ```bash
 python scripts/29_canonical_tables.py
 python scripts/30_figures_main.py
-python scripts/31_figure5_structural.py     # needs the structure cache from §D-E
+python scripts/31_figure5_structural.py     # needs the structure cache from §C3-C4
 python scripts/32_figures_supp.py
 python scripts/33_claims_ledger.py
 ```
@@ -237,7 +271,7 @@ python scripts/33_claims_ledger.py
 `figures/FIG5_pymol.pml` reproduces the four structural cases in PyMOL at publication quality;
 substituting those renderings changes presentation only.
 
-## L. Verify the freeze
+### C11. Verify the freeze
 
 ```bash
 python - <<'EOF'
@@ -249,7 +283,7 @@ print("files:", sum(len(g) for g in m["sha256"].values()), "mismatches:", bad or
 EOF
 ```
 
-Expect 224 files and no mismatches once §B has restored the third-party objects. Each text file also
+Expect 224 files and no mismatches once §C1 has restored the third-party objects. Each text file also
 carries `sha256_lf`, a line-ending-normalised hash that verifies identically on Linux, macOS and
 Windows; prefer it for cross-platform checks.
 

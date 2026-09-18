@@ -12,16 +12,17 @@ Emits artifacts in exactly the layout the frozen analysis script expects, so
   results/confirmatory/e9_035/detector_runs.json
   results/confirmatory/e9_035/pockets_classified.json / .tsv
 """
-import collections, hashlib, importlib.util, json, math, os, shutil, subprocess, sys, time
+import collections, hashlib, importlib.util, json, math, os, shutil, subprocess, sys, tempfile, time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANI = os.path.join(ROOT, "data_manifest")
 PRIM = os.path.join(ROOT, "results", "confirmatory", "primary")
 OUT = os.path.join(ROOT, "results", "confirmatory", "e9_035")
 PREPDIR = os.path.join(ROOT, "prepared_confirmatory", "e9_035")
-WORK = os.path.join(r"C:\Users\user\AppData\Local\Temp\claude"
-                    r"\C--AI-PROJECTS-Softwares-Fusion-Tag-Hazard"
-                    r"\5c4a9bb4-b9dd-40f9-b5cc-b8b58139430b\scratchpad", "e9_035")
+WORK_ROOT = os.path.abspath(os.path.expanduser(
+    os.environ.get("FUSIONTAG_WORK") or os.path.join(tempfile.gettempdir(), "fusiontag_hazard")
+))
+WORK = os.path.join(WORK_ROOT, "e9_035")
 for d in (OUT, PREPDIR, WORK):
     os.makedirs(d, exist_ok=True)
 

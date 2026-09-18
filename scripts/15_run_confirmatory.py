@@ -13,16 +13,17 @@ FUSIONTAG_VARIANT: "primary" (default), "assembly1", "ions".
 
 Outputs under results/confirmatory/<variant>/.
 """
-import collections, hashlib, importlib.util, json, os, shutil, subprocess, sys, time
+import collections, hashlib, importlib.util, json, os, shutil, subprocess, sys, tempfile, time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANI = os.path.join(ROOT, "data_manifest")
 VARIANT = os.environ.get("FUSIONTAG_VARIANT", "primary")
 OUTDIR = os.path.join(ROOT, "results", "confirmatory", VARIANT)
 PREPDIR = os.path.join(ROOT, "prepared_confirmatory", VARIANT)
-WORK = os.path.join(r"C:\Users\user\AppData\Local\Temp\claude"
-                    r"\C--AI-PROJECTS-Softwares-Fusion-Tag-Hazard"
-                    r"\5c4a9bb4-b9dd-40f9-b5cc-b8b58139430b\scratchpad", "conf_" + VARIANT)
+WORK_ROOT = os.path.abspath(os.path.expanduser(
+    os.environ.get("FUSIONTAG_WORK") or os.path.join(tempfile.gettempdir(), "fusiontag_hazard")
+))
+WORK = os.path.join(WORK_ROOT, "confirmatory_" + VARIANT)
 for d in (OUTDIR, PREPDIR, WORK):
     os.makedirs(d, exist_ok=True)
 

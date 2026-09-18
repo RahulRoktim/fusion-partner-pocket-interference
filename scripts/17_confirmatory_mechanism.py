@@ -8,17 +8,17 @@ States:  MATCHED_INTRINSIC_CAVITY | NO_MATCHING_CAVITY | DETECTOR_NO_PREDICTIONS
 Classes: FUSION_INTRINSIC_CAVITY | CHIMERA_SPECIFIC_FUSION_CAVITY | TARGET_FUSION_INTERFACE |
          LINKER_RELATED | MAPPING_ARTIFACT | UNDETERMINED_<state>
 """
-import collections, importlib.util, json, math, os, shutil, subprocess, sys
+import collections, importlib.util, json, math, os, shutil, subprocess, sys, tempfile
 import gemmi
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANI = os.path.join(ROOT, "data_manifest")
 VARIANT = os.environ.get("FUSIONTAG_VARIANT", "primary")
 RES = os.path.join(ROOT, "results", "confirmatory", VARIANT)
-WORK = os.path.join(r"C:\Users\user\AppData\Local\Temp\claude"
-                    r"\C--AI-PROJECTS-Softwares-Fusion-Tag-Hazard"
-                    r"\5c4a9bb4-b9dd-40f9-b5cc-b8b58139430b\scratchpad",
-                    "conf_mech_" + VARIANT)
+WORK_ROOT = os.path.abspath(os.path.expanduser(
+    os.environ.get("FUSIONTAG_WORK") or os.path.join(tempfile.gettempdir(), "fusiontag_hazard")
+))
+WORK = os.path.join(WORK_ROOT, "confirmatory_mechanism_" + VARIANT)
 os.makedirs(WORK, exist_ok=True)
 
 JACCARD_MIN = 0.40
