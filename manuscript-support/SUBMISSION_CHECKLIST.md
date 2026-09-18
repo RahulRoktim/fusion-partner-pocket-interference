@@ -1,10 +1,27 @@
-# Submission checklist — Journal of Cheminformatics (provisional first target)
+# Submission checklist — Journal of Cheminformatics
+
+> ## STATUS: SUBMITTED — 2026-09-17
+>
+> The manuscript was submitted to *Journal of Cheminformatics* (Springer Nature /
+> BMC) as a Research article on **17 September 2026** and was in technical check
+> at the time of writing. Peer review is single anonymous. The submission
+> identifier and portal tracking link are deliberately not published here.
+>
+> The archived artefact cited in the manuscript's data availability statement is
+> the Zenodo **version** DOI [`10.5281/zenodo.22793220`](https://doi.org/10.5281/zenodo.22793220),
+> published 2026-09-16 from tag `v1.0.0-submission`. The concept DOI
+> `10.5281/zenodo.22793219` is deliberately not cited in the manuscript.
+>
+> **This checklist below is a pre-submission artefact and is retained as a
+> record of preparation, not as a statement of current status.** Where it reads
+> as though submission is still pending, that describes the state when it was
+> written. It has not been rewritten, because editing a preparation record after
+> the fact would destroy its value as provenance.
 
 Prepared during Phase 8 (editorial and consistency QA). Requirements were read from the journal's
 public submission guidance in September 2026 and are separated from recommendations, as instructed.
-**Nothing has been submitted.**
 
-> **READINESS: READY FOR AUTHOR METADATA + SUBMISSION PACKAGE.**
+> **READINESS AT TIME OF WRITING: READY FOR AUTHOR METADATA + SUBMISSION PACKAGE.**
 > **Declared protocol deviation:** one incompletely specified, unexecuted correspondence sensitivity (`POST_FREEZE_DEVIATIONS.md` PF1). Scientific analysis is CLOSED; the remaining items below are author metadata and packaging, not science.
 
 Sources: [Submission guidelines](https://jcheminf.biomedcentral.com/submission-guidelines) · [Research article guidance](https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/research) · [BMC submission guidelines PDF](https://cibb2023.dei.unipd.it/submission/BMC/authors/BMC_submission_guidelines.pdf)

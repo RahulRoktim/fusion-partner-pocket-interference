@@ -1,6 +1,21 @@
 # Release, archive and preprint strategy
 
-**Status: Step 1 is complete. Steps 2-4 are not.** The public repository exists and is tagged; no
+> ## SUPERSEDED — current status, verified 2026-09-18
+>
+> | Step | State |
+> |---|---|
+> | 1. Public repository and tag | **Done** — tagged `v1.0.0-submission` |
+> | 2. GitHub Release | **Done** — release `v1.0.0-submission` published |
+> | 3. Zenodo archive | **Done** — version DOI [`10.5281/zenodo.22793220`](https://doi.org/10.5281/zenodo.22793220) published 2026-09-16; concept DOI `10.5281/zenodo.22793219` |
+> | 4a. Journal submission | **Done** — submitted to *Journal of Cheminformatics* 2026-09-17, in technical check |
+> | 4b. Preprint | **Not posted, by decision.** The Research Square *In Review* option was explicitly declined at submission; the preprint decision remains deferred |
+>
+> The status paragraph below described the state before steps 2–4a were carried
+> out. It is corrected here rather than deleted, because a reader who took it at
+> face value would conclude no archive and no DOI exist — which is how this
+> document has in fact already been misread.
+
+**Status when written: Step 1 is complete. Steps 2-4 are not.** The public repository exists and is tagged; no
 GitHub Release has been published, nothing has been archived, no preprint has been posted and nothing
 has been submitted. Each remaining step below is a separate decision for the author, and the order
 matters because the identifiers created at each step are referenced by the next.
